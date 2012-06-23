@@ -1,146 +1,146 @@
-むかいとう
-ブラック２
-ホワイト２
-おとこ
-おんな
-たいせん
-こうかん
-とかい
-いなか
+Sin respuesta
+Negro 2
+Blanco 2
+Hombre
+Mujer
+Batalla
+Intercambio
+La ciudad
+El pueblo
 あたまがいい
-うんどうできる
-じかん
-おかね
+Altético
+Tiempo
+Dinero
 がいけん
 なかみ
-かっこいい
-かわいい
-へんな
-ポカブ
-ミジュマル
-ツタージャ
-きょうそう
-きょうりょく
-ー
+Guay
+Bello
+Extraño
+Tepig
+Oshawott
+Snivy
+La playa
+Un río
+Las montañas
 かこにいく
 みらいにいく
-ひつようない
-かぞく
-ともだち
+Almuerzo
+Familia
+Amigos
 じぶん
-かっこいいひと
-かしこいひと
-おもしろいひと
-ふしぎなひと
-ゆめをおう
+Primavera
+Verano
+Otoño
+Invierno
+Dulce
 げんじつをみる
 ー
 ー
-おもしろい
-かっこいい
-やさしい
-おかねもち
-たたかい
-あつめる
-おはなし
-ポケモン
-そらをとぶ
-とうめいになる
-じかんをとめる
-こころをよむ
-つかう
-ためる
-じまんする
-きふする
-０ー５ねん
-５ー１０ねん
-１０ー１５ねん
-１５ねんー
-そとであそぶ
-かいもの
-どくしょ
-ゲーム
-ねてる
-ポップス
-ロック
-ジャズ
-ラップ
-クラシック
-ニュース
-ドラマ
-おわらい
-スポーツ
-アニメ
-アクション
-SF
-れんあい
-サスペンス
-コメディ
-ホラー
-アクション
-パズル
-ＲＰＧ
-アドベンチャー
-シミュレーション
-スポーツ
-しごと
-ひとづきあい
-しゅみ
-けんこう
-えらくなる
-ー
-うんどう
-どくしょ
-おんがく
-えいが
-りょこう
-りょうり
-つり
-ゲーム
-がくせい
-サラリーマン
-クリエーター
-じえいぎょう
-こうむいん
-しゅふ
-げいじゅつか
-フリーター
-チェレン
-ホミカ
-アーティ
-カミツレ
-ヤーコン
-フウロ
-シャガ
-シズイ
+Divertido
+Guay
+Amable
+Rico
+Batallas
+Coleccionar
+La historia
+Pokémon
+Inglés
+Matemáticas
+Ciencias
+Estudios sociales
 ー
 ー
 ー
-ノーマル
-ほのお
-みず
-でんき
-くさ
-こおり
-かくとう
-どく
-じめん
-ひこう
-エスパー
-むし
-いわ
-ゴースト
-ドラゴン
-あく
-はがね
-０ー１０じかん
-１０ー２０じかん
-２０ー３０じかん
-３０ー４０じかん
-４０ー５０じかん
-５０ー６０じかん
-６０ー７０じかん
-７０ー８０じかん
-８０ー９０じかん
-９０ー１００じかん
-１００じかんー
+ー
+ー
+ー
+ー
+ー
+Jugar fuera
+Comprar
+Leer
+Videojuegos
+Dormir tarde
+Pop
+Rock
+Jazz
+Rap
+Clásica
+Noticias
+Drama
+Comedia
+Deportes
+Dibujos animados
+Acción
+Ciencia Ficción
+Romance
+Suspense
+Comedia
+Horror
+Beisbol
+Fútbol
+Baloncesto
+Rugby
+Hockey
+Artes marciales
+Rojo
+Verde
+Azul
+Amarillo
+Blanco
+Negro
+Ejercicio
+Leer
+Música
+Películas
+Viajar
+Cocinar
+Pescar
+Videojuegos
+Estudiante
+Oficinista
+Creador
+Trabajador por cuenta propia
+Funcionario
+Ama de casa
+Artista
+ー
+Zeo
+Millo
+Maíz
+Aloe
+Camus
+Camila
+Yakón
+Gerania
+Junco
+Iris
+Lirio
+Normal
+Fuego
+Agua
+Electrico
+Planta
+Hielo
+Lucha
+Veneno
+Tierra
+Volador
+Psiquico
+Bicho
+Roca
+Fantasma
+Dragón
+Siniestro
+Acero
+0-10 horas
+10-20 horas
+20-30 horas
+30-40 horas
+40-50 horas
+50-60 horas
+60-70 horas
+70-80 horas
+80-90 horas
+90-100 horas
++ 100 horas
