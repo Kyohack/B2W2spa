@@ -1,12 +1,12 @@
-ＨＰ／ＰＰ
-かいふく
-じょうたい
-かいふく
-ＨＰ／ＰＰ
-かいふく
-せんとうよう
-ボール
-さいごにつかったどうぐ
+HP/PP
+Restaurar
+Estado
+Curar
+HP/PP
+Restaurar
+Items de batalla
+Pokeballs
+Último item usado
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
@@ -19,17 +19,17 @@
 ×\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-つぎへ
-ＨＰ／ＰＰ
-かいふく
-じょうたい
-かいふく
-ボール
-せんとうよう
+Siguiente
+HP/PP
+Restaurar
+Estado
+Curar
+Pokéballs
+Ítems de batalla
 ／
 \xf000Ȁ\x0001\x0000
 \xf000Ȁ\x0001\x0000
-つかう
+Usar
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 つかっても　こうかが　ないよ
