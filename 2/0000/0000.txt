@@ -7,12 +7,12 @@ Batalla
 Intercambio
 La ciudad
 El pueblo
-あたまがいい
-Altético
+Astuto
+Atlético
 Tiempo
 Dinero
-がいけん
-なかみ
+Apariencia
+Sustancia
 Guay
 Bello
 Extraño
@@ -22,20 +22,20 @@ Snivy
 La playa
 Un río
 Las montañas
-かこにいく
-みらいにいく
+Clases
+Descanso
 Almuerzo
 Familia
 Amigos
-じぶん
+Uno mismo
 Primavera
 Verano
 Otoño
 Invierno
 Dulce
-げんじつをみる
-ー
-ー
+Picante
+Ácido
+Amargo
 Divertido
 Guay
 Amable
@@ -48,14 +48,14 @@ Inglés
 Matemáticas
 Ciencias
 Estudios sociales
-ー
-ー
-ー
-ー
-ー
-ー
-ー
-ー
+Inglés
+Matemáticas
+Ciencias
+Estudios Sociales
+Entrenador
+Profesor
+Equipo Plasma
+Pokémon
 Jugar fuera
 Comprar
 Leer
