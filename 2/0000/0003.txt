@@ -1,12 +1,12 @@
-いまの　しょうぶを\xfffeバトルビデオに　きろく　しますか？
-はい
-いいえ
-いまの　しょうぶの　きろくは\xfffeのこりませんが　よろしいですか？
-はい
-いいえ
+¿Te gutaría guardar la última batalla\xfffeen tu Cámara lucha？
+Sí
+No
+La última lucha no será guardada\xfffe¿Vale？
+Sí
+No
 ぜんかいの　バトルビデオを　けして\xfffeうわがき　しても　よろしいですか？
-はい
-いいえ
+Sí
+No
 バトルビデオに　きろくちゅう　です！\xfffeでんげんを　きらないでください
 たたかいが　きろく　されました！
 ふぐあいにより\xfffeきろく　できませんでした
