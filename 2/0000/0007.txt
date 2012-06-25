@@ -1,20 +1,20 @@
-バトルたいかい　へ\xfffeようこそ！
-バトルたいかいには\xfffeＷｉ－Ｆｉコネクションで\xf000븀\x0000\xfffeおこなわれる　Ｗｉ－Ｆｉたいかいと\xf000븁\x0000\xfffeイベントかいじょうで　おこなわれる\xfffeライブたいかいが　あります\xf000븁\x0000\xfffeさんかする　ポケモンは\xfffeバトルボックスに　とうろく　している\xf000븀\x0000\xfffeポケモンです\xf000븁\x0000\xfffeいちど　たいかいに　とうろく　すると\xfffeたいかい　さんかちゅうは\xf000븀\x0000\xfffeバトルボックスを\xf000븀\x0000\xfffeへんこう　できなくなるので\xf000븀\x0000\xfffeちゅうい　してください\xf000븁\x0000\xfffeたいかいに　さんかすると\xfffeデジタルせんしゅしょう　に\xf000븀\x0000\xfffeデータが　とうろく　されるので\xf000븀\x0000\xfffeかくにん　してみてください\xf000븁\x0000
-Ｗｉ－Ｆｉたいかい　へ
-ライブたいかい　へ
-デジタルせんしゅしょうを　みる
+¡Bienvenidos a\xfffeConcurso Batalla!
+Hay dos tipos de Concurso Batalla.\xfffeUn es el Concurso Wi-Fi, que es llevado\xf000븀\x0000\xfffea cabo a través de Nintendo Wi-Fi Conexión,\xf000븁\x0000\xfffey el otro es el Concurso Vivo, que es\xfffellevado a cabo a cierto eventos.\xf000븁\x0000\xfffeSolo Pokémon registrado en tu\xfffeCaja de Batalla pueden participar.\xf000븀\x0000\xfffeUna vez registrado, no puedes poner\xf000븁\x0000\xfffeo quitar tus Pokémon de tu\xfffeCaja de Batalla.\xf000븀\x0000\xfffeCuando participas en un concurso,\xf000븀\x0000\xfffetu Digital Player ID será actualizado.\xf000븀\x0000\xfffePor favor inspeccionalo.\xf000븁\x0000
+Ir al Concurso Wi-Fi
+Ir al Concurso Vivo
+Inspecciona tu Digital Player ID
 せつめいを　きく
 やめる
-さんかする
-Ｗｉ－Ｆｉたいかいは\xfffeおてもとの　パソコンで\xf000븀\x0000\xfffeポケモングローバルリンクの\xf000븀\x0000\xfffeホームページに　アクセスし\xf000븁\x0000\xfffeとうろく　することで\xfffeたいかいに　さんか　できます\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xf000븁\x0000\xfffeたいかいのルールや　かいさいきかんは\xfffeポケモングローバルリンク\xf000븀\x0000\xfffeホームページで　かくにんしてください\xf000븁\x0000\xfffeまた　Ｗｉ－Ｆｉたいかいや\xfffeランダムマッチの　さんかちゅうに\xf000븁\x0000\xfffeほんたいの　でんげんが　きれると\xfffe１じかん　たいかいや\xf000븀\x0000\xfffeランダムマッチで　たいせんが\xf000븀\x0000\xfffeできなくなります\xf000븀\x0000\xfffeごちゅうい　ください\xf000븁\x0000
-Ｗｉ－Ｆｉたいかいに\xfffeさんか　しますか？
-たいかいへ　さんかするのを\xfffeやめますか？
-はい
-いいえ
+Participa
+Para participar en el Concurso Wi-Fi\xfffenecesitarás entrar al pagína web\xf000븀\x0000\xfffedel Pokémon Global Link para registrar.\xf000븀\x0000\xfffehttp://es.pokemon-gl.com/\xf000븁\x0000\xfffePor favor inspecciona la pagína web de\xfffePokémon Global Link para las reglas del concurso,\xf000븁\x0000\xfffesu duración, y otra información.\xf000븁\x0000
+¿Participarás en el Concurso Wi-Fi?
+¿Quieres abandonar el Concurso Wi-Fi?
+Sí
+No
 さんかを　かいじょする
-ライブたいかいに\xfffeさんか　しますか？
-ライブたいかいの\xfffeかいさいじょうほうに　ついては\xf000븀\x0000\xfffeポケットモンスターオフィシャルサイトで\xf000븀\x0000\xfffeかくにん　することが　できます\xf000븁\x0000\xfffehttp://www.pokemon.co.jp/\xf000븁\x0000\xfffeたいかいのルールや　かいさいきかんは\xfffeポケットモンスターオフィシャルサイト\xf000븀\x0000\xfffeホームページで　かくにんしてください\xf000븁\x0000
+¿Participarás en el Concurso Vivo?
+Puedes verificar la información\xfffesobre el Concurso Vivo en la\xf000븀\x0000\xfffepagína web oficial de Pokémon:\xf000븀\x0000\xfffehttp://www.pokemon.com/es/\xf000븁\x0000\xfffePor favor inspecciona la pagína web\xf000븁\x0000\xfffeoficial de Pokémon para las reglas del\xfffeconcurso, su duración, y otra información.\xf000븀\x0000
 Ｗｉ－Ｆｉたいかい　または\xfffeランダムマッチの　さんかちゅうに\xf000븀\x0000\xfffeほんたいの　でんげんが　きれたため\xf000븁\x0000\xfffe１じかん\xfffeたいかいや　ランダムマッチで\xf000븀\x0000\xfffeたいせんが　できなくなります\xf000븁\x0000\xfffeじかんが　たちましたら\xfffeおこしください\xf000븁\x0000
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
+¡Guardando los datos!\xfffe¡No apagues la consola!
 たいせんの　せいかを　たたえて\xfffeバトルポイントを　しんてい　いたします\xf000븁\x0000
 \xf000Ā\x0001\x0000は　バトルポイントを\xfffe\xf000ȁ\x0001\x0001ＢＰ　てにいれた！\xf000븁\x0000
