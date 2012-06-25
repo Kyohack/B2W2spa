@@ -7,12 +7,12 @@ Batalla
 Intercambio
 La ciudad
 El pueblo
-あたまがいい
+Inteligente
 Altético
 Tiempo
 Dinero
-がいけん
-なかみ
+Apariencia
+Contenido
 Guay
 Bello
 Extraño
@@ -22,8 +22,8 @@ Snivy
 La playa
 Un río
 Las montañas
-かこにいく
-みらいにいく
+Clases
+Romper
 Almuerzo
 Familia
 Amigos
