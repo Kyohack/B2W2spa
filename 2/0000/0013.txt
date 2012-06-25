@@ -4,95 +4,95 @@
 せいかく
 とくせい
 \xf000ċ\x0001\x0000
-ボックス１
-ボックス２
-ボックス３
-ボックス４
-ボックス５
-ボックス６
-ボックス７
-ボックス８
-ボックス９
-ボックス１０
-ボックス１１
-ボックス１２
-ボックス１３
-ボックス１４
-ボックス１５
-ボックス１６
-ボックス１７
-ボックス１８
-ボックス１９
-ボックス２０
-ボックス２１
-ボックス２２
-ボックス２３
-ボックス２４
+CAJA 1
+CAJA 2
+CAJA 3
+CAJA 4
+CAJA 5
+CAJA 6
+CAJA 7
+CAJA 8
+CAJA 9
+CAJA 10
+CAJA 11
+CAJA 12
+CAJA 13
+CAJA 14
+CAJA 15
+CAJA 16
+CAJA 17
+CAJA 18
+CAJA 19
+CAJA 20
+CAJA 21
+CAJA 22
+CAJA 23
+CAJA 24
 \xf000ȁ\x0001\x0000
-ジャンプする
-かべがみ
-なまえ
-やめる
-ふうけい１
-ふうけい２
-ふうけい３
-エトセトラ
+IR A OTRA CAJA
+FONDO
+NOMBRE
+SALIR
+PAISAJE 1
+PAISAJE 2
+PAISAJE 3
+MISCELÁNEA
 だいすき１
 だいすき２
-もり
-シティ
-さばく
-サバンナ
-いわやま
-かざん
-ゆきやま
-どうくつ
-うみべ
-かいてい
-かわ
-そら
-ポケセン
-きんぞく
-チェック
-シンプル
-スペシャル
-モノクロ
-プラズマだん
+BOSQUE
+CIUDAD
+DESIERTO
+SABANA
+MONTAÑA
+VOLCÁN
+NIEVE
+CUEVA
+PLAYA
+MAR
+RÍO
+CIELO
+CENTRO PKMN.
+MÁQUINA
+CUADROS
+SINCILLO
+ESPECIAL
+MONOCROMO
+EQUIPO PLASMA
 ポケウッド
-ＰＷＴ
-キュレム１
-キュレム２
-レシラム
-ゼクロム
-もどる
-まえへ
-つぎへ
-てもちポケモン
+PWT
+KYUREM 1
+KYUREM 2
+RESHIRAM
+ZEKROM
+ATRÁS
+ANTERIOR
+PRÓXIMO
+EQUIPO
 ボックスリスト
-バトルボックス
+CAJA DE COMBATE
 ボックスをきりかえる
 もちものせいり
-ようすをみる
-もちもの
-マーキング
-にがす
-つれていく
+DATOS
+OBJETO
+MARCAR
+LIBERAR
+SACAR
 あずける
-やめる
-いどうする
-いどうする
+SALIR
+MOVER
+MOVER
 ねかせる
-けってい
-やめる
+CONFIRMAR
+SALIR
 いれかえ
-やめる
-やめる
+SALIR
+SALIR
 ボックスを\xfffeきりかえる
 かべがみを\xfffeはりかえる
 ポケモンを\xfffeあずける
-バッグへ
-もたせる
-いどうする
+Bolsa
+Dar
+Mover
 ♂
 ♀
 \xf000Ć\x0001\x0000
@@ -103,13 +103,13 @@
 もちもの
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
-なし
-？？？
-Ｌｖ．
-Ｎｏ．
-もっているわざ
-はい
-いいえ
+None
+???
+Nv.
+No.
+Movimientos aprendidos
+Sí
+No
 ボックスを　せいりする
 バトルボックス
 ポケモンを　しぼりこむ
@@ -153,7 +153,7 @@
 \xf000봂\x0000せいべつ
 \xf000봂\x0000もちもの
 \xf000봂\x0000マーク
-ア
+a
 イ
 ウ
 エ
@@ -200,6 +200,6 @@
 ー
 ♂
 ♀
-せいべつなし
-もっている
-もっていない
+Naturaleza
+Habilidad
+Objeto
