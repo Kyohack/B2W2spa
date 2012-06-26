@@ -7,9 +7,9 @@ Digite la primera letra del nombre
 Digite el Tipo
 Digite la forma
 Digite el color
-¡Pokémon localizado！
-No se encontró el Pokémon……
-Buscando……
+¡Pokémon localizado!
+No se encontró el Pokémon...
+Buscando...
 ORDEN
 NOMBRE
 TIPO
@@ -75,24 +75,24 @@ W
 X
 Y
 Z
-ヒ
-フ
-ヘ
-ホ
-マ.
-ミ
-ム
-メ
-モ
-ヤ.
-ユ
-ヨ
-ラ.
-リ
-ル
-レ
-ロ
-ワ.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ―
 Rojo
 Azul
