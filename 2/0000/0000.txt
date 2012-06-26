@@ -1,64 +1,64 @@
 Sin respuesta
 Negro 2
 Blanco 2
-Hombre
-Mujer
+Chico
+Chica
 Batalla
 Intercambio
-La ciudad
-El pueblo
+La Ciudad
+El País
 Inteligente
 Altético
 Tiempo
 Dinero
 Apariencia
-Contenido
+Sustancia
 Guay
 Bello
 Extraño
 Tepig
 Oshawott
 Snivy
-La playa
-Un río
-Las montañas
+La Playa
+Un Río
+Las Montañas
 Clases
-Romper
+Recreos
 Almuerzo
 Familia
 Amigos
-じぶん
+Sí mismo
 Primavera
 Verano
 Otoño
 Invierno
 Dulce
-げんじつをみる
-ー
-ー
+Picante
+Ácido
+Amargo
 Divertido
 Guay
 Amable
 Rico
 Batallas
-Coleccionar
-La historia
+Juntando
+La Historia
 Pokémon
-Inglés
+Español
 Matemáticas
 Ciencias
 Estudios sociales
-ー
-ー
-ー
-ー
-ー
-ー
-ー
-ー
+Español
+Matemáticas
+Ciencias
+Estudios sociales
+Entrenador
+Catedrático
+Equipo Plasma
+Pokémon
 Jugar fuera
-Comprar
-Leer
+Ir de compras
+Leyendo
 Videojuegos
 Dormir tarde
 Pop
@@ -70,19 +70,19 @@ Noticias
 Drama
 Comedia
 Deportes
-Dibujos animados
+Dibujos Animados
 Acción
 Ciencia Ficción
 Romance
 Suspense
 Comedia
-Horror
+De Terror
 Beisbol
 Fútbol
 Baloncesto
-Rugby
+Fútbol Americano
 Hockey
-Artes marciales
+Artes Marciales
 Rojo
 Verde
 Azul
@@ -133,14 +133,14 @@ Fantasma
 Dragón
 Siniestro
 Acero
-0-10 horas
-10-20 horas
-20-30 horas
-30-40 horas
-40-50 horas
-50-60 horas
-60-70 horas
-70-80 horas
-80-90 horas
-90-100 horas
-+ 100 horas
+0-10 Horas
+10-20 Horas
+20-30 Horas
+30-40 Horas
+40-50 Horas
+50-60 Horas
+60-70 Horas
+70-80 Horas
+80-90 Horas
+90-100 Horas
++ 100 Horas
