@@ -1,12 +1,12 @@
 ▲
-ずかん
-ポケモン
-バッグ
-じぶん
-レポート
-せってい
+POKÉDEX
+POKÉMON
+BOLSA
+JUGADOR
+GUARDAR
+OPCIONES
 　
-チャット
+CHARLAR
 　
 リタイア
 ずかんを　せんたくしました
