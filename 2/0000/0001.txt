@@ -1,12 +1,12 @@
-HP/PP
+PS/PP
 Restaurar
-Estado
-Curar
-HP/PP
+Datos
+Botiquín
+PS/PP
 Restaurar
-Items de batalla
-Pokeballs
-Último item usado
+Objetos de Batalla
+Pokéballs
+Último objeto usado
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
@@ -20,34 +20,34 @@ Pokeballs
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 Siguiente
-HP/PP
+PS/PP
 Restaurar
-Estado
-Curar
+Datos
+Curanderos
 Pokéballs
-Ítems de batalla
+Objetos de Batalla
 ／
 \xf000Ȁ\x0001\x0000
 \xf000Ȁ\x0001\x0000
 Usar
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-つかっても　こうかが　ないよ
-しろいきりに　つつまれた！\xfffe
-\xf000Ă\x0001\x0000は\xfffeはりきっている
-\xf000Ă\x0001\x0000の\xfffeこうげきが　あがった！
-\xf000Ă\x0001\x0000の\xfffeとくこうが　あがった！
-\xf000Ă\x0001\x0000の\xfffeすばやさが　あがった！
-\xf000Ă\x0001\x0000の\xfffeとくぼうが　あがった！
-\xf000Ă\x0001\x0000の\xfffeぼうぎょが　あがった！
-\xf000Ă\x0001\x0000の\xfffeめいちゅうりつが　あがった！
-\xf000ĉ\x0001\x0000を\xfffeつかった！
-だめだ！　２ひきいて\xfffeねらいが　さだまらない……！
-ボックスが　いっぱいです！
-\xf000ć\x0001\x0001の　こうかで\xfffe\xf000Ă\x0001\x0000には　つかえません！
-だめだ！　ポケモンが　みえなくて\xfffeねらいが　さだまらない……！
-だめだ！　ポケモンが　みえなくて\xfffeねらいが　さだまらない……！
-エネルギーが　たりません
-アララギの　ことば……\xfffeこういう　ものには\xf000븀\x0000\xfffeつかいどきが　あるのよ
-しゅうちゅう　しないと\xfffeボールは　じょうずに　なげられない！
-ゲーチスの　つくった　そうちのせいで\xfffeボールは　つかえない！！
+¡No servirá de nada con eso!
+¡Está envolvido en niebla blanca! \xfffe
+\xf000Ă\x0001\x0000 \xfffeestá quedandose Mentalizado!
+El Ataque de \xf000Ă\x0001\x0000 \xfffesubió!
+El Ataque Especial de \xfffe\xf000Ă\x0001\x0000 subió!
+La Velocidad de \xf000Ă\x0001\x0000 \xfffesubió!
+La Defensa Especial de \xfffe\xf000Ă\x0001\x0000 subió!
+La Defensa de \xf000Ă\x0001\x0000 \xfffesubió!
+La Precisión de \xf000Ă\x0001\x0000 \xfffesubió!
+\xf000ĉ\x0001\x0000 \xfffefue usado!
+El segundo Pokémon\xfffehace imposible apuntar!
+No hay lugar en tu PC!
+El efecto de \xf000ć\x0001\x0001 impede el uso de otro objeto! \xfffe\xf000Ă\x0001\x0000
+No vale, es imposible apuntar\xfffea un Pokémon que no está en vista!
+No vale, es imposible apuntar\xfffea un Pokémon que no está en vista!
+No hay suficiente energía!
+Las palabras de Encina resuenan:\xfffe"¡\xf000븀\x0000, cada cosa en su \xfffemomento!"
+No puedes tirar el Pokéball\xfffesin concentrar!
+El Pokéball no puede ser usado \xfffedebido el aparato usado por Ghechis!!
