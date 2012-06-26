@@ -1,80 +1,80 @@
-『けんさく　モード』
-じょうけんを　いれて　ください
-『けんさくの　けっか』
-みつかったかず　\xf000Ȃ\x0001\x0000
-ならびじゅんを　いれてください
-なまえの　かしらもじを　いれてください
-タイプを　いれてください
-かたちを　いれてください
-いろを　いれてください
-ポケモンが　みつかりました！
-ポケモンが　みつかりません……
-けんさく　しています……
-ならび
-なまえ
-タイプ
-いろ
-かたち
-イッシュずかん：けんさくモード
-ぜんこくずかん：けんさくモード
-リセット
-スタート
-やめる
+『Modo de Búsqueda』
+Por favor digita el criterio de búsqueda
+『Resultados』
+\xf000Ȃ\x0001\x0000 no fue encontrado
+Por favor digite el orden
+Digite la primera letra del nombre
+Digite el Tipo
+Digite la forma
+Digite el color
+¡Pokémon localizado！
+No se encontró el Pokémon……
+Buscando……
+ORDEN
+NOMBRE
+TIPO
+COLOR
+FORMA
+Pokédex Unova: Modo de búsqueda
+Pokédex Nacional: Modo de búsqueda
+REINICIAR
+COMENZAR
+CANCELAR
 \xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
-けってい
-やめる
-ばんごうじゅん
-ごじゅうおん
-おもいじゅん
-かるいじゅん
-たかいじゅん
-ひくいじゅん
-あく
-いわ
-エスパー
-かくとう
-くさ
-こおり
-ゴースト
-じめん
-でんき
-どく
-ドラゴン
-ノーマル
-はがね
-ひこう
-ほのお
-みず
-むし
+ACEPTAR
+CANCELAR
+Número
+A a la Z
+Pesado a Ligero
+Ligero a Pesado
+Alto a Bajo
+Bajo a Alto
+Oscuro
+Roca
+Psíquico
+Lucha
+Planta
+Hielo
+Fantasma
+Tierra
+Eléctrico
+Veneno
+Dragón
+Normal
+Acero
+Volador
+Fuego
+Agua
+Bicho
 ――――
 ／
 ――――
-ア.
-イ
-ウ
-エ
-オ
-カ.
-キ
-ク
-ケ
-コ
-サ.
-シ
-ス
-セ
-ソ
-タ.
-チ
-ツ
-テ
-ト
-ナ.
-ニ
-ヌ
-ネ
-ノ
-ハ.
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
 ヒ
 フ
 ヘ
@@ -94,14 +94,14 @@
 ロ
 ワ.
 ―
-あか
-あお
-き
-みどり
-くろ
-ちゃ
-むらさき
-はい
-しろ
-もも
+Rojo
+Azul
+Amarillo
+Verde
+Negro
+Café
+Morado
+Gris
+Blanco
+Rosa
 ――――
