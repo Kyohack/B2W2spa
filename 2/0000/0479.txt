@@ -1,107 +1,107 @@
-『けんさく　モード』
-じょうけんを　いれて　ください
-『けんさくの　けっか』
-みつかったかず　\xf000Ȃ\x0001\x0000
-ならびじゅんを　いれてください
-なまえの　かしらもじを　いれてください
-タイプを　いれてください
-かたちを　いれてください
-いろを　いれてください
-ポケモンが　みつかりました！
-ポケモンが　みつかりません……
-けんさく　しています……
-ならび
-なまえ
-タイプ
-いろ
-かたち
-イッシュずかん：けんさくモード
-ぜんこくずかん：けんさくモード
-リセット
-スタート
-やめる
-\xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
-けってい
-やめる
-ばんごうじゅん
-ごじゅうおん
-おもいじゅん
-かるいじゅん
-たかいじゅん
-ひくいじゅん
-あく
-いわ
-エスパー
-かくとう
-くさ
-こおり
-ゴースト
-じめん
-でんき
-どく
-ドラゴン
-ノーマル
-はがね
-ひこう
-ほのお
-みず
-むし
-――――
-／
-――――
-ア.
-イ
-ウ
-エ
-オ
-カ.
-キ
-ク
-ケ
-コ
-サ.
-シ
-ス
-セ
-ソ
-タ.
-チ
-ツ
-テ
-ト
-ナ.
-ニ
-ヌ
-ネ
-ノ
-ハ.
-ヒ
-フ
-ヘ
-ホ
-マ.
-ミ
-ム
-メ
-モ
-ヤ.
-ユ
-ヨ
-ラ.
-リ
-ル
-レ
-ロ
-ワ.
-―
-あか
-あお
-き
-みどり
-くろ
-ちゃ
-むらさき
-はい
-しろ
-もも
+Modo de búsqueda
+Por favor, ponga la condición
+Resultados de la búsqueda
+No se encontraron　\xf000Ȃ\x0001\x0000
+Por favor, ponga el orden
+Por favor, ponga las iniciales del nombre
+Por favor, ponga el tipo
+Por favor, pon el formulario
+Por favor, ponga el color
+Pokemon encontrado! 
+Pokémon no se puede encontrar ...... 
+Estamos buscando ...... 
+Secuencia 
+Nombre 
+Tipo 
+Color 
+Forma 
+Modo de búsqueda: un libro de imágenes 
+Modo de búsqueda: Pokedex Nacional 
+Reajustar 
+Comenzar 
+Dejar de 
+\ Xf000Ȃ \ x0001 \ x0000. \ Xf000Ȁ \ x0001 \ x0001 
+Decisión 
+Dejar de 
+Orden numérico 
+Silabario japonés 
+Mayor 
+Junio ​​de luz 
+Junio ​​Takai 
+La más baja primero 
+Lejía 
+Roca 
+Esper 
+Luchar 
+Amargura 
+Hielo 
+Fantasma 
+El suelo 
+Electricidad 
+Doku 
+Dragón 
+Normal 
+Acero 
+VUELO 
+Llama 
+Agua 
+Insecto 
+---- 
+/ 
+---- 
+A. 
+Sotavento 
+Yo 
+D 
+Oh 
+Mosquito. 
+Clave 
+Red 
+Cabello 
+Co- 
+Apoyo. 
+Sistema 
+La 
+Seguridad 
+Producto 
+Los datos. 
+Cambiar 
+Estrella 
+Prueba 
+Puerto 
+Na. 
+Dos 
+(J) 
+Valor 
+Roh 
+Dientes. 
+Arseniato 
+De 
+F 
+(E) 
+Ma. 
+Mi 
+Sistema 
+Medios de comunicación 
+Modelo 
+Ya. 
+Yoo 
+Yo 
+Luisiana 
+Re 
+Le 
+Le 
+(B) 
+Anillo. 
+- 
+Mugre 
+Azul 
+Yo 
+Verde 
+Negro 
+Té 
+Púrpura 
+Sí 
+Color blanco 
+Muslo
 ――――
