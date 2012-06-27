@@ -32,8 +32,8 @@ Objetos de Batalla
 Usar
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-¡No servirá de nada con eso!
-¡Está envolvido en niebla blanca! \xfffe
+¡No servirá de nada usar eso!
+¡Está envuelto en niebla blanca! \xfffe
 \xf000Ă\x0001\x0000 \xfffeestá quedandose Mentalizado!
 El Ataque de \xf000Ă\x0001\x0000 \xfffesubió!
 El Ataque Especial de \xfffe\xf000Ă\x0001\x0000 subió!
@@ -44,7 +44,7 @@ La Precisión de \xf000Ă\x0001\x0000 \xfffesubió!
 \xf000ĉ\x0001\x0000 \xfffefue usado!
 El segundo Pokémon\xfffehace imposible apuntar!
 No hay lugar en tu PC!
-El efecto de \xf000ć\x0001\x0001 impede el uso de otro objeto! \xfffe\xf000Ă\x0001\x0000
+El efecto de \xf000ć\x0001\x0001 impide el uso de otro objeto! \xfffe\xf000Ă\x0001\x0000
 No vale, es imposible apuntar\xfffea un Pokémon que no está en vista!
 No vale, es imposible apuntar\xfffea un Pokémon que no está en vista!
 No hay suficiente energía!
