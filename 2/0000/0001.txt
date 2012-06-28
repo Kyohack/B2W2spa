@@ -1,11 +1,11 @@
 PS/PP
 Restaurar
-Datos
+Estado
 Botiquín
 PS/PP
 Restaurar
 Objetos de Batalla
-Pokéballs
+Poké Balls
 Último objeto usado
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
@@ -22,9 +22,9 @@ Pokéballs
 Siguiente
 PS/PP
 Restaurar
-Datos
-Curanderos
-Pokéballs
+Estado
+Botiquín
+Poké Balls
 Objetos de Batalla
 ／
 \xf000Ȁ\x0001\x0000
@@ -32,22 +32,22 @@ Objetos de Batalla
 Usar
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-¡No servirá de nada con eso!
-¡Está envolvido en niebla blanca! \xfffe
-\xf000Ă\x0001\x0000 \xfffeestá quedandose Mentalizado!
-El Ataque de \xf000Ă\x0001\x0000 \xfffesubió!
-El Ataque Especial de \xfffe\xf000Ă\x0001\x0000 subió!
-La Velocidad de \xf000Ă\x0001\x0000 \xfffesubió!
-La Defensa Especial de \xfffe\xf000Ă\x0001\x0000 subió!
-La Defensa de \xf000Ă\x0001\x0000 \xfffesubió!
-La Precisión de \xf000Ă\x0001\x0000 \xfffesubió!
-\xf000ĉ\x0001\x0000 \xfffefue usado!
-El segundo Pokémon\xfffehace imposible apuntar!
-No hay lugar en tu PC!
-El efecto de \xf000ć\x0001\x0001 impede el uso de otro objeto! \xfffe\xf000Ă\x0001\x0000
-No vale, es imposible apuntar\xfffea un Pokémon que no está en vista!
-No vale, es imposible apuntar\xfffea un Pokémon que no está en vista!
-No hay suficiente energía!
+¡No servirá de nada usar eso!
+¡Está envuelto en niebla blanca!
+¡\xf000Ă\x0001\x0000\xfffeestá quedandose Mentalizado!
+¡El Ataque de \xf000Ă\x0001\x0000\xfffeSubió!
+¡El Ataque Especial de\xfffe\xf000Ă\x0001\x0000 Subió!
+¡La Velocidad de \xf000Ă\x0001\x0000\xfffeSubió!
+¡La Defensa Especial de\xfffe\xf000Ă\x0001\x0000 Subió!
+¡La Defensa de \xf000Ă\x0001\x0000\xfffeSubió!
+¡La Precisión de \xf000Ă\x0001\x0000\xfffeSubió!
+¡\xf000ĉ\x0001\x0000 fue usado!
+¡El segundo Pokémon\xfffehace imposible apuntar!
+¡No hay lugar en tu PC!
+¡El efecto de \xf000ć\x0001\x0001 impede el uso de otro objeto!\xfffe\xf000Ă\x0001\x0000
+¡No vale, es imposible apuntar\xfffea un Pokémon que no está en vista!
+¡No vale, es imposible apuntar\xfffea un Pokémon que no está en vista!
+¡No hay suficiente energía!
 Las palabras de Encina resuenan:\xfffe"¡\xf000븀\x0000, cada cosa en su \xfffemomento!"
-No puedes tirar el Pokéball\xfffesin concentrar!
-El Pokéball no puede ser usado \xfffedebido el aparato usado por Ghechis!!
+¡No puedes tirar el Pokéball\xfffesin concentrar!
+¡El Pokéball no puede ser usado\xfffedebido el aparato usado por Ghechis!!
