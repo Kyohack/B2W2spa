@@ -1,49 +1,49 @@
-つづきから　はじめる
-さいしょから　はじめる
-ふしぎな　おくりもの
-Ｗｉ－Ｆｉせってい
-バトルたいかい
-ゲームシンクせってい
-てんそうマシンを　つかう
-マイクテスト
+CONTINUAR
+PARTIDA NUEVA
+REGALO MISTERIOSO
+CONFIG. DE LA CWF DE NINTENDO
+TORNEO
+CONFIG. SINCRONIZAR JUEGO
+TRANS. USANDO LA CONSOLA
+PRUEBA MIC
 イッシュリンク
 しゅじんこう
-プレイじかん　\xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
-ずかん　\xf000Ȃ\x0001\x0000ひき
-バッジ　\xf000ȁ\x0001\x0000こ
+Tiempo de juego: \xf000Ȃ\x0001\x0000:\xf000ȁ\x0001\x0001
+Pokédex: \xf000Ȃ\x0001\x0000
+Medallas: \xf000ȁ\x0001\x0000
 \xf000Ā\x0001\x0000
-\xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
+\xf000Ȃ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000Ȃ\x0001\x0000ひき
 \xf000ȁ\x0001\x0000こ
 \xf000ą\x0001\x0000
 レポートじょうほう
 キーシステムせってい
-アシストモード
-チャレンジモード
-ホワイトフォレスト
-ブラックシティ
+Modo Asistir
+Modo Desafío
+Bosque Blanco
+Ciudad Negra
 いわやまのま
 くろがねのま
 ひょうざんのま
 ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000\xfffeむせんつうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000\xfffeオンにしてください　（５０６９９）
 ペアレンタルコントロールの\xfffeつうしんせいげん
 イッシュリンクの　キーシステム　で\xfffeモードへんこうの　キーが\xf000븀\x0000\xfffeそうしん　できるように　なりました\xf000븁\x0000
-ちゅうい！
-つうしんを　はじめると\xfffeこのゲームを　さいだいげん　たのしめます\xfffeつねに　つうしんを　おこないますので\xfffeひこうきや　びょういんなど\xfffeむせんつうしんが　きんしの　ばしょでは\xfffeつうしんを　せつだんしてください\xfffeゲームちゅうの　Ｃギアがめんでも\xfffeへんこう　することが　できます
-ちゅうい！
-べつの　レポートが　かかれています\xfffeこれから　はじめる　ぼうけんは\xfffeとちゅうで　レポートを\xfffeかくことが　できません！\xfffeそれでも　はじめますか？
-Ａボタン　ぼうけんを　はじめる
-Ｂボタン　やめる
-つうしんを　はじめますか？
-Ｃギアの　きのうが\xfffeせいげんされますが　よろしいですか？
-レポートの　ないようが\xfffeきえてしまった！
-きえて　しまった　バトルビデオの\xfffeきろくが　あります！
-Ｃギアの　スキンデータが\xfffeきえてしまった！
-とくべつな　バトルけんていの\xfffeデータが　きえてしまった！
-ミュージカルの　えんもくデータが\xfffeきえてしまった！
-ずかんの　スキンデータが\xfffeきえてしまった！
-でんどういりポケモンの\xfffeきろくが　きえてしまった！
-ふしぎな　おくりものの\xfffeきろくが　きえてしまった！
-きえてしまった　ポケウッドの\xfffeきろくが　あります！
+¡ATENCIÓN!
+Activa las funciones de comunicación\xfffepara disfrutar al máximo de este juego.\xfffeDesconecta estas funciones en lugares\xfffedonde esté prohibido usarlas, como\xfffeaviones y hospitales.\xfffeRecuerda que puedes activarlas\xfffeo desactivarlas en cualquier momento\xfffedesde la pantalla del C-Gear.
+¡ATENCIÓN!
+Ya hay otra partida guardada.\xfffeSi empiezas una aventura ahora,\xfffeno podrás guardarla.\xfffe¿Qué deseas hacer?
+Botón A: Comenzar aventura
+Botón B: Cancelar
+¿Quieres activar la comunicación?
+El C-Gear no se activará.\xfffe¿Deseas continuar de todas formas?
+Los datos guardados serán borrado\xfffedebido a corrupción o perjuicio.
+Parece que un Video de Combate\xfffehan sido borrados.
+Los datos del Fondo del C-Gear\xfffehan sido borrados.
+Los datos especial de la Prueba\xfffede Combate han sido borrados.
+Los datos de música del Musical\xfffehan sido borrados.
+Los datos del Fondo del Pokédex\xfffehan sido borrados.
+Tus datos del Hall de la Fama\xfffehan sido borrados.
+Tus datos del Regalo Misterioso\xfffehan sido borrados.
+Tus datos del Estudios\xfffeCinematográficos Pokéwood han sido\xfffeborrados.
 キーシステムと　おもいでリンクの\xfffeきろくが　きえてしまった！
 きえて　しまった　ＰＷＴの\xfffeきろくが　あります！
