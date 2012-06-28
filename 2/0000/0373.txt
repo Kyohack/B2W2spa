@@ -1,2 +1,2 @@
-スタートボタンを　おしてください
-PUSH　START　BUTTON
+PULSA START
+PULSA START
