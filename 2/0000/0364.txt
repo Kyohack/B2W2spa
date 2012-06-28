@@ -1,4 +1,4 @@
-……おや！？\xfffe\xf000Ă\x0001\x0000の　ようすが……！
-あれ……？\xfffe\xf000Ă\x0001\x0000の　へんかが　とまった！
-おめでとう！　\xf000Ă\x0001\x0000は\xfffe\xf000ā\x0001\x0001に　しんかした！
-しんかさせますか？\xfffeはい：Ａボタン　いいえ：Ｂボタン
+¿Qué?\xfffe¡\xf000Ă\x0001\x0000 está evolucionando!
+¿Eh?\xfffe¡\xf000Ă\x0001\x0000 paró de evolucionar!
+¡Enhorabuena! Tu \xf000Ă\x0001\x0000\xfffeevolucionó a \xf000ā\x0001\x0001!
+¿Deseas evolucionar tu Pokémon?\xfffeSí: Botón A  No: Botón B
