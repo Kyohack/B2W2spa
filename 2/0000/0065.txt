@@ -1,6 +1,6 @@
-どうぐ
-かいふく
-わざマシン
-きのみ
-たいせつなもの
-フリースペース
+OBJETOS
+BOTIQUÍN
+MT / MO
+BAYAS
+OBJ. CLAVE
+ESPACIO LIBRE
