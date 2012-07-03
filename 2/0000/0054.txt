@@ -1,25 +1,25 @@
-ゲームで　つかう　もじは\xfffeひらがな・カタカナに　しますか？\xf000븀\x0000\xfffeそれとも　漢字に　しますか？\xf000븁\x0000
-かな
-漢字
-それでは　ゲームで　つかう　もじは\xfffeひらがな・カタカナに　します\xf000븁\x0000
-それでは　ゲームでは\xfffe漢字も　使います\xf000븁\x0000
-セーブデータを　さくせい　しています\xfffeしばらく　おまちください
-ハーイ！\xf000븁\x0000\xfffeポケットモンスターの　せかいへ\xfffeようこそ！\xf000븁\x0000
-わたしの　なまえは\xfffeアララギと　いいます\xf000븁\x0000\xfffeみんなからは\xfffeポケモンはかせ　と　よばれているわ\xf000븁\x0000
-そう！　この　せかいには\xfffeポケットモンスター\xf000븁\x0000\xfffeちぢめて「ポケモン」とよばれる\xfffeふしぎな　いきものが\xf000븀\x0000\xfffeいたる　ところに　いるの！\xf000븁\x0000
-ふしぎな　ちからを　ひめている\xfffeポケモンは　すがたかたちも\xf000븀\x0000\xfffeくらしている　ばしょも　さまざま\xf000븁\x0000\xfffeそんな　ポケモンたちと\xfffeわたしたち　にんげんは\xf000븀\x0000\xfffeなかよく　くらしているの！\xf000븁\x0000\xfffeいっしょに　いることで\xfffeおたがい　みたされたり\xf000븁\x0000\xfffeちからを　あわせ　たすけあい　\xfffeたいへんな　しごとを　こなしたり\xf000븁\x0000\xfffeなかでも　にんき　なのは\xfffeポケモンどうしを　たたかわせて\xf000븀\x0000\xfffeきずなを　ふかめる　ことね\xf000븁\x0000\xfffeで　わたしは　ポケモンたちを\xfffeけんきゅう　している　ってわけ\xf000븁\x0000
-さて　わたしの　はなしは\xfffeこれぐらいに　して……\xf000븁\x0000\xfffeあなたのことを　おしえてくれるかな\xf000븁\x0000
-あなたは　おとこのこ？\xfffeそれとも　おんなのこ？\xf000븁\x0000
-おとこのこ　なのね？\xf000븁\x0000
-おんなのこ　なのね？\xf000븁\x0000
-おとこのこ
-おんなのこ
-なまえも　しりたいな\xf000븁\x0000\xfffeあなたの　なまえを　おしえて！\xf000븁\x0000
-\xf000Ā\x0001\x0000くん　でいい？\xf000븁\x0000
-\xf000Ā\x0001\x0000さん　であってる？\xf000븁\x0000
-はい
-いいえ
-\xf000Ā\x0001\x0000と　いう　なまえ！\xfffeとても　ステキ　よね！\xf000븁\x0000
+Puedes cambiar el idioma del juego.\xfffe¿Quieres Español o Japonés?xf000븁\x0000
+Español
+Japonés
+El idioma principal del juego será\xfffeEspañol.\xf000븁\x0000
+El idioma principal del juego será\xfffeJaponés.\xf000븁\x0000
+Espere por favor en cuanto los datos\xfffeson guardados.
+¡Hola!\xf000븁\x0000\xfffe¡Bienvenidos al mundo de Pokémon!\xf000븁\x0000
+Me llamo Profesora Encina.\xfffe¡Todos me llaman la Profesora Pokémon!\xf000븁\x0000
+¡Este mundo es el hogar por estas\xfffecriaturas misteriosas llamadas Pokémon!\xf000븁\x0000
+Pokémon tienen poderes misteriosos.\xfffeHay varias formas\xf000븀\x0000\xfffey viven en lugares diferentes.\xf000븁\x0000\xfffe¡Vivimos con mucho gusto con Pokémon!\xfffeViviendo y trabajando juntos,\xf000븀\x0000\xfffenos complementamos entre sí.\xf000븁\x0000\xfffe\xfffeAyudamos uno al otro para\xf000븁\x0000\xffferealizar tareas dificiles.\xfffeLuchas de Pokémon son particularmente\xf000븁\x0000\xfffepopular, y hace los vínculos entre\xfffepersonas y Pokémon más profundo.\xf000븀\x0000\xfffeY esto es porque yo investigo\xf000븁\x0000\xfffePokémon.\xf000븁\x0000
+Vale, ya cansé de habler de mi...\xfffeDígame algo sobre tu.\xf000븁\x0000
+¿Eres chico o chica?\xf000븁\x0000
+¿Eres un chico?\xf000븁\x0000
+¿Eres una chica?\xf000븁\x0000
+Chico
+Chica
+Vale, ¿y tu nombre?\xf000븁\x0000
+¿Te llamas \xf000Ā\x0001\x0000?\xf000븁\x0000
+¿Te llamas \xf000Ā\x0001\x0000?\xf000븁\x0000
+Sí
+No
+¡Ah! Tu nombre es \xf000Ā\x0001\x0000.\xfffe¡Que nombre hermoso!\xf000븁\x0000
 それでは　あなたと　いつも\xfffeいっしょに　いる　おともだちを\xf000븀\x0000\xfffeあらためて　しょうかい　するわね\xf000븁\x0000
 それでは　つぎは　あなたの\xfffeしりあいに　ついて　きかせてね\xf000븀\x0000\xfffeきんじょの　おにいさん　なんでしょ\xf000븁\x0000
 かれの　なまえも\xfffeおしえてくれるかな\xf000븁\x0000
