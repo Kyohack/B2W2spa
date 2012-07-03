@@ -1,8 +1,8 @@
 Sin respuesta
 Negro 2
 Blanco 2
-Chico
-Chica
+Varón
+Mujer
 Batalla
 Intercambio
 La Ciudad
@@ -47,20 +47,20 @@ Pokémon
 Español
 Matemáticas
 Ciencias
-Estudios sociales
+Estudios Sociales
 Español
 Matemáticas
 Ciencias
-Estudios sociales
+Estudios Sociales
 Entrenador
-Catedrático
+Profesor
 Equipo Plasma
 Pokémon
 Jugar fuera
 Ir de compras
 Leyendo
 Videojuegos
-Dormir tarde
+Dormir Tarde
 Pop
 Rock
 Jazz
@@ -100,11 +100,11 @@ Videojuegos
 Estudiante
 Oficinista
 Creador
-Trabajador por cuenta propia
+Trabajador Por Cuenta Propia
 Funcionario
 Ama de casa
 Artista
-Salta-empleos
+Salta-Empleos
 Zeo
 Millo
 Maíz
