@@ -1,56 +1,56 @@
 \xf000Ă\x0001\x0000を　どうする？
 マーキング　してください
-ほんとうに　にがしますか？
-\xf000Ă\x0001\x0000を　そとに　にがしてあげた
-ばいばい　\xf000Ă\x0001\x0000！
-てもちが　いっぱいです！
-たたかうポケモンが　いなくなります！
-このボックスを　どうしますか？
-どのボックスに\xfffeジャンプしますか？
-どのテーマに　しますか？
-どの　かべがみに　しますか？
-ボックスそうさを　つづけますか？
-このボックスは　いっぱいです！
-バッグが　いっぱいです！
-\xf000ĉ\x0001\x0000を　あずかった！
+¿Liberas a este Pokémon?
+\xf000Ă\x0001\x0000 ha sido liberado.
+¡Adiós, \xf000Ă\x0001\x0000!
+¡Tu equipo está completo!
+¡Ese es tu último Pokémon!
+¿Qué quieres hacer?
+¿A qué Caja quieres ir?
+Elige un tema.
+Elige un fondo.
+¿Continuar operaciones?
+La Caja está completa.
+La Bolsa está llena.
+Sacó el \xf000ĉ\x0001\x0000.
 \xf000ĉ\x0001\x0000を　もたせた！
-ポケモンを　タッチ！
-どのボックスへ　あずける？
+¿Cuál cogerás?
+¿Mover a qué Caja?
 もちものなし
 ♂
 ♀
-\xf000ĉ\x0001\x0000を　あずかりますか？
-メールをしまうことは　できません！
-\xf000ĉ\x0001\x0000を　どうしますか？
-\xf000ĉ\x0001\x0000を　しまいますか？
-\xf000ĉ\x0001\x0000を　バッグに　いれた！
-どうぐを　もつことが　できます
-メールを　はずしてください！
-タマゴを　にがすことは　できません！
+¿Toma ese \xf000ĉ\x0001\x0000?
+No puede coger cartas.
+\xf000ĉ\x0001\x0000 es seleccionado.
+¿Coger el objeto \xf000ĉ\x0001\x0000?
+Has puesto \xf000ĉ\x0001\x0000 en la bolsa.
+Puede llevar un objeto.
+Por favor recoge la Carta.
+No puedes liberar un Huevo.
 がったいした　キュレムは　にがせません！
-\xf000Ă\x0001\x0000が　もどってきちゃった！
+¡\xf000Ă\x0001\x0000 ha vuelto!
 しんぱい　だったのかな……
-タマゴは　どうぐを　もてません！
-マークを　タッチしよう！
-ボックスに　おけます！
-てもちに　くわえることが　できます！
-このボックスは　いっぱいです！
-てもちが　いっぱいです！
+Un Huevo no puede llevar un objeto.
+¡Toca la Marca!
+DEJAR POKÉMON
+SACAR POKÉMON
+La Caja está completa.
+¡Tu equipo está completo!
 ポケモンを　あずける
 ポケモンを　つれていく
 ボックスを　せいりする
-もちものを　せいりする
-バトルボックス
-ねかすポケモンをえらぶ
-メールは　いどうできません！
-\xf000ĉ\x0001\x0000を　もてない！
-メールを　もっています！
-たたかうポケモンが　いなくなります！
-メールは　いどうできません！
-ここでは　メールを　もたせられません
-タマゴは　えらべません！
-\xf000Ă\x0001\x0000を　ねむらせます\xfffeよろしいですか？
-このポケモンは\xfffeいまは　ねむくないみたいです
-ポケモンせんたくを　つづけますか？
-バトルボックスが　ロックされています\xfffeポケモンは　いどう　できません
-バトルボックスが　ロックされています\xfffeもちものは　へんこう　できません
+MOVER OBJETO
+CAJA DE COMBATE
+SELECCIONA UN POKÉMON CANSADO
+¡No puede mover cartas!
+¡No puede llevar \xf000ĉ\x0001\x0000!
+¡Lleva correo!
+¡Has quedado sin Pokémon que pueden luchar!
+¡No puede mover cartas!
+No puede llevar cartas aquí.
+¡No puede seleccionar Huevos!
+\xf000Ă\x0001\x0000 será arropado.\xfffe¿Vale?
+Este Pokémon no parece\xfffecansado ahora.
+¿Selecciona otro Pokémon?
+Tu Caja de Combate está cerrado.\xfffeNo puedes mover tus Pokémon.
+Tu Caja de Combate está cerrado.\xfffeNo puede dar o quitar objetos.
