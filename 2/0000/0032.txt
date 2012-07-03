@@ -34,4 +34,4 @@ Ya tienes datos guardados.\xfffeNo puedes cambiar esta opción.\xf000븁\x0000
 ¿Quieres efectuar estes cambios?
 Sí
 No
-ダミーメッセージ
+Mensaje basura.
