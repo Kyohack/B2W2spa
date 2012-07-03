@@ -1,639 +1,639 @@
-なし
-マスターボール
-ハイパーボール
-スーパーボール
-モンスターボール
-サファリボール
-ネットボール
-ダイブボール
-ネストボール
-リピートボール
-タイマーボール
-ゴージャスボール
-プレミアボール
-ダークボール
-ヒールボール
-クイックボール
-プレシャスボール
-キズぐすり
-どくけし
-やけどなおし
-こおりなおし
-ねむけざまし
-まひなおし
-かいふくのくすり
-まんたんのくすり
-すごいキズぐすり
-いいキズぐすり
-なんでもなおし
-げんきのかけら
-げんきのかたまり
-おいしいみず
-サイコソーダ
-ミックスオレ
-モーモーミルク
-ちからのこな
-ちからのねっこ
-ばんのうごな
-ふっかつそう
-ピーピーエイド
-ピーピーリカバー
-ピーピーエイダー
-ピーピーマックス
-フエンせんべい
-きのみジュース
-せいなるはい
-マックスアップ
-タウリン
-ブロムヘキシン
-インドメタシン
-リゾチウム
-ふしぎなアメ
-ポイントアップ
-キトサン
-ポイントマックス
-もりのヨウカン
-エフェクトガード
-クリティカット
-プラスパワー
-ディフェンダー
-スピーダー
-ヨクアタール
-スペシャルアップ
-スペシャルガード
-ピッピにんぎょう
-エネコのシッポ
-あおいビードロ
-きいろビードロ
-あかいビードロ
-くろいビードロ
-しろいビードロ
-あさせのしお
-あさせのかいがら
-あかいかけら
-あおいかけら
-きいろいかけら
-みどりのかけら
-シルバースプレー
-ゴールドスプレー
-あなぬけのヒモ
-むしよけスプレー
-たいようのいし
-つきのいし
-ほのおのいし
-かみなりのいし
-みずのいし
-リーフのいし
-ちいさなキノコ
-おおきなキノコ
-しんじゅ
-おおきなしんじゅ
-ほしのすな
-ほしのかけら
-きんのたま
-ハートのウロコ
-あまいミツ
-すくすくこやし
-じめじめこやし
-ながながこやし
-ねばねばこやし
-ねっこのカセキ
-ツメのカセキ
-かいのカセキ
-こうらのカセキ
-ひみつのコハク
-たてのカセキ
-ずがいのカセキ
-きちょうなホネ
-ひかりのいし
-やみのいし
-めざめいし
-まんまるいし
-かなめいし
-はっきんだま
-？？？
-？？？
-？？？
-アクアカセット
-イナズマカセット
-ブレイズカセット
-フリーズカセット
-？？？
-？？？
-？？？
-？？？
-？？？
-？？？
-？？？
-？？？
-？？？
-？？？
-？？？
-？？？
-？？？
-？？？
-ハートスイーツ
-こんごうだま
-しらたま
-はじめてメール
-だいすきメール
-おさそいメール
-かんしゃメール
-しつもんメール
-おすすめメール
-おかえしメール
-ブリッジメールＳ
-ブリッジメールＨ
-ブリッジメールＣ
-ブリッジメールＶ
-ブリッジメールＷ
-クラボのみ
-カゴのみ
-モモンのみ
-チーゴのみ
-ナナシのみ
-ヒメリのみ
-オレンのみ
-キーのみ
-ラムのみ
-オボンのみ
-フィラのみ
-ウイのみ
-マゴのみ
-バンジのみ
-イアのみ
-ズリのみ
-ブリーのみ
-ナナのみ
-セシナのみ
-パイルのみ
-ザロクのみ
-ネコブのみ
-タポルのみ
-ロメのみ
-ウブのみ
-マトマのみ
-モコシのみ
-ゴスのみ
-ラブタのみ
-ノメルのみ
-ノワキのみ
-シーヤのみ
-カイスのみ
-ドリのみ
-ベリブのみ
-オッカのみ
-イトケのみ
-ソクノのみ
-リンドのみ
-ヤチェのみ
-ヨプのみ
-ビアーのみ
-シュカのみ
-バコウのみ
-ウタンのみ
-タンガのみ
-ヨロギのみ
-カシブのみ
-ハバンのみ
-ナモのみ
-リリバのみ
-ホズのみ
-チイラのみ
-リュガのみ
-カムラのみ
-ヤタピのみ
-ズアのみ
-サンのみ
-スターのみ
-ナゾのみ
-ミクルのみ
-イバンのみ
-ジャポのみ
-レンブのみ
-ひかりのこな
-しろいハーブ
-きょうせいギプス
-がくしゅうそうち
-せんせいのツメ
-やすらぎのすず
-メンタルハーブ
-こだわりハチマキ
-おうじゃのしるし
-ぎんのこな
-おまもりこばん
-きよめのおふだ
-こころのしずく
-しんかいのキバ
-しんかいのウロコ
-けむりだま
-かわらずのいし
-きあいのハチマキ
-しあわせタマゴ
-ピントレンズ
-メタルコート
-たべのこし
-りゅうのウロコ
-でんきだま
-やわらかいすな
-かたいいし
-きせきのタネ
-くろいメガネ
-くろおび
-じしゃく
-しんぴのしずく
-するどいくちばし
-どくバリ
-とけないこおり
-のろいのおふだ
-まがったスプーン
-もくたん
-りゅうのキバ
-シルクのスカーフ
-アップグレード
-かいがらのすず
-うしおのおこう
-のんきのおこう
-ラッキーパンチ
-メタルパウダー
-ふといホネ
-ながねぎ
-あかいバンダナ
-あおいバンダナ
-ピンクのバンダナ
-みどりのバンダナ
-きいろのバンダナ
-こうかくレンズ
-ちからのハチマキ
-ものしりメガネ
-たつじんのおび
-ひかりのねんど
-いのちのたま
-パワフルハーブ
-どくどくだま
-かえんだま
-スピードパウダー
-きあいのタスキ
-フォーカスレンズ
-メトロノーム
-くろいてっきゅう
-こうこうのしっぽ
-あかいいと
-くろいヘドロ
-つめたいいわ
-さらさらいわ
-あついいわ
-しめったいわ
-ねばりのかぎづめ
-こだわりスカーフ
-くっつきバリ
-パワーリスト
-パワーベルト
-パワーレンズ
-パワーバンド
-パワーアンクル
-パワーウエイト
-きれいなぬけがら
-おおきなねっこ
-こだわりメガネ
-ひのたまプレート
-しずくプレート
-いかずちプレート
-みどりのプレート
-つららのプレート
-こぶしのプレート
-もうどくプレート
-だいちのプレート
-あおぞらプレート
-ふしぎのプレート
-たまむしプレート
-がんせきプレート
-もののけプレート
-りゅうのプレート
-こわもてプレート
-こうてつプレート
-あやしいおこう
-がんせきおこう
-まんぷくおこう
-さざなみのおこう
-おはなのおこう
-こううんのおこう
-きよめのおこう
-プロテクター
-エレキブースター
-マグマブースター
-あやしいパッチ
-れいかいのぬの
-するどいツメ
-するどいキバ
-わざマシン０１
-わざマシン０２
-わざマシン０３
-わざマシン０４
-わざマシン０５
-わざマシン０６
-わざマシン０７
-わざマシン０８
-わざマシン０９
-わざマシン１０
-わざマシン１１
-わざマシン１２
-わざマシン１３
-わざマシン１４
-わざマシン１５
-わざマシン１６
-わざマシン１７
-わざマシン１８
-わざマシン１９
-わざマシン２０
-わざマシン２１
-わざマシン２２
-わざマシン２３
-わざマシン２４
-わざマシン２５
-わざマシン２６
-わざマシン２７
-わざマシン２８
-わざマシン２９
-わざマシン３０
-わざマシン３１
-わざマシン３２
-わざマシン３３
-わざマシン３４
-わざマシン３５
-わざマシン３６
-わざマシン３７
-わざマシン３８
-わざマシン３９
-わざマシン４０
-わざマシン４１
-わざマシン４２
-わざマシン４３
-わざマシン４４
-わざマシン４５
-わざマシン４６
-わざマシン４７
-わざマシン４８
-わざマシン４９
-わざマシン５０
-わざマシン５１
-わざマシン５２
-わざマシン５３
-わざマシン５４
-わざマシン５５
-わざマシン５６
-わざマシン５７
-わざマシン５８
-わざマシン５９
-わざマシン６０
-わざマシン６１
-わざマシン６２
-わざマシン６３
-わざマシン６４
-わざマシン６５
-わざマシン６６
-わざマシン６７
-わざマシン６８
-わざマシン６９
-わざマシン７０
-わざマシン７１
-わざマシン７２
-わざマシン７３
-わざマシン７４
-わざマシン７５
-わざマシン７６
-わざマシン７７
-わざマシン７８
-わざマシン７９
-わざマシン８０
-わざマシン８１
-わざマシン８２
-わざマシン８３
-わざマシン８４
-わざマシン８５
-わざマシン８６
-わざマシン８７
-わざマシン８８
-わざマシン８９
-わざマシン９０
-わざマシン９１
-わざマシン９２
-ひでんマシン０１
-ひでんマシン０２
-ひでんマシン０３
-ひでんマシン０４
-ひでんマシン０５
-ひでんマシン０６
-？？？
-？？？
-たんけんセット
-たからぶくろ
-ルールブック
-ポケトレ
-ポイントカード
-ぼうけんノート
-シールいれ
-アクセサリーいれ
-シールぶくろ
-ともだちてちょう
-はつでんしょキー
-こだいのおまもり
-ギンガだんのカギ
-あかいくさり
-タウンマップ
-バトルサーチャー
-コインケース
-ボロのつりざお
-いいつりざお
-すごいつりざお
-コダックじょうろ
-ポフィンケース
-じてんしゃ
-ルームキー
-オーキドのてがみ
-みかづきのはね
-メンバーズカード
-てんかいのふえ
-ふねのチケット
-コンテストパス
-かざんのおきいし
-おとどけもの
-ひきかえけん１
-ひきかえけん２
-ひきかえけん３
-そうこのカギ
-ひでんのくすり
-バトルレコーダー
-グラシデアのはな
-ひみつのカギ
-ぼんぐりケース
-アンノーンノート
-きのみプランター
-ダウジングマシン
-ブルーカード
-おいしいシッポ
-とうめいなスズ
-カードキー
-ちかのかぎ
-ゼニガメじょうろ
-あかいウロコ
-おとしもの
-リニアパス
-きかいのぶひん
-ぎんいろのはね
-にじいろのはね
-ふしぎなタマゴ
-あかぼんぐり
-あおぼんぐり
-きぼんぐり
-みどぼんぐり
-ももぼんぐり
-しろぼんぐり
-くろぼんぐり
-スピードボール
-レベルボール
-ルアーボール
-ヘビーボール
-ラブラブボール
-フレンドボール
-ムーンボール
-コンペボール
-パークボール
-フォトアルバム
-ＧＢプレイヤー
-うみなりのスズ
-いかりまんじゅう
-データカード０１
-データカード０２
-データカード０３
-データカード０４
-データカード０５
-データカード０６
-データカード０７
-データカード０８
-データカード０９
-データカード１０
-データカード１１
-データカード１２
-データカード１３
-データカード１４
-データカード１５
-データカード１６
-データカード１７
-データカード１８
-データカード１９
-データカード２０
-データカード２１
-データカード２２
-データカード２３
-データカード２４
-データカード２５
-データカード２６
-データカード２７
-もえぎいろのたま
-ロックカプセル
-べにいろのたま
-あいいろのたま
-なぞのすいしょう
-きれいなウロコ
-しんかのきせき
-かるいし
-ゴツゴツメット
-ふうせん
-レッドカード
-ねらいのまと
-しめつけバンド
-きゅうこん
-じゅうでんち
-だっしゅつボタン
-ほのおのジュエル
-みずのジュエル
-でんきのジュエル
-くさのジュエル
-こおりのジュエル
-かくとうジュエル
-どくのジュエル
-じめんのジュエル
-ひこうのジュエル
-エスパージュエル
-むしのジュエル
-いわのジュエル
-ゴーストジュエル
-ドラゴンジュエル
-あくのジュエル
-はがねのジュエル
-ノーマルジュエル
-たいりょくのハネ
-きんりょくのハネ
-ていこうのハネ
-ちりょくのハネ
-せいしんのハネ
-しゅんぱつのハネ
-きれいなハネ
-ふたのカセキ
-はねのカセキ
-リバティチケット
-デルダマ
-ドリームボール
-ポケじゃらし
-グッズケース
-ドラゴンのホネ
-かおるキノコ
-でかいきんのたま
-おだんごしんじゅ
-すいせいのかけら
-こだいのどうか
-こだいのぎんか
-こだいのきんか
-こだいのツボ
-こだいのうでわ
-こだいのせきぞう
-こだいのおうかん
-ヒウンアイス
-クリティカット２
-スピーダー２
-ＳＰアップ２
-ＳＰガード２
-ディフェンダー２
-プラスパワー２
-ヨクアタール２
-スピーダー３
-ＳＰアップ３
-ＳＰガード３
-ディフェンダー３
-プラスパワー３
-ヨクアタール３
-スピーダー６
-ＳＰアップ６
-ＳＰガード６
-ディフェンダー６
-プラスパワー６
-ヨクアタール６
-スキルコール
-アイテムドロップ
-アイテムコール
-フラットコール
-クリティカット３
-ライトストーン
-ダークストーン
-わざマシン９３
-わざマシン９４
-わざマシン９５
-ライブキャスター
-ゴッドストーン
-はいたつぶつ１
-はいたつぶつ２
-はいたつぶつ３
-ライブキャスター
-メダルボックス
+Ningún
+Master Ball
+Ultraball
+Superball
+Poké Ball
+Safari Ball
+Malla Ball
+Buceo Ball
+Nido Ball
+Acopio Ball
+Turno Ball
+Lujo Ball
+Honor Ball
+Ocaso Ball
+Sana Ball
+Veloz Ball
+Gloria Ball
+Poción
+Antídoto
+Antiquemar
+Antihielo
+Despertar
+Antiparaliz
+Restau. Todo
+Máx. Poción
+Hiperpoción
+Superpoción
+Cura Total
+Revivir
+Máx. Revivir
+Agua Fresca
+Refresco
+Limonada
+Leche Mu-mu
+Polvoenergía
+Raíz Energía
+Pol.curación
+Hierba Rev.
+Éter
+Éter Máx.
+Elixir
+Elixir Máx.
+Galleta Lava
+Zumo de Baya
+Cen. Sagrada
+Más PS
+Proteína
+Hierro
+Carburante
+Calcio
+Carameloraro
+Más PP
+Zinc
+Máx. PP
+Barrita Plus
+Protec. Esp.
+Directo
+Ataque X
+Defensa X
+Velocidad X
+Precisión X
+Especial X
+Def. Esp. X
+Poké Muñeco
+Cola Skitty
+Flauta Azul
+Fl. Amarilla
+Flauta Roja
+Flauta Negra
+Flauta Blanca
+Sal Cardumen
+C. Cardumen
+Parte Roja
+Parte Azul
+P. Amarilla
+Parte Verde
+Superrepel
+Máx. Repel
+Cuerda Huida
+Repelente
+Piedra Solar
+Piedra Lunar
+Piedra Fuego
+Piedratrueno
+Piedra Agua
+Piedra Hoja
+Mini Seta
+Seta Grande
+Perla
+Perla Grande
+Polvoestelar
+Tr. Estrella
+Pepita
+Esc. Corazón
+Miel
+Abono Rápido
+Abono Lento
+Ab. Fijador
+Abono Brote
+Fósil Raíz
+Fósil Garra
+Fósil Helix
+Fósil Domo
+Ámbar Viejo
+Fósil Coraza
+Fósil Cráneo
+Hueso Raro
+Piedra Día
+Piedra Noche
+Piedra Alba
+Piedra Oval
+P. Espíritu
+Griseosfera
+???
+???
+???
+HidroROM
+FulgoROM
+PiroROM
+CrioROM
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+Cor. Dulce
+Diamansfera
+Lustresfera
+C. Inicial
+C. Favoritos
+C. Invitar
+C. Gracias
+C. Pregunta
+C. Gustos
+C. Respuesta
+C. Puente S
+C. Puente F
+C. Puente A
+C. Puente V
+C. Puente P
+Baya Zreza
+Baya Atania
+Baya Meloc
+Baya Safre
+Baya Perasi
+Baya Zanama
+Baya Aranja
+Baya Caquic
+Baya Ziuela
+Baya Zidra
+Baya Higog
+Baya Wiki
+Baya Ango
+Baya Guaya
+Baya Pabaya
+Baya Frambu
+Baya Oram
+Baya Latano
+Baya Peragu
+Baya Pinia
+Baya Grana
+Baya Algama
+Baya Ispero
+Baya Meluce
+Baya Uvav
+Baya Tamate
+Baya Mais
+Baya Aostan
+Baya Rautan
+Baya Monli
+Baya Wikano
+Baya Plama
+Baya Sambia
+Baya Rudion
+Baya Andano
+Baya Caoca
+Baya Pasio
+Baya Gualot
+Baya Tamar
+Baya Rimoya
+Baya Pomaro
+Baya Kebia
+Baya Acardo
+Baya Kouba
+Baya Payapa
+Baya Yecana
+Baya Alcho
+Baya Drasi
+Baya Anjiro
+Baya Dillo
+Baya Baribá
+Baya Chilan
+Baya Lichi
+Baya Gonlan
+Baya Aslac
+Baya Yapati
+Baya Aricoc
+Baya Zonlan
+Baya Arabol
+Baya Enigma
+Baya Lagro
+Baya Chiri
+Baya Jaboca
+Baya Magua
+Polvo Brillo
+Hier. Blanca
+Brazal Firme
+Repartir Exp
+Garra Rápida
+Camp. Alivio
+Hier. Mental
+Cin. Elegida
+Roca del Rey
+Polvo Plata
+Mon. Amuleto
+Amuleto
+Rocío Bondad
+Diente Mar.
+Escama Mar.
+Bola Humo
+Piedraeterna
+Cinta Focus
+Huevo Suerte
+Periscopio
+Rev.metálico
+Restos
+Escamadragón
+Bolaluminosa
+Arena Fina
+Piedra Dura
+Sem. Milagro
+Gafas de Sol
+Cint. Negro
+Imán
+Agua Mística
+Pico Afilado
+Flecha Ven.
+Antiderretir
+Hechizo
+Cuchara Tor
+Carbón
+Colmillodrag
+Pañuelo Seda
+Mejora
+Camp. Concha
+Incie. Mar.
+Incie Suave
+Puño Suerte
+Pol.metálico
+Hueso Grueso
+Palo
+Pañuelo Rojo
+Pañuelo Azul
+Pañuelo Rosa
+Pañ. Verde
+P. Amarillo
+Lupa
+Cinta Fuerte
+Gafas Esp.
+Cinta Xperto
+Refleluz
+Vidasfera
+Hierba Única
+Toxisfera
+Llamasfera
+Polvo Veloz
+Banda Focus
+Telescopio
+Metrónomo
+Bola Férrea
+Cola Plúmbea
+Lazo Destino
+Lodo Negro
+Roca Helada
+Roca Suave
+Roca Calor
+Roca Lluvia
+Garra Garfio
+Pañ. Elegido
+Toxiestrella
+Brazal Recio
+Cinto Recio
+Lente Recia
+Banda Recia
+Franja Recia
+Pesa Recia
+Muda Concha
+Raíz Grande
+Gafas Elegid
+Tabla Llama
+Tabla Linfa
+Tabla Trueno
+Tabla Pradal
+Tabla Helada
+Tabla Fuerte
+Tabla Tóxica
+Tabla Terrax
+Tabla Cielo
+Tabla Mental
+Tabla Bicho
+Tabla Pétrea
+Tabla Terror
+Tabla Draco
+Tabla Oscura
+Tabla Acero
+Incie. Raro
+Incie. Roca
+Incie. Lento
+Incie. Aqua
+Inc. Floral
+Incie. Duplo
+Incie. Puro
+Protector
+Electrizador
+Magmatizador
+Discoxtraño
+Telaterrible
+Garrafilada
+Colmillagudo
+MT01
+MT02
+MT03
+MT04
+MT05
+MT06
+MT07
+MT08
+MT09
+MT10
+MT11
+MT12
+MT13
+MT14
+MT15
+MT16
+MT17
+MT18
+MT19
+MT20
+MT21
+MT22
+MT23
+MT24
+MT25
+MT26
+MT27
+MT28
+MT29
+MT30
+MT31
+MT32
+MT33
+MT34
+MT35
+MT36
+MT37
+MT38
+MT39
+MT40
+MT41
+MT42
+MT43
+MT44
+MT45
+MT46
+MT47
+MT48
+MT49
+MT50
+MT51
+MT52
+MT53
+MT54
+MT55
+MT56
+MT57
+MT58
+MT59
+MT60
+MT61
+MT62
+MT63
+MT64
+MT65
+MT66
+MT67
+MT68
+MT69
+MT70
+MT71
+MT72
+MT73
+MT74
+MT75
+MT76
+MT77
+MT78
+MT79
+MT80
+MT81
+MT82
+MT83
+MT84
+MT85
+MT86
+MT87
+MT88
+MT89
+MT90
+MT91
+MT92
+MO01
+MO02
+MO03
+MO04
+MO05
+MO06
+???
+???
+Kit Explor.
+Saca Botín
+Reglamento
+Pokéradar
+Tarj. Puntos
+Diario
+Caja Sellos
+Caja Corazón
+Bolsa Sellos
+Bloc Amigos
+Ll. Central
+Talismán
+Ll. Galaxia
+Cadena Roja
+Mapa
+Buscapelea
+Monedero
+Caña Vieja
+Caña Buena
+Supercaña
+Psydugadera
+Pokochera
+Bici
+Llave Suite
+Carta Pr Oak
+Pluma Lunar
+Carné Socio
+Flauta Azur
+Ticket Barco
+Pase Concur.
+Piedra Magma
+Paquete
+Cupón 1
+Cupón 2
+Cupón 3
+Ll. Almacén
+Poc. Secreta
+Cámara Lucha
+Gracídea
+Ll. Secreta
+Caja Bonguri
+Bloc Unown
+Plantabayas
+Zahorí
+Tarjeta Azul
+Cola Slowpoke
+Camp. Clara
+Ll.Magnética
+Ll. Sótano
+Regadera
+Escama Roja
+Obj. Perdido
+Magnetopase
+Maquinaria
+Ala Plateada
+Ala Arcoíris
+Huevo Mist
+Bonguri Roj
+Bonfuri Azu
+Bonguri Ama
+Bonguri Ver
+Bonguri Ros
+Bonguri Bla
+Bonguri Neg
+Rapid Ball
+Nivel Ball
+Cebo Ball
+Peso Ball
+Amor Ball
+Amigo Ball
+Luna Ball
+Compet Ball
+Parque Ball
+Álb. de Fot.
+Lector GB
+Camp. Oleaje
+Caram. Furia
+Tarj. Datos 01
+Tarj. Datos 02
+Tarj. Datos 03
+Tarj. Datos 04
+Tarj. Datos 05
+Tarj. Datos 06
+Tarj. Datos 07
+Tarj. Datos 08
+Tarj. Datos 09
+Tarj. Datos 10
+Tarj. Datos 11
+Tarj. Datos 12
+Tarj. Datos 13
+Tarj. Datos 14
+Tarj. Datos 15
+Tarj. Datos 16
+Tarj. Datos 17
+Tarj. Datos 18
+Tarj. Datos 19
+Tarj. Datos 20
+Tarj. Datos 21
+Tarj. Datos 22
+Tarj. Datos 23
+Tarj. Datos 24
+Tarj. Datos 25
+Tarj. Datos 26
+Tarj. Datos 27
+Esfera Verde
+Cáp. Candado
+Esfera Roja
+Esfera Azul
+Misticristal
+Escama Bella
+Mineral Evol
+Piedra Pómez
+Cas. Dentado
+Globo Helio
+Tarjeta Roja
+Blanco
+Ban. Atadura
+Tubérculo
+Pila
+Botón Escape
+G. Fuego
+G. Agua
+G. Eléctrica
+G. Planta
+G. Hielo
+G. Lucha
+G. Veneno
+G. Tierra
+G. Voladora
+G. Psiquica
+G. Bicho
+G. Roca
+G. Fantasma
+G. Dragón
+G. Siniestra
+G. Acero
+G. Normal
+P. Vigor
+P. Músculo
+P. Aguante
+P. Intelecto
+P. Mente
+P. Ímpetu
+P. Bella
+Fósil Tapa
+Fósil Pluma
+T. Libertad
+Regalosfera
+Ensueño Ball
+Pokéseñuelo
+Neceser
+Crán. Dragón
+Seta Aroma
+Maxipepita
+Sarta Perlas
+Frag. Cometa
+Real Cobre
+Real Plata
+Real Oro
+Ánfora
+Brazal
+Efi. Antigua
+Cor. Antigua
+Porcehelado
+Directo 2
+Veloc. X 2
+Especial X 2
+D. Esp. X 2
+Defensa X 2
+Ataque X 2
+Prec. X 2
+Veloc. X 3
+Especial X 3
+D. Esp. X 3
+Defensa X 3
+Ataque X 3
+Prec. X 3
+Veloc. X 6
+Especial X 6
+D. Esp. X 6
+Defensa X 6
+Ataque X 6
+Prec. X 6
+Habilitador
+Tiraobjeto
+Activaobjeto
+Quitaestado
+Directo 3
+Orbe Claro
+Orbe Oscuro
+MT93
+MT94
+MT95
+Videomisor
+Orbe Divino
+Envio 1
+Envio 2
+Envio 3
+Videomisor
+Caja Med.
 いでんしのくさび
 いでんしのくさび
 きょかしょう
 まるいおまもり
-ひかるおまもり
-プラズマカード
-よごれたハンカチ
+Amu. Hikaru
+Tarj. Plasma
+Pañ. Sucio
 アクロママシーン
-わすれもの
-わすれもの
-うつしかがみ
+Obj. Perdido
+Obj. Perdido
+Espejo Trans.
