@@ -1,67 +1,67 @@
-タイトルメニュー
-ポケモンセンターの　せつめい
-Ｃギアの　せつめい
-メニューに　ついて
-せんとうに　ついて
-ポケモンの　じょうほう
-そのた
-つづきから　はじめる
-さいしょから　はじめる
-ふしぎな　おくりもの
-バトルたいかい
+MENÚ PRINCIPAL
+INFO DE CENTRO POKÉMON
+INFO DE C-GEAR
+SOBRE "MENÚ"
+SOBRE "COMBATE"
+INFO DE POKÉMON
+OTRAS TEMAS
+CONTINUAR
+PARTIDA NUEVA
+REGALO MISTERIOSO
+TORNEO
 デジタルせんしゅしょう
-ゲームシンクせってい
-Ｗｉ－Ｆｉせってい
-マイクテスト
-ポケモンセンター
-パソコンで　ポケモンをいれかえる
-ボックスを　せいりする
-バトルボックス
+CONFIG. SINCRONIZAR JUEGO
+CONFIG. DE LA CWF DE NINTENDO
+PRUEBA MIC
+CENTRO POKÉMON
+MOVER POKÉMON EN EL PC
+ORDENAR CAJA
+CAJA DE COMBATE
 つうしんこうかんの　はじめかた
 つうしんたいせんの　はじめかた
-シングルバトル
-ダブルバトル
-トリプルバトル
-ローテーションバトル
-ミラクルシューター
-ユニオンルーム
-Ｗｉ－Ｆｉクラブ
-グローバルターミナル
-ともだちコード
-Ｃギア（シーギア）
+COMBATE INDIVIDUAL
+COMBATE DOBLE
+COMBATE TRIPLE
+COMBATE ROTATORIO
+COMBATE LANZADOR
+SALA UNIÓN
+CLUB Wi-Fi
+TERMINAL GLOBAL
+CLAVE DE AMIGO
+C-GEAR
 すれちがいログ
-すれちがいちょうさ　とは
-すれちがいちょうさを　うける
-すれちがいちょうさを　はじめる
-すれちがいちょうさの　ほうこく
-ＩＲ(アイアール)つうしん
-ゲームシンク
-ハイリンク
+¿QUÉ ES UN SONDEO TRANSEÚNTE?
+ACEPTANDO UNA PETICIÓN SONDEO TRANSEÚNTE
+EMPEZANDO UN SONDEO TRANSEÚNTE
+REPORTANDO RESULTADOS DE SONDEO TRANSEÚNTE
+CONEXIÓN INFRARROJO
+SINCRO. JUEGO
+ZONA NEXO
 デルパワー
 デルダマ
-バッグ
-トレーナーカード
-ポケモンずかん
-ポケモンをつかまえるコツ
+BOLSA
+FICHA DE ENTRENADOR
+POKÉDEX
+CONSEJOS PARA CAPTURAR POKÉMON
 タイプとあいしょう
-「ぶつり」「とくしゅ」「へんか」
-ひんし
-どく
-まひ
-ねむり
-こおり
-やけど
-こんらん
-メロメロ
-けいけんち
-しんか
-「せいかく」と　「こせい」
-ポケルス
-ポケモンのタマゴ
-はしる
-ダウジングマシン
-ライブキャスター
-ジムバッジ
+"FÍSICO," "ESPECIAL," Y "ESTADO"
+DEBILITADO
+VENENO
+PARALIZACIÓN
+SUEÑO
+CONJELADO
+QUEMADO
+CONFUNDIDO
+ENCAPRICHAMIENTO
+PUNTOS DE EXP.
+EVOLUCIÓN
+"NATURALEZA" Y "CARACTERISTICA"
+POKÉRUS
+HUEVO POKÉMON
+CORRIENDO
+ZAHORÍ
+VIDEOMISOR
+MEDALLAS
 べんりボタン
 メダルラリー
 ポケシフターでポケモンをつれてくる
