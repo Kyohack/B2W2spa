@@ -20,21 +20,21 @@ Vale, ¿y tu nombre?\xf000븁\x0000
 Sí
 No
 ¡Ah! Tu nombre es \xf000Ā\x0001\x0000.\xfffe¡Que nombre hermoso!\xf000븁\x0000
-それでは　あなたと　いつも\xfffeいっしょに　いる　おともだちを\xf000븀\x0000\xfffeあらためて　しょうかい　するわね\xf000븁\x0000
-それでは　つぎは　あなたの\xfffeしりあいに　ついて　きかせてね\xf000븀\x0000\xfffeきんじょの　おにいさん　なんでしょ\xf000븁\x0000
-かれの　なまえも\xfffeおしえてくれるかな\xf000븁\x0000
-ヒュウ
-デフォ１
-デフォ２
-じぶんできめる
-\xf000Ā\x0001\x0001　ね\xfffeそれで　あっている？\xf000븁\x0000
-こちらの　おとこのこは　チェレン\xf000븁\x0000\xfffeきむずかしい　ところも　あるけれど\xfffeまっすぐな　おとこのこ\xf000븁\x0000
-こちらの　おんなのこは　ベル\xf000븁\x0000\xfffeちょっと　マイペース　だけど\xfffeがんばりやの　おんなのこ\xf000븁\x0000
-\xf000Ā\x0001\x0000！\xf000븁\x0000\xfffeこれから　あなたを　たよりにして\xfffeだいじな　だいじな\xf000븀\x0000\xfffeポケモンを　プレゼントします\xf000븁\x0000
-あなたが　パートナーとなる\xfffeポケモンを　えらんだ　そのときから\xf000븁\x0000\xfffeあなただけの\xfffeたびものがたりが　はじまります\xf000븁\x0000\xfffeこの　たびで　あなたは\xfffeかずおおくの　ポケモン\xf000븀\x0000\xfffeいろんな　かんがえの　ひとと\xf000븀\x0000\xfffeであい　ふれあうでしょう！\xf000븁\x0000\xfffeその　さまざまな　であいから\xfffeあなただけの　たいせつな　ものを\xf000븀\x0000\xfffeぜひ　みつけてほしい……\xf000븁\x0000\xfffeそう！　たくさんの　ひとびとや\xfffeポケモンと　ふれあい\xf000븀\x0000\xfffeじぶんじしんを　せいちょう　させる\xf000븁\x0000\xfffeそれが　この　ぼうけんの\xfffeもっとも　おおきな　もくてきです\xf000븁\x0000\xfffeそれでは　いきましょう！\xfffeポケットモンスターの　せかいへ！\xf000븁\x0000
-ちょっと　まってね……！\xfffeいま　いろいろ　じゅんび　してるから
-よーし！\xfffeこれで　オーケーと！\xf000븁\x0000
-ちゅうい！\xfffeべつの　ポケモンレポートが　かかれていますので\xfffeこれから　はじめる　ぼうけんは\xfffeとちゅうで　レポートを　かくことができません\xfffeそれでも　よろしいですか？
-ぼうけんを　はじめる
-メニューに　もどる
-デモをとばす？
+Y estos chicos de aquí... tengo entendido\xfffeque son tus amigos.\xf000븁\x0000
+Permíteme presentarte\xfffea tu rival.\xf000븀\x0000\xfffeÉl vive en tu ciudad.\xf000븁\x0000
+Ahora, ¿cuáll es\xfffesu nombre de nuevo?...\xf000븁\x0000
+Hugh
+Default 1
+Default 2
+¿Cuál es su nombre?
+¿\xf000Ā\x0001\x0001　es\xfffesu nombre?\xf000븁\x0000
+Este chico se llama Cheren.\xf000븁\x0000\xfffeTiene un carácter un poco difícil,\xfffepero es un chico muy sincero.\xf000븁\x0000
+Esta chica se llama Bel.\xf000븁\x0000\xfffeVa un poquito a su aire, pero siempre\xfffepuedes contar con ella.\xf000븁\x0000
+\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeEs importante que te des prisa\xfffey vayas a recojer tu\xf000븀\x0000\xfffenuevo Pokémon.\xf000븁\x0000
+Este pokémon se convertirá\xfffeenn tu compañero.\xf000븁\x0000\xfffeDespués de esto, tu aventura\xfffecomenzará!\xf000븁\x0000\xfffeDurant tu viaje conocerás a muchisímos\xfffePokémon y a mucha gente\xf000븀\x0000\xfffe con distintas personalidades\xf000븀\x0000\xfffey puntos de vista.\xf000븁\x0000\xfffeEstoy segura de que podrás aprender\xfffede odas esas experiencias y descubrir\xf000븀\x0000\xfffelo que es más importante para tí.\xf000븁\x0000\xfffe¡Así es!Conocer a mucha gente y Pokémon\xfffete permitirá crecer como persona.\xf000븀\x0000\xfffeAl fin y al cabo, ese es el objetivo\xfffeprincipal de esta aventura.\xf000븁\x0000\xfffe¡Y ahora en marcha!¡Nos vamos al mundo pokémon\xf000븁\x0000
+Espera un segundo...!\xfffeEstoy haciendo algunos preparativos aquí.
+¡Muy bien!\xfffe¡Ya todo está listo!\xf000븁\x0000
+¡Precaución!\xfffeTienes otra partida guardada,\xfffeasí que la aventura que estás a punto de empezar,\xfffeno podrá ser guardada.\xfffe¿Está bien?
+Comenzar aventura
+Regresar al menú
+¿Saltar demo?
