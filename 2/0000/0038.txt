@@ -8,13 +8,13 @@ OPCIONES
 　
 CHARLAR
 　
-リタイア
-ずかんを　せんたくしました
-ポケモンステータスを　せんたくしました
-バッグを　せんたくしました
-トレーナーカードを　せんたくしました
-レポートを　せんたくしました
-せっていを　せんたくしました
-ポケモンレポートに　かきこんでいます
-ポケモンレポートに\xfffeしっかり　かきのこした！
-つうしんちゅうは　レポートを　かけません
+Retirar
+Pokédex seleccionado.
+Estatus de Pokémon seleccionado.
+Bolsa seleccionada.
+Creden. Entrenador seleccionada.
+Guardar seleccionado.
+Opciones seleccionado.
+Guardando...
+La partida ha sido\xfffecorrectamente salvada!
+Imposible salvar durante comunicación.
