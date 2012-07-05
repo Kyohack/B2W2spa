@@ -1,33 +1,33 @@
 Sobre los “Infrarrojos"
-Sobre“Wi-Fi"
+Sobre “Wi-Fi"
 Sobre “Wi-Fi"
 Sobre “Wireless"
 Sobre “Wireless"
 Sobre “Wireless"
 Sobre “Wireless"
 Sobre “Wireless"
-Sobre “Tag Log"
-Sobre “Tag Log"
-Sobre el “Survey Radar"
-Sobre el “Survey Radar"
-Sobre la “Personalizacion"
+Sobre “Registro de Encuentros"  
+Sobre “Registro de Encuentros"
+Sobre el “Radar de Encuestas"
+Sobre el “Radar de Encuestas"
+Sobre la “Personalización"
 Sobre “Encendido/Apagado"
 Sobre “Encendido/Apagado"
 Usando infrarrojos, puedes entrar en batalla y intercambiar\xfffecon un amigo que tengas delante.\xfffeTambien puedes usar el Test de Compatibilidad para que te\xfffediga el grado de compatibilidad que entre ti y tu\xfffeamigo hay, y intercambiar Codigos de Amigo.
 Presionando el boton de Game Sync,\xfffepuedes seleccionar un Pokémon para mandarlo a dormir\xfffeenviando los datos a través de la\xfffeConexión Wi-Fi Nintendo.
 No puedes conectarte a Conexión Wifi\xfffeNintendo si las correctas\xfffeconfiguraciones del sistema, siempre que quieras\xfffedisponer de señal para la \xfffeConexión Wi-Fi Nintendo.
-La comunicación DS Wireless\xfffeallow you to use the features below\xfffewith your nearby friends.\xfffe-Xtransceiver\xfffe-Entralink
-The Xtransceiver allows you to connect\xfffewith friends you've played with in the\xfffeWi-Fi Club or those you've exchanged\xfffeFriend Codes with using the C-Gear.
-Press the button, and you will be\xfffesent to the Entralink instantly.
-You can tell how many people\xfffeare in the Union Room around you\xfffeand if wireless distributions\xfffeare available nearby.
-You can also tell who has\xfffethe C-Gear turned on around you.\xfffeWhen people are nearby,\xfffeit is easier to receive signals for\xfffethe Tag Log and Survey Radar.
-It displays what people\xfffearound you are doing in real time.\xfffeBy selecting it, you can find out\xfffemore about them and send\xfffethem messages.
-また　フェスミッションが\xfffeかいさい　されているときは\xfffeＦＥＳ　ＭＩＳＳＩＯＮ！　の　もじが\xfffeみぎから　ひだりへ　ながれます。\xfffeフェスミッションは\xfffeすれちがいログから　さんかできます。
-You can do surveys on people\xfffearound you.\xfffe\xfffeChoose what you want to find out,\xfffeand you can see the daily results,\xfffeas well as the cumulative results.
-すれちがいちょうさたい　で\xfffeうけた　ちょうさが　かんりょうすると\xfffeボタンが　てんめつ　します。\xfffeヒウンの　ちょうさたい　たいちょうに\xfffeほうこく　しましょう。
-Touch the Customization icon, and it will\xfffestart blinking. Touch other buttons as it\xfffeblinks, and they will appear differently.\xfffe\xfffeYou can even make patterns with buttons\xfffeof different colors.
-Touch this button to turn\xfffewireless communications on or off.\xfffe\xfffeOnce you turn it off, the touch panel\xfffeturns dark, and wireless communications\xfffewill be turned off.
-のこされた　でんりょくが\xfffeすくない　じょうたいで\xfffeＤＳの　ふたが　とじられていると\xfffeＣギアの　でんげんが\xfffeじどうてきに　オフになります。
-NEXT
-QUIT
-PREVIOUS
+La comunicación DS Wireless\xfffete permite utilizar multiples funciones\xfffecon tus amigos más cercanos.\xfffe-Videomisor\xfffe-Entralink
+El Videomisor te permite conectar\xfffecon los amigos que has jugado en el\xfffeClub Wi-Fi o con los que has intercambiado\xfffeCódigos de Amigo usando el C-Gear.
+Presiona el botón, y seras\xfffeenviado al Entralink instantaneamente.
+Puedes hablar con mucha gente\xfffeque está en la Sala Unión alrededor tuya\xfffey si hay distribuciones wireless\xfffeque están cerca, aparecerán.
+Puedes tambien hablar con quien tiene\xfffeel C-Gear encendido cerca tuya.\xfffeCuando la gente está cerca,\xfffees muy facil recibir señales\xfffedel Registro de Encuentros y el Radar de Encuestas.
+Muestra que gente\xfffealrededor tuya están interactuando en tiempo real.\xfffeSeleccionándolo, puedes descubrir\xfffemás sobre ellos y enviarles\xfffe mensajes.
+Las Fes Missions son el siguiente paso\xfffede las misiones del Entralink\xfffeque van desde recolectar bayas, atrapar Pokémon y\xfffecompletándolas podrás obtener objetos significativos\xfffePara participar en las Fes Missions\xfffepuedes inscribirte desde el Registro del Global Link。
+Puedes hacer encuestas a la gente\xfffealrededor tuya.\xfffe\xfffeElegir que quieres obtener,\xfffey ver los resultados diarios,\xfffecomo los resultados acumulados.
+Pasando encuestas\xfffeal finalizar el estudio comenzará a\xfffeparpadear\xfffela encuesta estudiada\xfffesobre la que informaste.
+Toca el icono de Personalización, y comenzará\xfffea parpadear. Pulsa otros botones\xfffeque parpadean, y aparecerán de forma diferente.\xfffe\xfffePuedes hacer patrones con los botones\xfffede diferentes colores.
+Toca este botón para poner las\xfffe comunicaciones wireless encendidas o opagadas.\xfffe\xfffeUna vez que toques para apagar, el panel tactil\xfffese vuelve oscuro, y las comunicaciones wireless\xfffeserán apagadas.
+El poder del C-Gear\xfffese apaga automáticamente\xfffecuando se cierra la tapa de la DS\xfffepara así no perder\xfffedemasiada energía.
+SIGUIENTE
+SALIR
+ANTERIOR
