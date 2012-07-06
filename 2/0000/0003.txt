@@ -9,7 +9,7 @@ Sí
 No
 バトルビデオに　きろくちゅう　です！\xfffeでんげんを　きらないでください
 Ha guardado El Vídeo Lucha
-ふぐあいにより\xfffeきろく　できませんでした
+Hubo un error. El Vídeo Lucha no se pudo guardar.
 あいてを　まっています\xfffeしばらく　おまち　ください！
 この　あいてとは　ろくが　できません\xfffeしばらく　おまち　ください！
 この　あいてとは　ろくが　できません
