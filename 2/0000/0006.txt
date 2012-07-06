@@ -8,7 +8,7 @@ HUIR
 SALIR
 CERRAR
 MOSTRAR
-ダミー
+Munieco
 CANCELAR
 BOLSA
 CORREO
@@ -155,7 +155,7 @@ Por Nombre
 Más al Mínimo
 Mínimo al Más
 Por Numero
-もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
+\xfffe\xf000Ȃ\x0001\x0001 pertenencias encontradas!
 ¡Tus objetos han sido ordenados\xfffepor numero!
 No encontrado
 Guarda
