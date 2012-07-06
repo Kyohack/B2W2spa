@@ -16,13 +16,13 @@ Sobre “Encendido/Apagado"
 Usando infrarrojos, puedes entrar en batalla y intercambiar\xfffecon un amigo que tengas delante.\xfffeTambien puedes usar el Test de Compatibilidad para que te\xfffediga el grado de compatibilidad que entre ti y tu\xfffeamigo hay, y intercambiar Codigos de Amigo.
 Presionando el boton de Game Sync,\xfffepuedes seleccionar un Pokémon para mandarlo a dormir\xfffeenviando los datos a través de la\xfffeConexión Wi-Fi Nintendo.
 No puedes conectarte a Conexión Wifi\xfffeNintendo si las correctas\xfffeconfiguraciones del sistema, siempre que quieras\xfffedisponer de señal para la \xfffeConexión Wi-Fi Nintendo.
-La comunicación DS Wireless\xfffete permite utilizar multiples funciones\xfffecon tus amigos más cercanos.\xfffe-Videomisor\xfffe-Entralink
+La comunicación DS Wireless\xfffete permite utilizar multiples funciones\xfffecon tus amigos más cercanos.\xfffe-Videomisor\xfffe-Zona Nexo
 El Videomisor te permite conectar\xfffecon los amigos que has jugado en el\xfffeClub Wi-Fi o con los que has intercambiado\xfffeCódigos de Amigo usando el C-Gear.
-Presiona el botón, y seras\xfffeenviado al Entralink instantaneamente.
+Presiona el botón, y seras\xfffeenviado a la Zona Nexo instantaneamente.
 Puedes hablar con mucha gente\xfffeque está en la Sala Unión alrededor tuya\xfffey si hay distribuciones wireless\xfffeque están cerca, aparecerán.
 Puedes tambien hablar con quien tiene\xfffeel C-Gear encendido cerca tuya.\xfffeCuando la gente está cerca,\xfffees muy facil recibir señales\xfffedel Registro de Encuentros y el Radar de Encuestas.
 Muestra que gente\xfffealrededor tuya están interactuando en tiempo real.\xfffeSeleccionándolo, puedes descubrir\xfffemás sobre ellos y enviarles\xfffe mensajes.
-Las Fes Missions son el siguiente paso\xfffede las misiones del Entralink\xfffeque van desde recolectar bayas, atrapar Pokémon y\xfffecompletándolas podrás obtener objetos significativos\xfffePara participar en las Fes Missions\xfffepuedes inscribirte desde el Registro del Global Link。
+Las Fes Missions son el siguiente paso\xfffede las misiones de la Zona Nexo\xfffeque van desde recolectar bayas, atrapar Pokémon y\xfffecompletándolas podrás obtener objetos significativos\xfffePara participar en las Fes Missions\xfffepuedes inscribirte desde el Registro del Global Link。
 Puedes hacer encuestas a la gente\xfffealrededor tuya.\xfffe\xfffeElegir que quieres obtener,\xfffey ver los resultados diarios,\xfffecomo los resultados acumulados.
 Pasando encuestas\xfffeal finalizar el estudio comenzará a\xfffeparpadear\xfffela encuesta estudiada\xfffesobre la que informaste.
 Toca el icono de Personalización, y comenzará\xfffea parpadear. Pulsa otros botones\xfffeque parpadean, y aparecerán de forma diferente.\xfffe\xfffePuedes hacer patrones con los botones\xfffede diferentes colores.
