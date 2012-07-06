@@ -1,7 +1,7 @@
-ともだちコードを　いれてください
-トレインナンバーを\xfffeいれてください（０１－\xf000ȁ\x0001\x0000）
-ランクを　いれてください（０１－\xf000ȁ\x0001\x0000）
-けす
-おわり
-そのトレインナンバーは　ありません\xfffe\xf000ȁ\x0001\x0000までの　すうじを　いれてください
-そのランクは　ありません\xfffe\xf000ȁ\x0001\x0000までの　すうじを　いれてください
+Por favor, introduzca el Código de Amigo.
+Introduce\xfffeNúmero de Entrenador (01-\xf000ȁ\x0001\x0000)
+Introduce\xfffeRango (01-\xf000ȁ\x0001\x0000)
+Regresar
+Vale
+Número de Entrenador no encontrado.\xfffePor favor, introduce un número superior a \xf000ȁ\x0001\x0000.
+Rango no encontrado.\xfffePor favor, introduce un número superior a \xf000ȁ\x0001\x0000.
