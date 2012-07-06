@@ -4,16 +4,16 @@ No
 La última lucha no será guardada.\xfffe¿Vale?
 Sí
 No
-ぜんかいの　バトルビデオを　けして\xfffeうわがき　しても　よろしいですか？
+¿Quieres sobreescribir la exisistente\xfffebatalla grabada?
 Sí
 No
-バトルビデオに　きろくちゅう　です！\xfffeでんげんを　きらないでください
+Guardando la batalla grabada...\xfffe¡No apagues la consola!
 Ha guardado El Vídeo Lucha
-ふぐあいにより\xfffeきろく　できませんでした
-あいてを　まっています\xfffeしばらく　おまち　ください！
-この　あいてとは　ろくが　できません\xfffeしばらく　おまち　ください！
+Ha habido un error\xfffeLa batalla grabada no pudo ser guardada.
+Esperando la decision de tu amigo...\xfffePor favor espera.
+No puedes grabar batallas\xfffecon este Entrenador... Por favor espera.
 この　あいてとは　ろくが　できません
-この　しょうぶは　ろくが　できません
+La ultima batalla no pudo ser guardada
 Límite de Tiempo:
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
