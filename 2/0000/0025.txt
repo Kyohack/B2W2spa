@@ -1,7 +1,7 @@
-Ｃギアの　でんげんを　いれて\xfffeつうしんを　はじめますか？
-オンのときは　ＤＳの　ふたを　とじても\xfffeスリープ　じょうたいに　なりません\xfffeのこりでんちに　ごちゅうい　ください
-Ｃギアの　でんげんを　きって\xfffeつうしんを　せつだん　しますか？
-\xf000\xff00\x0001\x0001ちゅうい！\xf000\xff00\x0001\x0000\xfffeひこうきや　びょういんなど\xfffeむせんつうしんを　きんしに　している\xfffeばしょでは　Ｃギアの　でんげんをきって\xfffeつうしんを　せつだん　してください
-Ｃギアの　でんげんを　オンにできません\xfffeほんたいの　むせんつうしんが\xfffeオフに　なっています\xfffeほんたいせっていで　むせんつうしんを\xfffeオンに　してください　（５０６９９）
-はい
-いいえ
+¿Encender C-Gear y\xfffeestablecer comunicaciones?
+Cuando las comunicaciones están encendidas, cerrando la tapa, el\xfffesistema se pondrá en Modo de Suspensión si la \xfffebatería está agotándose. Por favor, observa la batería.
+Apagar el C-Gear\xfffey cerrar comunicaciones?
+\xf000\xff00\x0001\x0001¡Aviso de seguridad!\xf000\xff00\x0001\x0000\xfffePor favor apaga el C-Gear\xfffeen lugares como aviones\xfffey hospitales donde las comunicaciones wireless\xfffeestán prohibidas.
+C-Gear no puede ser puesto en marcha.\xfffeLas comunicaciones wireless están apagadas.\xfffeActiva las comunicaciones wireless en las\xfffeConfiguraciones del Sistema.\xfffeCódigo de error: 50699
+SI
+NO
