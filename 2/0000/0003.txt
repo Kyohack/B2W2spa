@@ -17,7 +17,7 @@ Esperando la decisión de\xfffetu amigo... Por favor espera.
 Límite de Tiempo:
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
-ぜんかいの　きろく
+Récord anterior
 コロシアム　シングル\xfffeSin Restricciones
 コロシアム　シングル\xfffeフラット
 コロシアム　シングル\xfffeSin Restricciones, シューターあり
