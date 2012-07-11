@@ -1,46 +1,46 @@
-Ｘボタン
-ＳＥＬＥＣＴ
-Ｂボタン
-らくがきツールを　つかう
-がぞうを　とめる
-らくがきを　やめる
-ペンサイズを　へんこう
-いろを　スポイト
-けしゴムに　へんこう
-らくがきツールを　とじる
-スタンプ
-らくがきモード
-ＲＥＣ
-らくがき
-ＩＤ\xf000Ȅ\x0001\x0000
+BOTÓN X
+SELECT
+BOTÓN B
+Usar el marcador graffiti
+Frame congelado
+Salir del modo graffiti
+Cambiar tamaño del lapiz
+Selecciona el color con el cuentagotas
+Usar como borrador
+Cerrar el marcador de graffiti
+Sellos
+MODO GRAFFITI
+REC
+GRAFFITI
+ID \xf000Ȅ\x0001\x0000
 ―／―
-\xf000Ȁ\x0001\x0000／４
-ともだちを　えらんでください
-ともだちを　よびだす
-さんかする
-ともだちを　よびだしちゅう！
-ともだちを　よびだしちゅう・
-ともだちを　よびだしちゅう・・
-ともだちを　よびだしちゅう・・・
-せつぞくちゅう！
-せつぞくちゅう・
-せつぞくちゅう・・
-せつぞくちゅう・・・
-ともだちを　さがしています！
-ともだちを　さがしています・
-ともだちを　さがしています・・
-ともだちを　さがしています・・・
-ライブキャスターを\xfffeしゅうりょう　しますか？
-リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか？
-はい
-いいえ
-リーダーが　しゅうりょうしたので　\xfffeかいさんします
-あいてが　しゅうりょうしたので　\xfffeかいさんします
-メンバーが　いなくなったので\xfffeしゅうりょうします
-よびだしに　しっぱいしました
-せつぞくに　しっぱいしました
-ペアレンタルコントロールの\xfffeせっていにより　しゃしんデータの\xfffeそうじゅしんが\xfffeせいげん　されています\xfffeがぞうを　だしたいときは\xfffeほんたいせっていで\xfffeせいげんを　かいじょ　してください
-あいての　しゅうりょうを　まっています
+\xf000Ȁ\x0001\x0000/4
+Por favor selecciona tu amigo(s).
+LLAMAR A AMIGO(S)
+UNIRSE
+Llamando!
+Llamando.
+Llamando..
+Llamando...
+¡Conectando!
+¡Conectando.
+Conectando..
+Conectando...
+¡Buscando amigos!
+Buscando amigos.
+Buscando amigos..
+Buscando amigos...
+¿Quieres parar el Videomisor?
+Si el lider abandona, el grupo\xfffese disolverá. ¿Está bien?
+SI
+NO
+Mientras que el lider abandone,\xfffeel grupo será disuelto.
+El otro Entrenador ha dejado el grupo.\xfffeLa comunicación finalizará.
+Aquí no hay miembros.\xfffeLa comunicación finalizará.
+Llamada fallida.
+Fallo al conectar.
+El Control Parental prohibe la transferencia\xfffede fotos.\xfffeSi quieres enviarlas, por favor cambia\xfffelas Configuraciones de Sistema para permitirlo.
+Esperando que la otra persona termine...
 ただいま　『\xf000Ĝ\x0001\x0000』の\xfffeさんかしゃを　ぼしゅうちゅうです！\xfffeしめきりまで　あと\xf000ȁ\x0001\x0001びょうです！
 『\xf000Ĝ\x0001\x0000』の\xfffeかいしまで　しばらくおまちください
 『\xf000Ĝ\x0001\x0000』が\xfffeちゅうし　されました
@@ -59,12 +59,12 @@
 \xf000Ĝ\x0001\x0000いろの　ふうせんを　タッチして\xfffeたくさんの　ふうせんを　キャッチしよう！\xfffeほかのいろを　タッチすると　げんてんだぞ！
 タッチスクリーンを　こうごに　タッチ！\xfffeふうせんに　くうきを　いれて\xfffeたくさん　はれつさせよう！
 もういちど\xfffe『\xf000Ĝ\x0001\x0000』を　\xfffeあそびますか？
-バルーンキャッチ
-バルーンスマッシュ
-ゲームルール
-ちゅうし
+Capturar balón
+Chocar balón
+Reglas del Juego
+Cancelar
 \xf000Ȃ\x0001\x0000
-あか
-あお
-き
-みどり
+Rojo
+Azul
+Amarillo
+Verde
