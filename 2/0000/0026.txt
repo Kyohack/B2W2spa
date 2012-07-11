@@ -1,18 +1,18 @@
-ハイリンク
-ライブ\xfffe　　キャスター
-ユニオンルーム
-\xf000ȁ\x0001\x0000にん
-ワイヤレスはいしん
-あり
-なし
-はい
-いいえ
-もどる
-ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか？
-セーブしています\xfffeしばらく　おまちください
-Ｃギア　キャッチ
-あり
-なし
-ハイリンク\xfffe　コネクト…
-ハイリンク\xfffe　ゲスト：\xf000Ȁ\x0001\x0000
-ハイリンク\xfffe　ミッション
+Zona Nexo
+Videomisor\xfffe
+Sala Unión
+\xf000ȁ\x0001\x0000Ppl.
+Distribución Wireless
+Si
+No
+Si
+No
+Regresar
+¿Te gustaría\xfffeguardar la partida?
+Guardando...\xfffePor favor espere
+C-Gear Detectado
+Si
+No
+Conectando\xfffeZona Nexo...
+Zona Nexo\xfffe　Invitados:\xf000Ȁ\x0001\x0000
+Zona Nexo\xfffe　Mision
