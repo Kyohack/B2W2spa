@@ -10,7 +10,7 @@ No
 バトルビデオに　きろくちゅう　です！\xfffeでんげんを　きらないでください
 Ha guardado El Vídeo Lucha
 ふぐあいにより\xfffeきろく　できませんでした
-あいてを　まっています\xfffeしばらく　おまち　ください！
+Esperando la decisión de\xfffetu amigo... Por favor espera.
 この　あいてとは　ろくが　できません\xfffeしばらく　おまち　ください！
 この　あいてとは　ろくが　できません
 この　しょうぶは　ろくが　できません
