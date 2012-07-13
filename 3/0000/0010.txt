@@ -51,15 +51,15 @@ SALIR
 RÉCORDS
 まえのトレイン
 てもちか　バトルボックスの\xfffeどちらを　つかうか　えらんでください
-てもち
-バトルボックス
-やめる
-つうしんで　おともだちと\xfffeいっしょに　ちょうせん　しますか？
-\xf000Ā\x0001\x0000さまの　げんざいの　ランクは\xfffe\xf000ȁ\x0001\x0001　です\xf000븁\x0000
-おまちしておりました！\xf000븁\x0000\xfffeぜんかいの　せいせきを\xfffeＷｉ－Ｆｉコネクションに\xf000븀\x0000\xfffeおくって　いませんが\xf000븀\x0000\xfffeこれから　おくりますか？
-せいせきを　Ｗｉ－Ｆｉコネクションに\xfffeおくりました！\xf000븁\x0000
-He descargado el historial de líderes del \xfffeeltren número \xf000ȁ\x0001\x0000 de rango \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeConfírmalo en el monitor de rendimiento\xfffesituado en el hall de acceso a trenes.\xf000븁\x0000
-ふたりの　うち　ひとりが\xfffeリーダーになる　を　えらび\xf000븁\x0000\xfffeもう　ひとりは　グループにはいる　を\xfffeえらんでください
+EQUIPO
+CAJA DE COMBATE
+VOLVER
+¿Quieres combatir con algún amigo\xfffevía Conexión Inalámbrica?
+El rango actual de \xf000Ā\x0001\x0000 es \xf000ȁ\x0001\x0001.\xf000븁\x0000
+Bienvenido de nuevo.\xf000븁\x0000\xfffeLos datos anteriores no se enviaron\xfffeusando la Conexión Wi-Fi de Nintendo.\xf000븀\x0000\xfffeWould you like to send them now?
+Tus resultados han sido enviados vía\xfffeConexión Wi-Fi de Nintendo.\xf000븁\x0000
+He descargado el historial de líderes del \xfffeel tren número \xf000ȁ\x0001\x0000 de rango \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeConfírmalo en el monitor de rendimiento\xfffesituado en el hall de acceso a trenes.\xf000븁\x0000
+Por favo, decidan quién hará\xfffede líder.\xf000븁\x0000\xfffeLa otra persona deberá seleccionar\xfffe“UNIRSE."
 おともだちと　おなじ\xfffe\xf000ā\x0001\x0000を　えらんで　います！\xf000븁\x0000\xfffeおともだちと　そうだん　してから\xfffeまた　おこし　ください\xf000븁\x0000
 おともだちと　おなじ　\xf000ā\x0001\x0000や\xfffe\xf000ā\x0001\x0001を　えらんで　います！\xf000븁\x0000\xfffeおともだちと　そうだん　してから\xfffeまた　おこし　ください\xf000븁\x0000
 おともだちと　えらんだ\xfffeトレインが　ちがって　います！\xf000븁\x0000\xfffeおともだちと　そうだん　してから\xfffeまた　おこし　ください\xf000븁\x0000
@@ -80,19 +80,19 @@ He descargado el historial de líderes del \xfffeeltren número \xf000ȁ\x0001\x
 うん！　バランスじゅうし　ね！\xfffeさいこうの　ペアに　なろうね！！\xf000븁\x0000
 あっ　そうか！\xfffeじゅんびが　できていないのか\xf000븁\x0000
 あっ　そうか！\xfffeじゅんびが　できていないのね\xf000븁\x0000
-リーダーになる
-グループにはいる
-ＤＳワイヤレスつうしん　を\xfffeかいし　しますか？
+HACER DE LÍDER
+UNIRSE
+¿Quieres iniciar la comunicación\xfffeInalámbrica de Nintendo DS?
 つうしんの　せつだんに\xfffeしっぱい　しました
 レポートに　かきこんでいます\xfffeでんげんを　きらないでください
 ざんねんながら　こんかい　ランクが\xfffe\xf000ȁ\x0001\x0000に　さがって　しまいました……\xf000븁\x0000
-せきがいせんつうしんと\xfffeＤＳワイヤレスつうしん\xf000븁\x0000\xfffeどちらに　されますか？
-せきがいせんつうしん
-ＤＳワイヤレスつうしん
-せきがいせんつうしん　および\xfffeＤＳワイヤレスつうしんを\xf000븀\x0000\xfffeかいし　しますか？
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーシングルトレインは\xfffeシングルトレインを　かちぬいた\xf000븀\x0000\xfffeかたのみ　じょうしゃを\xf000븀\x0000\xfffeごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーダブルトレインは\xfffeダブルトレインを　かちぬいた\xf000븀\x0000\xfffeかたのみ　じょうしゃを\xf000븀\x0000\xfffeごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーマルチトレインは\xfffeマルチトレインを　かちぬいた\xf000븀\x0000\xfffeかたのみ　じょうしゃを\xf000븀\x0000\xfffeごあんない　しております\xf000븁\x0000
+¿Prefieres usar la conexión por\xfffeInfrarrojos o la comunicación\xf000븀\x0000\xfffeInalámbirca de Nintendo DS?
+INFRARROJOS
+INALÁMBICA DS
+¿Quieres iniciar la conexión por\xfffeInfrarrojos y la comunicación\xf000븀\x0000\xfffeInalámbrica de Nintendo DS?
+¡Bienvenidos al Metro Batalla!\xf000븁\x0000\xfffeEl acceso al Supertrén Individual está\xffferestringido a aquellos que hayan vencido\xfffeen el Tren Individual.\xf000븁\x0000
+¡Bienvenidos al Metro Batalla!\xf000븁\x0000\xfffeEl acceso al Supertrén Doble está\xffferestringido a aquellos que hayan vencido\xfffeen el Tren Doble.\xf000븁\x0000
+¡Bienvenidos al Metro Batalla!\xf000븁\x0000\xfffeEl acceso al Supertrén Multi está\xffferestringido a aquellos que hayan vencido\xfffeen el Tren Multi.\xf000븁\x0000
 たのしかったね！\xfffeまた　いっしょに　たたかおうよ！\xf000븁\x0000
 たのしかったね！\xfffeまた　いっしょに　たたかおうね！\xf000븁\x0000
 バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーシングルトレインは\xfffeただいま　じゅんびちゅうです\xf000븁\x0000
@@ -106,8 +106,8 @@ He descargado el historial de líderes del \xfffeeltren número \xf000ȁ\x0001\x
 げんざい　\xf000Ā\x0001\x0000さまは\xfffeトレーナーとマルチ　が\xf000븀\x0000\xfffe\xf000ȃ\x0001\x0001れんしょうちゅう　です\xf000븁\x0000
 げんざい　\xf000Ā\x0001\x0000さまは\xfffeともだちとマルチ　が\xf000븀\x0000\xfffe\xf000ȃ\x0001\x0001れんしょうちゅう　です\xf000븁\x0000
 げんざい　\xf000Ā\x0001\x0000さまは\xfffeトレーナーとマルチ　が\xf000븀\x0000\xfffe\xf000ȃ\x0001\x0001れんしょうちゅう　です\xf000븁\x0000\xfffeともだちとマルチ　が\xfffe\xf000ȃ\x0001\x0002れんしょうちゅう　です\xf000븁\x0000
-NO DATA
-カナワタウンいき　でんしゃに\xfffeじょうしゃ　しますか？
-まもなく　はっしゃ　いたします\xfffeごじょうしゃ　ください！\xf000븁\x0000
-それでは　またの　ごりようを\xfffeおまちして　おります！
-それでは　またの　ごりようを\xfffeおまちして　おります！\xf000븁\x0000
+SIN DATOS
+¿quieres subirte al tren con\xfffedirección a Pueblo Biscuit?
+El tren está a punto de salir.\xfffe¡Pasajeros al tren!.\xf000븁\x0000
+¡Esperamos volver a verte！
+¡Esperamos volver a verte！\xf000븁\x0000
