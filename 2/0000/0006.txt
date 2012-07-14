@@ -8,7 +8,7 @@ HUIR
 SALIR
 CERRAR
 MOSTRAR
-Munieco
+MUÑECO
 CANCELAR
 BOLSA
 CORREO
@@ -18,7 +18,7 @@ VERIFICAR
 NADA
 NO REELIGIR
 ???
-?????
+????
 /
 \xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
 ―
@@ -34,7 +34,7 @@ N.o ID
 　
 Cursor
 ¡Vuelta!
-¿Qué ahora?
+¿Ahora qué?
 Dar
 \xf000Ȃ\x0001\x0000
 ×
@@ -62,7 +62,7 @@ MT activada.
 MO activado.
 Contiene el movimiento \xf000ć\x0001\x0000.\xf000븁\x0000¿Quieres enseñarle \xf000ć\x0001\x0000\xfffea un Pokémon?
 ¡\xf000Ā\x0001\x0000 usó el\xfffe\xf000ĉ\x0001\x0001!
-¡No puedes esar eso ahora porque los\xfffeefectos de un Repelente todavía persisten!
+¡No puedes usar eso ahora porque los\xfffeefectos de un Repelente todavía persisten!
 \xf000Ā\x0001\x0000 usó el\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000¡Pokémon salvaje será atraído!
 \xf000Ā\x0001\x0000 usó el\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000¡Pokémon salvaje serán repelidos!
 ¡La caja está llena!
@@ -71,8 +71,8 @@ Polvos: \xf000ȃ\x0001\x0000
 N.o \xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
 \xf000봂\x0000MO\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Polvo de Baya
-¡Tocó el Poké Flauta!\xfffe¡Ah! ¡Suena sensacional!
-¡Tocó el Poké Flauta!
+¡Tocó la Poké Flauta!\xfffe¡Ah! ¡Suena sensacional!
+¡Tocó la Poké Flauta!
 El Pokémon oyó el\xfffePoké Flauta y se despertó.
 Mueve
 No puedes comprar\xfffe\xf000ĉ\x0001\x0000.
