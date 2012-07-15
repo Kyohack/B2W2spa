@@ -98,18 +98,18 @@ Un fertilizante que se usa en tierra\xfffesuelta donde crecen bayas. Un maniaco\
 Un fertilizante que se usa en tierra\xfffesuelta donde crecen bayas. Un maniaco\xfffecomprará por un precio alto.
 Un fertilizante que se usa en tierra\xfffesuelta donde crecen bayas. Un maniaco\xfffecomprará por un precio alto.
 Fósil de un Pokémon ancestral que\xfffevivió en el fondo del mar.\xfffeParace ser parte de una raíz.
-おおむかし　うみに　すんでいた\xfffeこだい　ポケモンの　カセキ。\xfffeツメの　いちぶ　らしい。
-おおむかし　うみに　すんでいた\xfffeこだい　ポケモンの　カセキ。\xfffeかいがらの　いちぶ　らしい。
-おおむかし　うみに　すんでいた\xfffeこだい　ポケモンの　カセキ。\xfffeこうらの　いちぶ　らしい。
-こだい　ポケモンの　いでんしが\xfffeとじこめられている　コハク。\xfffeあかみを　おびて　すけている。
-おおむかし　ちじょうで　くらした\xfffeこだい　ポケモンの　カセキ。\xfffeえりかざりの　いちぶ　らしい。
-おおむかし　ちじょうで　くらした\xfffeこだい　ポケモンの　カセキ。\xfffeあたまの　いちぶ　らしい。
-ポケモンこうこがくの　うえで\xfffeとても　きちょうな　ホネ。\xfffeショップで　たかく　うれる。
-ある　とくていの　ポケモンを\xfffeしんかさせる　ふしぎな　いし。\xfffeひかりのように　まぶしい。
-ある　とくていの　ポケモンを\xfffeしんかさせる　ふしぎな　いし。\xfffeやみのように　くらい。
-ある　とくていの　ポケモンを\xfffeしんかさせる　ふしぎな　いし。\xfffeひとみのように　まばゆい。
-ある　とくていの　ポケモンを\xfffeしんかさせる　ふしぎな　いし。\xfffeたまのように　まるい。
-これがないと　いしのとうが\xfffeくずれてしまう　だいじないし。\xfffeときどき　いしから　こえがきこえる。
+Fósil de un Pokémon ancestral que\xfffevivió en el fondo del mar.\xfffeParece ser parte de una garra.
+Fósil de un Pokémon ancestral que\xfffevivió en el fondo del mar. Parece ser\xfffeun fragmento de concha marina.
+Fósil de un Pokémon ancestral que\xfffevivió en el fondo del mar.\xfffeParece ser un fragmento de concha.
+Fragmento de ámbar que contiene\xfffeinformación genética de un Pokémon\xfffeancestral. Es de color amarillo.
+Fósil de un Pokémon prehistórico\xfffeterrestre. Parece ser parte\xfffede un cuello.
+Fósil de un Pokémon prehistórico\xfffeterrestre. Parece ser parte\xfffede una cabeza.
+Un hueso de gran valor para la\xfffearqueología Pokémon. Puede alcanzar\xfffeun alto precio en las tiendas.
+Una piedra peculiar que hace\xfffeevolucionar a algunos Pokémon.\xfffeTiene un brillo espectacular.
+Una piedra peculiar que hace\xfffeevolucionar a algunos Pokémon.\xfffeEs oscura como la noche.
+Una piedra peculiar que hace\xfffeevolucionar a algunos Pokémon.\xfffeBrilla como un lucero.
+Una piedra peculiar que hace\xfffeevolucionar a algunos Pokémon.\xfffeTiene forma de huevo.
+Vital para impedir que una torre de\xfffepiedra se derrumbe. A veces se\xfffeoyen voces en su interior.
 ギラティナに　もたせると　ドラゴンと\xfffeゴーストタイプの　わざの　いりょくが\xfffeあがる　ひかり　かがやく　たま。
 ー\xfffeー\xfffeー
 ー\xfffeー\xfffeー
