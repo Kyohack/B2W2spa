@@ -8,7 +8,7 @@ HUIR
 SALIR
 CERRAR
 MOSTRAR
-Munieco
+MUÑECO
 CANCELAR
 BOLSA
 CORREO
@@ -45,24 +45,24 @@ Cerrar
 ¡No puedes escribir mail\xfffeaquí!
 ¡No hay Pokémon!
 Mueve \xf000ĉ\x0001\x0000.
-¡No puedes les dar \xfffe\xf000ĉ\x0001\x0000!
-¡No puedes les dar \xfffe\xf000ĉ\x0001\x0000 aquí!
-¿Guarda cuántos\xfffe\xf000ĉ\x0001\x0000?
+¡No le puedes dar \xfffe\xf000ĉ\x0001\x0000!
+¡No puedes usar \xfffe\xf000ĉ\x0001\x0000 aquí!
+¿Guardar cuántos\xfffe\xf000ĉ\x0001\x0000?
 Guardaste \xf000ĉ\x0001\x0000\xfffe\xf000ȁ\x0001\x0001
 ¡No puedes guardar más!
 ¡Éste es un objeto importante\xfffeasí que no debes tirarlo!
 ¿Tirar cuántos \xf000ĉ\x0001\x0000?
 Tiró \xf000ĉ\x0001\x0000 \xfffe\xf000Ȃ\x0001\x0001.
 ¿Vale tirar \xf000ĉ\x0001\x0000 \xfffe\xf000Ȃ\x0001\x0001?
-Como Profesora Encina dice...\xfffe¡\xf000Ā\x0001\x0000! ¡Hay hora y tiempo\xf000븀\x0000\xfffepara usar eses!
+Como la Profesora Encina dice...\xfffe¡\xf000Ā\x0001\x0000! ¡Hay hora y tiempo\xf000븀\x0000\xfffepara usar esto!
 ¡No puedes desmontar tu bici aquí!
-Como Profesora Encina dice...\xfffe¡\xf000Ā\x0001\x0000! ¡Hay hora y tiempo\xf000븀\x0000\xfffepara usar eses!
+Como la Profesora Encina dice...\xfffe¡\xf000Ā\x0001\x0000! ¡Hay hora y tiempo\xf000븀\x0000\xfffepara usar esto!
 Tus Monedas: \xf000Ȅ\x0001\x0000
 MT activada.
 MO activado.
 Contiene el movimiento \xf000ć\x0001\x0000.\xf000븁\x0000¿Quieres enseñarle \xf000ć\x0001\x0000\xfffea un Pokémon?
 ¡\xf000Ā\x0001\x0000 usó el\xfffe\xf000ĉ\x0001\x0001!
-¡No puedes esar eso ahora porque los\xfffeefectos de un Repelente todavía persisten!
+¡No puedes usar otro ahora porque los\xfffeefectos de un Repelente todavía persisten!
 \xf000Ā\x0001\x0000 usó el\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000¡Pokémon salvaje será atraído!
 \xf000Ā\x0001\x0000 usó el\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000¡Pokémon salvaje serán repelidos!
 ¡La caja está llena!
@@ -134,8 +134,8 @@ Sí
 No
 \xf000봂\x0000\xf000ĉ\x0001\x0000
 ¡Vacío!
-Usaste una Piedra Noche\xfffepero pasó nada...
-Usaste una Piedra Día\xfffepero pasó nada...
+Usaste una Piedra Noche\xfffepero nada pasó...
+Usaste una Piedra Día\xfffepero nada pasó...
 ¡Tus objetos han sido ordenados!
 \xf000Ē\x0001\x0000
 ¡Tus objetos han sido ordenados\xfffepor tipo!
