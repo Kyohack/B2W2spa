@@ -1,56 +1,56 @@
-\xf000Ă\x0001\x0000を　どうする？
-マーキング　してください
+\xf000Ă\x0001\x0000 ha sido seleccionado.
+Marca, por favor.
 ¿Liberas a este Pokémon?
 \xf000Ă\x0001\x0000 ha sido liberado.
 ¡Adiós, \xf000Ă\x0001\x0000!
 ¡Tu equipo está completo!
 ¡Ese es tu último Pokémon!
-¿Qué quieres hacer?
+¿Qué quieres hacer con esta Caja?
 ¿A qué Caja quieres ir?
 Elige un tema.
 Elige un fondo.
 ¿Continuar operaciones?
-La Caja está completa.
+La Caja está llena.
 La Bolsa está llena.
-Sacó el \xf000ĉ\x0001\x0000.
-\xf000ĉ\x0001\x0000を　もたせた！
-¿Cuál cogerás?
+¡Has cogido el objeto \xf000ĉ\x0001\x0000!
+¡Le has dado \xf000ĉ\x0001\x0000 al Pokémon!
+Toca el Pokémon.
 ¿Mover a qué Caja?
-もちものなし
+Sin objetos.
 ♂
 ♀
-¿Toma ese \xf000ĉ\x0001\x0000?
-No puede coger cartas.
-\xf000ĉ\x0001\x0000 es seleccionado.
 ¿Coger el objeto \xf000ĉ\x0001\x0000?
-Has puesto \xf000ĉ\x0001\x0000 en la bolsa.
+No se pueden retirar las Cartas.
+\xf000ĉ\x0001\x0000 es el objeto elegido.
+¿Guardas el objeto \xf000ĉ\x0001\x0000?
+Has puesto \xf000ĉ\x0001\x0000 en la Bolsa.
 Puede llevar un objeto.
-Por favor recoge la Carta.
+Por favor, quita la Carta.
 No puedes liberar un Huevo.
-がったいした　キュレムは　にがせません！
+Kyurem se ha fusionado.
 ¡\xf000Ă\x0001\x0000 ha vuelto!
-しんぱい　だったのかな……
-Un Huevo no puede llevar un objeto.
-¡Toca la Marca!
+¿Estaría preocupado por ti?
+Los Huevos no pueden llevar objetos.
+Toca la marca.
+Se puede poner en la caja.
+Puede ser seleccionado.
+¡Esa caja está llena!
+¡No puedes seleccionar más!
 DEJAR POKÉMON
 SACAR POKÉMON
-La Caja está completa.
-¡Tu equipo está completo!
-ポケモンを　あずける
-ポケモンを　つれていく
-ボックスを　せいりする
+MOVER POKÉMON
 MOVER OBJETO
 CAJA DE COMBATE
-SELECCIONA UN POKÉMON CANSADO
-¡No puede mover cartas!
-¡No puede llevar \xf000ĉ\x0001\x0000!
-¡Lleva correo!
-¡Has quedado sin Pokémon que pueden luchar!
-¡No puede mover cartas!
-No puede llevar cartas aquí.
-¡No puede seleccionar Huevos!
-\xf000Ă\x0001\x0000 será arropado.\xfffe¿Vale?
-Este Pokémon no parece\xfffecansado ahora.
-¿Selecciona otro Pokémon?
-Tu Caja de Combate está cerrado.\xfffeNo puedes mover tus Pokémon.
-Tu Caja de Combate está cerrado.\xfffeNo puede dar o quitar objetos.
+¿ACOSTAR QUÉ POKÉMON?
+No se puede mover la Carta.
+No puede llevar la \xf000ĉ\x0001\x0000.
+Lleva una Carta.
+¡Ese es tu último Pokémon!
+No se puede mover la Carta.
+Aquí no puedes darle una Carta.
+No puedes elegir un Huevo.
+\xf000Ă\x0001\x0000 se irá a la cama.\xfffe¿Estás de acuerdo?
+Parece que ahora no tiene sueño.
+¿Quieres continuar la selección?
+La Caja de Combate está bloqueada.\xfffeNo se pueden mover los Pokémon.
+La Caja de Combate está bloqueada.\xfffeNo se pueden cambiar los objetos.
