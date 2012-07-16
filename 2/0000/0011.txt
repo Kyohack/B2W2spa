@@ -1,75 +1,76 @@
-\xf000ȁ\x0001\x0000にん
-ごうけい\xf000Ȅ\x0001\x0000にん
-だれにおれいをする？
-\xf000Ā\x0001\x0000さんに\xfffeおれいを　しました！
-\xf000Ā\x0001\x0000さんが　はつどうした\xfffe\xf000Đ\x0001\x0001を\xfffeつかいますか？
-とくしゅデルパワー　はつどう！！\xfffe\xf000Đ\x0001\x0001を\xfffeつかいますか？
-\xf000Đ\x0001\x0001を\xfffeつかいました！
-『\xf000Ĝ\x0001\x0000』と\xfffeはつげんしました！
-フェスミッション\xfffe「\xf000ŀ\x0001\x0001」に\xfffeさんか　しますか？
-とくべつな　フェスミッション\xfffe「\xf000ŀ\x0001\x0001」に\xfffeさんか　しますか？
-ほうしゅう　\xf000봃\x0001\x0008\xf000ĉ\x0001\x0003\xf000ȃ\x0001\x0004こ
-じぶんのスコア
-ごうけい
+\xf000ȁ\x0001\x0000 PERS.
+Total: \xf000Ȅ\x0001\x0000 PERS.
+¿Agradeces a...?
+¡Le has dado las gracias a \xf000Ā\x0001\x0000!
+¿Quieres usar \xf000đ\x0001\x0001?\xfffeRegalosferas que necesitas: \xf000Ȃ\x0001\x0002.\xfffeRegalosferas que tienes: \xf000Ȃ\x0001\x0003.
+\xf000Ā\x0001\x0000 ha activado\xfffe\xf000đ\x0001\x0001. ¿Quieres usarlo?
+¡Poder Regalo especial activado!\xfffe¿Quieres usar \xf000đ\x0001\x0001?
+¡Se ha usado \xf000đ\x0001\x0001!
+No tienes suficientes Regalosferas\xfffepara usar el Poder Regalo.\xfffeNecesitas \xf000Ȃ\x0001\x0002. Tienes \xf000Ȃ\x0001\x0003.
+Estás usando \xf000đ\x0001\x0001.\xfffeQuedan: \xf000ȁ\x0001\x0005 s.
+Estás usando \xf000đ\x0001\x0001.\xfffeQuedan: \xf000Ȃ\x0001\x0004 min y \xf000ȁ\x0001\x0005 s.
+¡Has dicho “\xf000Ĝ\x0001\x0000"!
+My Puntuacíon
+Total
 \xf000Ȅ\x0001\x0000
-のこりじかん
+Restante
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
-かくにん
-はい
-いいえ
-かくにん
-とじる
-げんき？
-『\xf000Ā\x0001\x0000』さんが\xfffeちかくに　います
-\xf000Ā\x0001\x0000さんが\xfffeやせいの　\xf000ā\x0001\x0001との\xfffeせんとうを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffeやせいの　\xf000ā\x0001\x0001との\xfffeせんとうに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　ポケモンとの\xfffeせんとうを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　ポケモンとの\xfffeせんとうに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffe\xf000Ď\x0001\x0001の　\xf000Ā\x0001\x0002との\xfffeたいせんを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffe\xf000Ď\x0001\x0001の　\xf000Ā\x0001\x0002との\xfffeたいせんに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffeジムリーダーとの\xfffeたいせんを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffeジムリーダーとの\xfffeたいせんに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　トレーナーとの\xfffeたいせんを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　トレーナーとの\xfffeたいせんに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　トレーナーとの\xfffeたいせんを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　トレーナーとの\xfffeたいせんに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffeやせいの　\xf000ā\x0001\x0001を\xfffeつかまえました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　ポケモンを\xfffeつかまえました！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002の\xfffeレベルが　あがりました！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が　しんかして\xfffe\xf000ā\x0001\x0001に　なりました！
-アクションIDと並びを同一にするための\xfffeダミーメッセージです
-\xf000Ā\x0001\x0000さんが\xfffe\xf000ĉ\x0001\x0001を\xfffeみつけました！
-\xf000Ā\x0001\x0000さんの\xfffeプレイじかんが　\xf000Ȃ\x0001\x0001じかんを\xfffeこえました！
-\xf000Ā\x0001\x0000さんの\xfffeポケモンずかんが　かんせい　しました！
-\xf000Ā\x0001\x0000さんの\xfffeおれいかいすうが　\xf000Ȃ\x0001\x0001かいを\xfffeこえました！
-\xf000Ā\x0001\x0000さんが\xfffeユニオンルームの　うけつけにいます
-\xf000Ā\x0001\x0000さんから\xfffeかんしゃ　されました！
-げんざい　\xf000ā\x0001\x0001を\xfffeはいしんちゅう　です！
-げんざい　\xf000ĉ\x0001\x0001を\xfffeはいしんちゅう　です！
-げんざい　ふしぎな　おくりものを\xfffeはいしんちゅう　です！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002の　こうげきが\xfffeきゅうしょに　あたりました！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が　こうげきを\xfffeきゅうしょに　うけました！
-\xf000Ā\x0001\x0000さんは\xfffeせんとうから　にげだしました！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002の　ＨＰが\xfffeのこりすくない　じょうたいです！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002の　ＰＰが\xfffeのこりすくない　じょうたいです！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が\xfffeひんしの　じょうたいです！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が\xfffeじょうたいいじょうです！
-\xf000Ā\x0001\x0000さんが\xfffe\xf000ĉ\x0001\x0001を\xfffeつかっています
-\xf000Ā\x0001\x0000さんが\xfffe\xf000ć\x0001\x0001を\xfffeつかっています
-\xf000Ā\x0001\x0000さんは\xfffeタマゴを　うけとりました
-\xf000Ā\x0001\x0000さんの　タマゴから\xfffe\xf000ā\x0001\x0001が　うまれました！
-\xf000Ā\x0001\x0000さんは\xfffeかいものちゅうです
-\xf000Ā\x0001\x0000さんは\xfffeバトルサブウェイに\xfffeちょうせんちゅうです
-\xf000Ā\x0001\x0000さんは\xfffeバトルサブウェイで\xfffe\xf000Ȁ\x0001\x0001れんしょうちゅうです！
-\xf000Ā\x0001\x0000さんは\xfffeバトルサブウェイで\xfffeトロフィーを　てにいれました！
-\xf000Ā\x0001\x0000さんは\xfffeトライアルハウスに\xfffeちょうせんしました
-\xf000Ā\x0001\x0000さんは\xfffeトライアルハウスで\xfffe\xf000Ľ\x0001\x0001に　にんていされました！
-\xf000Ā\x0001\x0000さんは\xfffeかんらんしゃに　のりました
-\xf000Ā\x0001\x0000さんは\xfffeポケシフターに　はいりました
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002は　ミュージカルに\xfffeちょうせんちゅうです
-\xf000Ā\x0001\x0000さんは　うけとった\xfffe\xf000Đ\x0001\x0001を\xfffeつかいました！
-\xf000Ā\x0001\x0000さんが\xfffe『\xf000Ĝ\x0001\x0001』と\xfffeはつげんしました
-アクションIDと並びを同一にするための\xfffeダミーメッセージです
+VER
+SÍ
+NO
+VER
+CERRAR
+¡Hola!
+\xf000Ā\x0001\x0000 está cerca.
+¡\xf000Ā\x0001\x0000 ha entablado un combate\x0000
+¡\xf000Ā\x0001\x0000 ha ganado el combate\xfffecontra el \xf000ā\x0001\x0001 salvaje!
+¡\xf000Ā\x0001\x0000 ha entablado un combate\xfffecontra un Pokémon especial!
+¡\xf000Ā\x0001\x0000 ha ganado el combate\xfffecontra el Pokémon especial!
+¡\xf000Ā\x0001\x0000 ha entablado un combate\xfffecontra \xf000Ď\x0001\x0001 \xf000Ā\x0001\x0002!
+¡\xf000Ā\x0001\x0000 ha ganado el combate\xfffecontra \xf000Ď\x0001\x0001 \xf000Ā\x0001\x0002!
+¡\xf000Ā\x0001\x0000 ha entablado un combate\xfffecontra un Líder de Gimnasio!
+¡\xf000Ā\x0001\x0000 ha ganado el combate\xfffecontra un Líder de Gimnasio!
+¡\xf000Ā\x0001\x0000 ha entablado un combate\xfffecontra un Entrenador especial!
+¡\xf000Ā\x0001\x0000 ha ganado el combate\xfffecontra un Entrenador especial!
+¡\xf000Ā\x0001\x0000 ha entablado un combate\xfffecontra un Entrenador especial!
+¡\xf000Ā\x0001\x0000 ha ganado el combate\xfffecontra un Entrenador especial!
+¡\xf000Ā\x0001\x0000 ha capturado\xfffeun \xf000ā\x0001\x0001 salvaje!
+¡\xf000Ā\x0001\x0000 ha capturado\xfffeun Pokémon especial!
+¡El \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000\xfffeha subido de nivel!
+¡El \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000\xfffeha evolucionado a \xf000ā\x0001\x0001!
+Tu Rango y Action ID\xfffeSon iguales
+¡\xf000Ā\x0001\x0000 ha encontrado el objeto\xfffe\xf000ĉ\x0001\x0001!
+¡El tiempo de juego de \xf000Ā\x0001\x0000\xfffees de más de \xf000Ȃ\x0001\x0001 h!
+¡\xf000Ā\x0001\x0000 ha completado la Pokédex!
+¡\xf000Ā\x0001\x0000 ha recibido más de \xf000Ȃ\x0001\x0001\xfffeagradecimientos!
+\xf000Ā\x0001\x0000 está en el mostrador de\xffferecepción de la Sala Unión.
+¡\xf000Ā\x0001\x0000 te ha dado las gracias!
+¡Se está realizando un evento de\xfffedistribución de \xf000ā\x0001\x0001!
+¡Se está realizando un evento de\xfffedistribución del objeto \xf000ĉ\x0001\x0001!
+¡Se está realizando un evento de\xfffedistribución de regalo misterioso!
+¡El \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000\xfffeha propinado un golpe crítico!
+¡El \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000\xfffeha recibido un golpe crítico!
+¡\xf000Ā\x0001\x0000 ha huido del combate!
+¡Al \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000 le quedan\xfffemuy pocos PS!
+¡Al \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000 le quedan\xfffemuy pocos PP!
+¡El \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000\xfffese ha debilitado!
+¡El \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000\xfffeha sufrido un cambio de estado!
+¡\xf000Ā\x0001\x0000 ha usado\xfffeel objeto \xf000ĉ\x0001\x0001!
+¡\xf000Ā\x0001\x0000 ha usado \xf000ć\x0001\x0001!
+¡\xf000Ā\x0001\x0000 ha recibido un Huevo!
+¡\xf000ā\x0001\x0001 ha nacido del Huevo\xfffede \xf000Ā\x0001\x0000!
+\xf000Ā\x0001\x0000 está comprando.
+\xf000Ā\x0001\x0000 está combatiendo\xfffeen el Metro Batalla.
+¡\xf000Ā\x0001\x0000 ha conseguido \xf000Ȁ\x0001\x0001 victorias\xfffeconsecutivas en el Metro Batalla!
+¡\xf000Ā\x0001\x0000 ha obtenido un trofeo\xfffeen el Metro Batalla!
+\xf000Ā\x0001\x0000 se está enfrentando\xfffeen la Casa Examinadora.
+¡\xf000Ā\x0001\x0000 ha obtenido la calificación\xfffe“\xf000Ɓ\x0001\x0001"\xfffeen la Casa Examinadora!
+\xf000Ā\x0001\x0000 ha montado en la noria.
+\xf000Ā\x0001\x0000 ha entrado\xfffeen el Pokétransfer.
+El \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000\xfffeestá participando en el Musical.
+¡\xf000Ā\x0001\x0000 ha usado\xfffeel \xf000đ\x0001\x0001 recibido!
+\xf000Ā\x0001\x0000 ha dicho “\xf000Ĝ\x0001\x0001".
+Mensaje fastidioso para ordenar y marcar\xfffe tu Action ID
 \xf000Ā\x0001\x0000さんは\xfffe\xf000Ŀ\x0001\x0001\xfffeを　ポケウッドで　さつえいちゅうです
 \xf000Ā\x0001\x0000さんは\xfffe\xf000Ŀ\x0001\x0001\xfffeを　ポケウッドで　かんしょうちゅうです
 \xf000Ā\x0001\x0000さんは\xfffe\xf000Ļ\x0001\x0001に\xfffeちょうせんちゅうです
@@ -78,4 +79,3 @@
 \xf000Ā\x0001\x0000さんは\xfffe\xf000Ļ\x0001\x0001で\xfffeゆうしょう　しました！
 \xf000Ā\x0001\x0000さんは\xfffeジョインアベニューで\xfffeかいものを　しています
 \xf000Ā\x0001\x0000さんは\xfffe\xf000ą\x0001\x0001の　エリア\xf000ȁ\x0001\x0002に\xfffeちょうせんちゅうです
-\xf000Ā\x0001\x0000さんは\xfffe\xf000ą\x0001\x0001の　エリア\xf000ȁ\x0001\x0002を\xfffeクリアしました！
