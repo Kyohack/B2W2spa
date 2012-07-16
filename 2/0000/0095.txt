@@ -1,11 +1,11 @@
-グループにはいる
-リーダーになる
-やめる
-はじめる
-もどる
+Unirse a grupo
+Convertirse en líder
+QUITAR
+COMENZAR
+VOLVER
 １：\xf000Ā\x0001\x0000
 ２：\xf000Ā\x0001\x0000
 ３：\xf000Ā\x0001\x0000
 ４：\xf000Ā\x0001\x0000
-リーダーになるか　グループにはいるか\xfffeえらんでください
-メンバーが　そろったら\xfffeはじめるを　せんたく　してください
+Selecciona esta opción\xfffepara ser el lider de tu grupo.
+Todos estan listos.\xfffePulsa Start .
