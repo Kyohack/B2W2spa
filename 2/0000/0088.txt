@@ -1,10 +1,10 @@
-はなしかけています
-……だれかが　はなしかけてきました
-……　……　……どうやら\xfffeとりこみちゅうの　ようだ
-しばらくおまちください……
-あいてとの　かいわが　きれました
-あいてに　さきを　こされました
-つうしんが　きれました
+Inicias la conversación.
+Alguien te habla.
+Parece que esta persona está ocupada.
+Por favor, espera.
+La conversación se ha interrumpido.
+Se te han adelantado.
+Se ha interrumpido la comunicación.
 ー
 ー
 ー
