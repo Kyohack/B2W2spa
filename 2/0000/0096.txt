@@ -1,24 +1,24 @@
-おとこのひと
-おんなのこ
-おんなのひと
-おとこのこ
-クール
-キュート
-エレガント
-ユニーク
-こせいてき
-バランスがいい
-クールきょく
-キュートきょく
-エレガントきょく
-ユニークきょく
-はいしんきょく
-はいしんダミー
-みみ
-あたま
-かお
-かお
-からだ
-こし
-うで
-かお
+Los chicos
+Las niñas
+Las chicas
+Los niños
+Chulo
+Adorable
+Elegante
+Inimitable
+Personal
+Equilibrado
+Canción chula
+Canción adorable
+Canción elegante
+Canción inimatable
+Canción del transistor
+Transmisión de simulación
+Las orejas
+La cabeza
+La cara
+La cara
+El cuerpo
+La cadera
+Las manos
+La cara
