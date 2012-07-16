@@ -1,28 +1,28 @@
 ？？？
-La Poké Ball definitiva.\xfffeAtrapa a cualquier Pokémon salvaje\xfffey no falla nunca.
+La Poké Ball definitiva. Atrapa\xfffecualquier Pokémon salvaje y no\xfffefalla nunca.
 Poké Ball de rendimiento superior.\xfffeTiene un índice de éxito mayor\xfffeal de la Superball.
 Poké Ball de alto rendimiento.\xfffeTiene un índice de éxito superior\xfffeal de la Poké Ball.
 Dispositivo con diseño capsular que\xfffeatrapa Pokémon salvajes. Se lanza\xfffecomo una bola contra el blanco.
-Poké Ball con un diseño de camuflaje\xfffeque se utiliza únicamente en el\xfffeGran Pantano.
+Poké Ball con un diseño de camuflaje\xfffeque se utiliza únicamente en el Gran\xfffePantano.
 Es algo distinta a las demás. Funciona\xfffeespecialmente bien con los Pokémon\xfffede tipo Agua y Bicho.
-Es algo distinta a las demás. Funciona\xfffeespecialmente bien con los Pokémon\xfffeque viven en el mar.
-Es algo distinta a las demás. Funciona\xfffeespecialmente bien con los Pokémon\xfffesalvajes de menor nivel.
-Es algo distinta a las demás. Funciona\xfffeespecialmente bien con los Pokémon\xfffeiguales a los que ya has capturado.
+Es algo distinta a las demás. Funciona\xfffeespecialmente bien con los Pokémon\xfffeque viven bajo el agua.
+Es algo distinta a las demás. Funciona\xfffeespecialmente bien con los Pokémon\xfffesalvajes de nivel bajo.
+Es algo distinta a las demás. Funciona\xfffeespecialmente bien con las especies\xfffede Pokémon que ya has capturado.
 Una Poké Ball algo distinta que va\xfffemejorando su rendimiento con cada\xfffeturno de combate.
 Acogedora Poké Ball que hace más\xfffeamistosos a los Pokémon salvajes\xfffecapturados.
-Es una Poké Ball muy particular que se\xfffecreó para conmemorar algún\xfffeacontecimiento.
+Es una Poké Ball algo singular\xfffeque se creó para conmemorar\xfffealgún acontecimiento.
 Es algo distinta. Hace que sea más fácil\xfffecapturar a los Pokémon salvajes por la\xfffenoche o en lugares oscuros.
-Poké Ball curativa que restaura los PS\xfffede un Pokémon capturado y cura sus\xfffeproblemas de estado.
-Una Poké Ball algo distinta que potencia\xfffeel índice de capturar si se usa al inicio\xfffede un encuentro con Pokémon salvajes.
-Es una Poké Ball muy particular que se\xfffecreó para conmemorar algún\xfffeacontecimiento.
+Poké Ball curativa que restaura los PS\xfffey cura todos los problemas de estado\xfffede un Pokémon después de capturarlo.
+Una Poké Ball algo distinta que potencia\xfffeel índice de captura si se usa al inicio\xfffede un encuentro con Pokémon salvajes.
+Es una Poké Ball bastante singular\xfffeque se creó para conmemorar\xfffealguna ocasión especial.
 Medicina en espray que cura heridas\xfffey restaura 20 PS a un Pokémon.
 Medicina en espray que contrarresta\xfffelos efectos del veneno en un Pokémon.
 Medicina en espray que cura\xfffelas quemaduras a un Pokémon.
 Medicina en espray que descongela\xfffeun Pokémon.
 Medicina en espray que libera un\xfffePokémon de las garras del sueño.
 Medicina en espray que cura\xfffeun Pokémon paralizado.
-Medicina que restaura todos los PS y\xfffecura todos los problemas de estado de un\xfffePokémon.
-Medicina en espray que cura heridas\xfffey restaura todos los PS de un Pokémon
+Medicina que restaura todos los PS\xfffey cura todos los problemas de\xfffeestado de un Pokémon.
+Medicina en espray que cura heridas\xfffey restaura todos los PS de un Pokémon.
 Medicina en espray que cura heridas\xfffey restaura 200 PS de un Pokémon.
 Medicina en espray que cura heridas\xfffey restaura 50 PS de un Pokémon.
 Medicina en espray que cura todos los\xfffeproblemas de estado de un Pokémon.
@@ -30,50 +30,50 @@ Medicina que reanima a un Pokémon\xfffedebilitado y restaura la mitad de\xfffes
 Medicina que reanima a un Pokémon\xfffedebilitado y restaura todos sus PS.
 Agua de alto contenido mineral que\xffferestaura 50 PS de un Pokémon.
 Chispeante bebida gaseosa que\xffferestaura 60 PS de un Pokémon.
-Bebida dulce que restaura 80 PS de\xfffeun Pokémon.
+Bebida muy dulce que restaura 80 PS\xfffede un Pokémon.
 Leche de alto valor nutritivo que\xffferestaura 100 PS de un Pokémon.
 Polvo medicinal muy amargo que\xffferestaura 50 PS de un Pokémon.
 Raíz muy amarga que restaura\xfffe200 PS de un Pokémon.
-Polvos muy amargos que curan todos\xfffelos problemas de estado de un Pokémon.
-Hierba muy amarga que reanima a un\xfffePokémon debilitado y restaura todos\xfffesus PS.
+Polvos medicinales muy amargos que\xfffecuran todos los problemas de estado\xfffede un Pokémon.
+Hierba muy amarga que reanima a\xfffeun Pokémon debilitado y restaura\xfffetodos sus PS.
 Restaura un máximo de 10 PP del\xfffemovimiento elegido de un Pokémon.
 Restaura completamente los PP del\xfffemovimiento elegido de un Pokémon.
 Restaura 10 PP de todos los movimientos\xfffeaprendidos por el Pokémon elegido.
-Restaura completamente los PP de\xfffetodos los movimientos aprendidos por\xfffeel Pokémon elegido.
-Dulce típico de Pueblo Lavacalda que\xfffe cura todos los problemas de estado de un Pokémon.
-Zumo de bayas 100% natural que\xffferestaura 20 PS de un Pokémon.
-Reanima completamente a los Pokémon\xfffedebilitados y restaura todos sus PS.
-Nutritiva bebida que aumenta los PS de\xfffebase de un Pokémon.
+Restaura completamente los PP de\xfffetodos los movimientos aprendidos\xfffepor el Pokémon elegido.
+Dulce típico de Pueblo Lavacalda\xfffeque cura todos los problemas de\xfffeestado de un Pokémon.
+Zumo de Bayas 100% natural que\xffferestaura 20 PS de un Pokémon.
+Reanima completamente a todos los\xfffePokémon debilitados y restaura\xfffetodos sus PS.
+Nutritiva bebida que aumenta los PS\xfffede base de un Pokémon.
 Nutritiva bebida que aumenta el Ataque\xfffede base de un Pokémon.
 Nutritiva bebida que aumenta la Defensa\xfffede base de un Pokémon.
-Nutritiva bebida que aumenta la Velocidad\xfffede base de un Pokémon.
+Nutritiva bebida que aumenta la\xfffeVelocidad de base de un Pokémon.
 Nutritiva bebida que aumenta el Ataque\xfffeEspecial de base de un Pokémon.
 Caramelo energético que sube\xfffea un Pokémon de nivel.
-Aumenta ligeramente los PP máximos\xfffedel movimiento que elijas de un\xfffePokémon.
+Aumenta ligeramente los PP máximos del\xfffemovimiento elegido de un Pokémon.
 Nutritiva bebida que aumenta la Defensa\xfffeEspecial de base de un Pokémon.
-Aumenta al máximo los PP del\xfffemovimiento que elijas de un Pokémon.
-Especialidad de la Vieja Mansión.\xfffeCura los problemas de estado de\xfffeun Pokémon.
-Evita que bajen las características del\xfffeequipo Pokémon durante cinco turnos.
-Aumenta el índice de golpe crítico en\xfffecombate. Al cambiar de Pokémon, el\xfffeefecto desaparece.
+Aumenta hasta el límite los PP máximos\xfffedel movimiento elegido de un Pokémon.
+Especialidad de la Vieja Mansión.\xfffeCura todos los problemas de estado\xfffede un Pokémon.
+Evita que bajen las características\xfffedel equipo Pokémon durante\xfffecinco turnos.
+Aumenta el índice de golpe crítico\xfffeen combate. Al cambiar de\xfffePokémon, el efecto desaparece.
 Aumenta el Ataque en combate.\xfffeAl cambiar de Pokémon, el efecto\xfffedesaparece.
 Aumenta la Defensa en combate.\xfffeAl cambiar de Pokémon, el efecto\xfffedesaparece.
 Aumenta la Velocidad en combate.\xfffeAl cambiar de Pokémon, el efecto\xfffedesaparece.
-Aumenta la precisión de los\xfffemovimientos en combate. Al cambiar de\xfffePokémon, el efecto desaparece.
-Aumenta el Ataque Especial en\xfffecombate. Al cambiar de Pokémon, el\xfffeefecto desaparece.
-Aumenta la Defensa Especial en\xfffecombate. Al cambiar de Pokémon, el\xfffeefecto desaparece.
-Un muñeco que atrae a los Pokémon.\xfffePuedes utilizarlo para huir de un\xfffecombate con un Pokémon salvaje.
-Atrae a los Pokémon y sirve para\xfffehuir de un combate con un Pokémon\xfffesalvaje.
-Flauta de cristal azul cuya melodía\xfffedesperta a los Pokémon dormidos.
-Flauta de cristal amarillo que\xfffeespabila a los Pokémon confusos.
-Flauta de cristal rojo que libera\xfffea un Pokémon del enamoramiento.
-Flauta de cristal negro cuya melodía\xfffeayuda a reducir las probabilidades\xfffede encontrarse con Pokémon salvajes.
-Flauta de cristal blanco cuya melodía\xfffeayuda a aumentar las probabilidades\xfffede encontrarse con Pokémon salvajes.
-Sal pura y de sabor intenso procedente\xfffede las profundidades de la Cueva\xfffeCardumen.
-Hermosa concha marina hallada en lo\xfffemás profunda de la Cueva Cardumen.\xfffeTiene rayas azules y blancas.
-Parece formar parte de algún tipo de\xfffeherramienta antigua.
-Parece formar parte de algún tipo de\xfffeherramienta antigua.
-Parece formar parte de algún tipo de\xfffeherramienta antigua.
-Parece formar parte de algún tipo de\xfffeherramienta antigua.
+Aumenta la Precisión de los ataques\xfffeen combate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta el Ataque Especial\xfffeen combate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta la Defensa Especial en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Un muñeco que atrae a los Pokémon.\xfffeEs útil para huir de un combate\xfffecontra un Pokémon salvaje.
+Un objeto que atrae a los Pokémon.\xfffeEs útil para huir de un combate\xfffecontra un Pokémon salvaje.
+Una flauta de juguete hecha \xfffede cristal azul. \xfffeMuy valorada por los coleccionistas.
+Una flauta de juguete hecha de\xfffecristal amarillo.\xfffeMuy valorada por los coleccionistas.
+Una flauta de juguete hecha de\xfffecristal rojo.\xfffeMuy valorada por los coleccionistas.
+Una flauta de juguete hecha de\xfffecristal negro.\xfffeMuy valorada por los coleccionistas.
+Una flauta de juguete hecha de\xfffecristal blanco.\xfffeMuy valorada por los coleccionistas.
+Una sal muy fina encontrada en la\xfffeCueva Cardumen.\xfffeMuy valorada por los coleccionistas.
+Concha encontrada en la Cueva\xfffeCardumen.\xfffeMuy valorada por los coleccionistas.
+Un pequeño fragmento rojo.\xfffeParece formar parte de algún tipo\xfffede herramienta antigua.
+Un pequeño fragmento azul.\xfffeParece formar parte de algún tipo\xfffede herramienta antigua.
+Un pequeño fragmento amarillo.\xfffeParece formar parte de algún tipo\xfffede herramienta antigua.
+Un pequeño fragmento verde.\xfffeParece formar parte de algún tipo\xfffede herramienta antigua.
 Repele Pokémon salvajes débiles\xfffeen un recorrido de 200 pasos.
 Repele Pokémon salvajes débiles\xfffeen un recorrido de 250 pasos.
 Cuerda larga y resistente que sirve\xfffepara huir de cuevas y sitios cerrados\xfffeen general.
@@ -81,47 +81,43 @@ Repele Pokémon salvajes débiles\xfffeen un recorrido de 100 pasos.
 Curiosa piedra que hace evolucionar\xfffea determinadas especies de Pokémon.\xfffeEs roja como el núcleo del sol.
 Curiosa piedra que hace evolucionar\xfffea determinadas especies de Pokémon.\xfffeEs negra como el azabache.
 Curiosa piedra que hace evolucionar\xfffea determinadas especies de Pokémon.\xfffeEs amarilla con una marca naranja.
-Curiosa piedra que hace evolucionar\xfffea determinadas especies de Pokémon.\xfffeTiene dibujado un rayo.
+Curiosa piedra que hace evolucionar\xfffea determinadas especies de Pokémon.\xfffeTiene grabado un rayo.
 Curiosa piedra que hace evolucionar\xfffea determinadas especies de Pokémon.\xfffeEs de color azul.
-Curiosa piedra que hace evolucionar\xfffea determinadas especies de Pokémon.\xfffeTiene dibujada una hoja.
+Curiosa piedra que hace evolucionar\xfffea determinadas especies de Pokémon.\xfffeTiene grabada una hoja.
 Una pequeña seta que es poco común\xfffey bastante popular entre determinados\xfffegrupos de gourmets.
 Una gran seta que es poco común\xfffey muy popular entre determinados\xfffegrupos de gourmets.
 Brillante perla pequeña y plateada\xfffeque no alcanza un buen precio en\xfffelas tiendas.
-Brillante perla plateada de gran\xfffetamaño que puede venderse a buen\xfffeprecio en las tiendas.
+Brillante perla plateada de gran\xfffetamaño que puede venderse\xfffea buen precio en las tiendas.
 Bonita arena roja de tacto sedoso que\xfffealcanza un alto precio en las tiendas.
-Fragmento de una bonita gema roja que\xfffepuede venderse muy caro en las tiendas.
-Pepita de oro puro que desprende un\xfffebrillo espectacular.\xfffePuede venderse muy cara en las tiendas.
+Fragmento de una bonita gema roja\xfffeque puede venderse muy caro en las\xfffetiendas.
+Pepita de oro puro que desprende\xfffeun brillo espectacular. Puede venderse\xfffemuy cara en las tiendas.
 Bella escama con forma de corazón\xfffeque brilla ligeramente como los colores\xfffedel arcoíris. Es muy poco común.
 Su delicioso aroma atrae a Pokémon\xfffesalvajes si se usa en zonas de hierba\xfffealta, cuevas o árboles especiales.
-Un fertilizante que se usa en tierra\xfffesuelta donde crecen bayas. Un maniaco\xfffecomprará por un precio alto.
-Un fertilizante que se usa en tierra\xfffesuelta donde crecen bayas. Un maniaco\xfffecomprará por un precio alto.
-Un fertilizante que se usa en tierra\xfffesuelta donde crecen bayas. Un maniaco\xfffecomprará por un precio alto.
-Un fertilizante que se usa en tierra\xfffesuelta donde crecen bayas. Un maniaco\xfffecomprará por un precio alto.
-Fósil de un Pokémon ancestral que\xfffevivió en el fondo del mar.\xfffeParace ser parte de una raíz.
-おおむかし　うみに　すんでいた\xfffeこだい　ポケモンの　カセキ。\xfffeツメの　いちぶ　らしい。
-おおむかし　うみに　すんでいた\xfffeこだい　ポケモンの　カセキ。\xfffeかいがらの　いちぶ　らしい。
-おおむかし　うみに　すんでいた\xfffeこだい　ポケモンの　カセキ。\xfffeこうらの　いちぶ　らしい。
-こだい　ポケモンの　いでんしが\xfffeとじこめられている　コハク。\xfffeあかみを　おびて　すけている。
-おおむかし　ちじょうで　くらした\xfffeこだい　ポケモンの　カセキ。\xfffeえりかざりの　いちぶ　らしい。
-おおむかし　ちじょうで　くらした\xfffeこだい　ポケモンの　カセキ。\xfffeあたまの　いちぶ　らしい。
-ポケモンこうこがくの　うえで\xfffeとても　きちょうな　ホネ。\xfffeショップで　たかく　うれる。
-ある　とくていの　ポケモンを\xfffeしんかさせる　ふしぎな　いし。\xfffeひかりのように　まぶしい。
-ある　とくていの　ポケモンを\xfffeしんかさせる　ふしぎな　いし。\xfffeやみのように　くらい。
-ある　とくていの　ポケモンを\xfffeしんかさせる　ふしぎな　いし。\xfffeひとみのように　まばゆい。
-ある　とくていの　ポケモンを\xfffeしんかさせる　ふしぎな　いし。\xfffeたまのように　まるい。
-これがないと　いしのとうが\xfffeくずれてしまう　だいじないし。\xfffeときどき　いしから　こえがきこえる。
-ギラティナに　もたせると　ドラゴンと\xfffeゴーストタイプの　わざの　いりょくが\xfffeあがる　ひかり　かがやく　たま。
+Un fertilizante usado en suelo fértil\xfffedonde crecen las Bayas.\xfffeMuy apreciado por los coleccionistas.
+Un fertilizante usado en suelo fértil\xfffedonde crecen las Bayas.\xfffeMuy apreciado por los coleccionistas.
+Un fertilizante usado en suelo fértil\xfffedonde crecen las Bayas.\xfffeMuy apreciado por los coleccionistas.
+Un fertilizante usado en suelo fértil\xfffedonde crecen las Bayas.\xfffeMuy apreciado por los coleccionistas.
+Fósil de un Pokémon ancestral que\xfffevivió en el fondo del mar. Parece\xfffeser parte de una raíz.
+Fósil de un Pokémon ancestral que\xfffevivió en el fondo del mar. Parece\xfffeser parte de una garra.
+Fósil de un Pokémon ancestral que\xfffevivió en el fondo del mar. Parece ser\xfffeun fragmento de concha marina.
+Fósil de un Pokémon ancestral\xfffeque vivió en el fondo del mar.\xfffeParece ser un fragmento de concha.
+Fragmento de ámbar que contiene\xfffeinformación genética de un Pokémon\xfffeancestral. Es de color amarillo.
+Fósil de un Pokémon prehistórico\xfffeterrestre. Parece ser parte\xfffede un cuello.
+Fósil de un Pokémon prehistórico\xfffeterrestre. Parece ser parte de una\xfffecabeza.
+Un hueso de gran valor para la\xfffearqueología Pokémon. Puede alcanzar\xfffeun alto precio en las tiendas.
+Una piedra peculiar que hace\xfffeevolucionar a algunos Pokémon.\xfffeTiene un brillo espectacular.
+Una piedra peculiar que hace\xfffeevolucionar a algunos Pokémon.\xfffeEs oscura como la noche.
+Una piedra peculiar que hace\xfffeevolucionar a algunos Pokémon.\xfffeBrilla como un lucero.
+Una piedra peculiar que hace\xfffeevolucionar a algunos Pokémon.\xfffeTiene forma de huevo.
+Vital para impedir que una torre de\xfffepiedra se derrumbe. A veces se\xfffeoyen voces en su interior.
+Una esfera brillante que potencia los\xfffemovimientos de tipo Dragón y Fantasma.\xfffeDebe llevarla Giratina.
 ー\xfffeー\xfffeー
 ー\xfffeー\xfffeー
 ー\xfffeー\xfffeー
-ゲノセクトに　もたせると\xfffeテクノバスターという　わざが\xfffeみずタイプになる　カセット。
-ゲノセクトに　もたせると\xfffeテクノバスターという　わざが\xfffeでんきタイプになる　カセット。
-ゲノセクトに　もたせると\xfffeテクノバスターという　わざが\xfffeほのおタイプになる　カセット。
-ゲノセクトに　もたせると\xfffeテクノバスターという　わざが\xfffeこおりタイプになる　カセット。
-ー\xfffeー\xfffeー
-ー\xfffeー\xfffeー
-ー\xfffeー\xfffeー
-ー\xfffeー\xfffeー
+Cartucho que convierte\xfffeTecno Shock de Genesect\xfffeen un movimiento de tipo Agua.
+Cartucho que convierte\xfffeTecno Shock de Genesect\xfffeen un movimiento de tipo Eléctrico.
+Cartucho que convierte\xfffeTecno Shock de Genesect\xfffeen un movimiento de tipo Fuego.
+Cartucho que convierte\xfffeTecno Shock de Genesect\xfffeen un movimiento de tipo Hielo.
 ー\xfffeー\xfffeー
 ー\xfffeー\xfffeー
 ー\xfffeー\xfffeー
@@ -132,508 +128,512 @@ Fósil de un Pokémon ancestral que\xfffevivió en el fondo del mar.\xfffeParace
 ー\xfffeー\xfffeー
 ー\xfffeー\xfffeー
 ー\xfffeー\xfffeー
-とても　あまったるい　チョコレート。\xfffeポケモン　１ひきの　ＨＰを\xfffe２０だけ　かいふくする。
-ディアルガに　もたせると　ドラゴンと\xfffeはがねタイプの　わざの　いりょくが\xfffeあがる　ひかり　かがやく　たま。
-パルキアに　もたせると　ドラゴンと\xfffeみずタイプの　わざの　いりょくが\xfffeあがる　うつくしく　かがやく　たま。
-はじめましての　あいさつが\xfffeかきやすい　びんせん。\xfffeポケモンに　もたせて　つかう。
-すきなものを　つたえる　メールが\xfffeかきやすい　びんせん。\xfffeポケモンに　もたせて　つかう。
-あいてを　おさそいする　メールが\xfffeかきやすい　びんせん。\xfffeポケモンに　もたせて　つかう。
-かんしゃを　つたえる　メールが\xfffeかきやすい　びんせん。\xfffeポケモンに　もたせて　つかう。
-あいてへの　しつもんの　メールが\xfffeかきやすい　びんせん。\xfffeポケモンに　もたせて　つかう。
-なにかを　おすすめする　メールが\xfffeかきやすい　びんせん。\xfffeポケモンに　もたせて　つかう。
-もらった　メールへの　おかえしが\xfffeかきやすい　びんせん。\xfffeポケモンに　もたせて　つかう。
-そらを　つらぬく　はしの　えがらが\xfffeプリントされた　びんせん。\xfffeポケモンに　もたせて　つかう。
-まっかな　はねばしの　えがらが\xfffeプリントされた　びんせん。\xfffeポケモンに　もたせて　つかう。
-こうてつの　つりばしの　えがらが\xfffeプリントされた　びんせん。\xfffeポケモンに　もたせて　つかう。
-レンガづくりの　はしの　えがらが\xfffeプリントされた　びんせん。\xfffeポケモンに　もたせて　つかう。
-アーチを　えがいた　はしの　えがらが\xfffeプリントされた　びんせん。\xfffeポケモンに　もたせて　つかう。
-ポケモンに　もたせると\xfffeまひを　かいふくする。\xfffe
-ポケモンに　もたせると\xfffeねむりを　かいふくする。\xfffe
-ポケモンに　もたせると\xfffeどくを　かいふくする。\xfffe
-ポケモンに　もたせると\xfffeやけどを　かいふくする。\xfffe
-ポケモンに　もたせると\xfffeこおりを　かいふくする。\xfffe
-ポケモンに　もたせると\xfffeＰＰを　１０だけ　かいふくする。\xfffe
-ポケモンに　もたせると\xfffeＨＰを　１０だけ　かいふくする。\xfffe
-ポケモンに　もたせると\xfffeこんらんを　かいふくする。\xfffe
-ポケモンに　もたせると\xfffeすべての　じょうたい　いじょうを\xfffeかいふくする。
-ポケモンに　もたせると\xfffeＨＰを　すこしだけ　かいふくする。\xfffe
-ポケモンに　もたせると\xfffeピンチのとき　ＨＰを　かいふくする。\xfffeきらいな　あじだと　こんらん　する。
-ポケモンに　もたせると\xfffeピンチのとき　ＨＰを　かいふくする。\xfffeきらいな　あじだと　こんらん　する。
-ポケモンに　もたせると\xfffeピンチのとき　ＨＰを　かいふくする。\xfffeきらいな　あじだと　こんらん　する。
-ポケモンに　もたせると\xfffeピンチのとき　ＨＰを　かいふくする。\xfffeきらいな　あじだと　こんらん　する。
-ポケモンに　もたせると\xfffeピンチのとき　ＨＰを　かいふくする。\xfffeきらいな　あじだと　こんらん　する。
-イッシュちほうでは　とても\xfffeめずらしい　きのみ。\xfffeマニアが　たかく　かってくれる。
-イッシュちほうでは　とても\xfffeめずらしい　きのみ。\xfffeマニアが　たかく　かってくれる。
-イッシュちほうでは　とても\xfffeめずらしい　きのみ。\xfffeマニアが　たかく　かってくれる。
-イッシュちほうでは　とても\xfffeめずらしい　きのみ。\xfffeマニアが　たかく　かってくれる。
-イッシュちほうでは　とても\xfffeめずらしい　きのみ。\xfffeマニアが　たかく　かってくれる。
-ポケモンに　あげると\xfffeとても　なつき　やすくなるが\xfffeＨＰの　きそポイントは　さがる。
-ポケモンに　あげると\xfffeとても　なつき　やすくなるが\xfffeこうげきの　きそポイントは　さがる。
-ポケモンに　あげると\xfffeとても　なつき　やすくなるが\xfffeぼうぎょの　きそポイントは　さがる。
-ポケモンに　あげると\xfffeとても　なつき　やすくなるが\xfffeとくこうの　きそポイントは　さがる。
-ポケモンに　あげると\xfffeとても　なつき　やすくなるが\xfffeとくぼうの　きそポイントは　さがる。
-ポケモンに　あげると\xfffeとても　なつき　やすくなるが\xfffeすばやさの　きそポイントは　さがる。
-イッシュちほうでは　とても\xfffeめずらしい　きのみ。\xfffeマニアが　たかく　かってくれる。
-イッシュちほうでは　とても\xfffeめずらしい　きのみ。\xfffeマニアが　たかく　かってくれる。
-イッシュちほうでは　とても\xfffeめずらしい　きのみ。\xfffeマニアが　たかく　かってくれる。
-イッシュちほうでは　とても\xfffeめずらしい　きのみ。\xfffeマニアが　たかく　かってくれる。
-イッシュちほうでは　とても\xfffeめずらしい　きのみ。\xfffeマニアが　たかく　かってくれる。
-イッシュちほうでは　とても\xfffeめずらしい　きのみ。\xfffeマニアが　たかく　かってくれる。
-イッシュちほうでは　とても\xfffeめずらしい　きのみ。\xfffeマニアが　たかく　かってくれる。
-イッシュちほうでは　とても\xfffeめずらしい　きのみ。\xfffeマニアが　たかく　かってくれる。
-イッシュちほうでは　とても\xfffeめずらしい　きのみ。\xfffeマニアが　たかく　かってくれる。
-ポケモンに　もたせると\xfffeこうかばつぐんの　ほのお　わざを\xfffeうけたとき　いりょくが　よわまる。
-ポケモンに　もたせると\xfffeこうかばつぐんの　みず　わざを\xfffeうけたとき　いりょくが　よわまる。
-ポケモンに　もたせると\xfffeこうかばつぐんの　でんき　わざを\xfffeうけたとき　いりょくが　よわまる。
-ポケモンに　もたせると\xfffeこうかばつぐんの　くさ　わざを\xfffeうけたとき　いりょくが　よわまる。
-ポケモンに　もたせると\xfffeこうかばつぐんの　こおり　わざを\xfffeうけたとき　いりょくが　よわまる。
-ポケモンに　もたせると\xfffeこうかばつぐんの　かくとう　わざを\xfffeうけたとき　いりょくが　よわまる。
-ポケモンに　もたせると\xfffeこうかばつぐんの　どく　わざを\xfffeうけたとき　いりょくが　よわまる。
-ポケモンに　もたせると\xfffeこうかばつぐんの　じめん　わざを\xfffeうけたとき　いりょくが　よわまる。
-ポケモンに　もたせると\xfffeこうかばつぐんの　ひこう　わざを\xfffeうけたとき　いりょくが　よわまる。
-ポケモンに　もたせると\xfffeこうかばつぐんの　エスパー　わざを\xfffeうけたとき　いりょくが　よわまる。
-ポケモンに　もたせると\xfffeこうかばつぐんの　むし　わざを\xfffeうけたとき　いりょくが　よわまる。
-ポケモンに　もたせると\xfffeこうかばつぐんの　いわ　わざを\xfffeうけたとき　いりょくが　よわまる。
-ポケモンに　もたせると\xfffeこうかばつぐんの　ゴースト　わざを\xfffeうけたとき　いりょくが　よわまる。
-ポケモンに　もたせると\xfffeこうかばつぐんの　ドラゴン　わざを\xfffeうけたとき　いりょくが　よわまる。
-ポケモンに　もたせると\xfffeこうかばつぐんの　あく　わざを\xfffeうけたとき　いりょくが　よわまる。
-ポケモンに　もたせると\xfffeこうかばつぐんの　はがね　わざを\xfffeうけたとき　いりょくが　よわまる。
-ポケモンに　もたせると\xfffeノーマル　わざを　うけたとき\xfffeいりょくが　よわまる。
-ポケモンに　もたせると\xfffeピンチのとき　じぶんの\xfffeこうげきが　あがる。
-ポケモンに　もたせると\xfffeピンチのとき　じぶんの\xfffeぼうぎょが　あがる。
-ポケモンに　もたせると\xfffeピンチのとき　じぶんの\xfffeすばやさが　あがる。
-ポケモンに　もたせると\xfffeピンチのとき　じぶんの\xfffeとくこうが　あがる。
-ポケモンに　もたせると\xfffeピンチのとき　じぶんの\xfffeとくぼうが　あがる。
-ポケモンに　もたせると\xfffeピンチのとき　こうげきが\xfffeきゅうしょに　あたりやすくなる。
-ポケモンに　もたせると\xfffeピンチのとき　どれか　１つの\xfffeのうりょくが　ぐーんと　あがる。
-ポケモンに　もたせると\xfffeこうかばつぐんの　わざを\xfffeうけたとき　ＨＰを　かいふくする。
-ポケモンに　もたせると\xfffeピンチのとき　いちどだけ\xfffeわざの　めいちゅうりつが　あがる。
-ポケモンに　もたせると\xfffeピンチのとき　いちどだけ\xfffeこうどうが　はやくなる。
-ポケモンに　もたせると\xfffeぶつりわざを　うけたとき\xfffeあいてにも　ダメージを　あたえる。
-ポケモンに　もたせると\xfffeとくしゅわざを　うけたとき\xfffeあいてにも　ダメージを　あたえる。
-キラキラ　ひかるこな。　もたせると\xfffeひかりが　あいてを　まどわして\xfffeわざが　めいちゅう　しにくくなる。
-もたせた　ポケモンの　のうりょくが\xfffeさがったとき　いちどだけ　もとの\xfffeじょうたいに　もどす。
-かたくて　おもい　ギプス。\xfffeもたせると　すばやさは　さがるが\xfffeふつうより　つよく　そだちやすい。
-もたせた　ポケモンは　せんとうに\xfffeでなくても　けいけんちを\xfffeわけてもらえる　べんりな　そうち。
-かるくて　するどい　ツメ。\xfffeもたせると　あいてより　さきに\xfffeこうどう　できることが　ある。
-ここちよい　ねいろの　すず。\xfffeもたせた　ポケモンは　こころが\xfffeやすらぎ　なつきやすくなる。
-もたせた　ポケモンが　じゆうに\xfffeわざを　だせなくなったときに\xfffeいちどだけ　かいふくする。
-ちょっと　こだわった　ハチマキ。\xfffeもたせると　こうげきは　あがるが\xfffeおなじ　わざしか　だせなくなる。
-もたせると　こうげきして\xfffeダメージを　あたえたときに\xfffeあいてを　ひるませることが　ある。
-ぎんいろに　かがやく　こな。\xfffeもたせると　むしタイプの\xfffeわざの　いりょくが　あがる。
-もたせた　ポケモンが　いちどでも\xfffeせんとうに　かおを　だすと\xfffeおかねが　２ばい　もらえる。
-いちばん　まえの　ポケモンに\xfffeもたせると　やせいポケモンが\xfffeでて　きにくくなる。
-ラティオス　または　ラティアスに\xfffeもたせると　とくこうと　とくぼうが\xfffeあがる　ふしぎな　たま。
-パールルに　もたせると\xfffeとくこうが　あがる　キバ。\xfffeするどく　ぎんいろに　ひかる。
-パールルに　もたせると\xfffeとくぼうが　あがる　ウロコ。\xfffeうすい　ピンクいろに　ひかる。
-もたせた　ポケモンは　やせいの\xfffeポケモンとの　せんとうから\xfffeぜったいに　にげられる。
-ポケモンに　もたせると\xfffeそのあいだ　しんか　しなくなる\xfffeふしぎな　いし。
-もたせると　ひんしに　なりそうな\xfffeわざを　うけても　ＨＰを　１だけ\xfffeのこして　たえることが　ある。
-しあわせが　つまった　タマゴ。\xfffeもたせた　ポケモンは　もらえる\xfffeけいけんちが　すこし　ふえる。
-じゃくてんが　みえる　レンズ。\xfffeもたせた　ポケモンの　わざが\xfffeきゅうしょに　あたりやすくなる。
-とくしゅな　きんぞくの　まく。\xfffeもたせると　はがねタイプの\xfffeわざの　いりょくが　あがる。
-もたせると　ポケモンの　ＨＰが\xfffeせんとうの　あいだ　すこしずつ\xfffeかいふくする。
-かたくて　じょうぶな　ウロコ。\xfffeドラゴンタイプの　ポケモンが\xfffeもっていることが　ある。
-ピカチュウに　もたせると\xfffeこうげきと　とくこうの　いりょくが\xfffeあがる　ふしぎな　たま。
-さわると　サラサラする　すな。\xfffeもたせると　じめんタイプの\xfffeわざの　いりょくが　あがる。
-ぜったいに　われない　いし。\xfffeもたせると　いわタイプの\xfffeわざの　いりょくが　あがる。
-せいめいが　やどる　タネ。\xfffeもたせると　くさタイプの\xfffeわざの　いりょくが　あがる。
-あやしく　みえる　メガネ。\xfffeもたせると　あくタイプの\xfffeわざの　いりょくが　あがる。
-きが　ひきしまる　おび。\xfffeもたせると　かくとうタイプの\xfffeわざの　いりょくが　あがる。
-きょうりょくな　じしゃく。\xfffeもたせると　でんきタイプの\xfffeわざの　いりょくが　あがる。
-しずくの　かたちの　ほうせき。\xfffeもたせると　みずタイプの\xfffeわざの　いりょくが　あがる。
-ながく　とがった　くちばし。\xfffeもたせると　ひこうタイプの\xfffeわざの　いりょくが　あがる。
-どくのある　ちいさな　ハリ。\xfffeもたせると　どくタイプの\xfffeわざの　いりょくが　あがる。
-ねつを　よせつけない　こおり。\xfffeもたせると　こおりタイプの\xfffeわざの　いりょくが　あがる。
-あやしくて　ぶきみな　おふだ。\xfffeもたせると　ゴーストタイプの\xfffeわざの　いりょくが　あがる。
-ねんりきを　こめた　スプーン。\xfffeもたせると　エスパータイプの\xfffeわざの　いりょくが　あがる。
-ものを　もやす　ねんりょう。\xfffeもたせると　ほのおタイプの\xfffeわざの　いりょくが　あがる。
-かたくて　するどい　キバ。\xfffeもたせると　ドラゴンタイプの\xfffeわざの　いりょくが　あがる。
-はだざわりの　よい　スカーフ。\xfffeもたせると　ノーマルタイプの\xfffeわざの　いりょくが　あがる。
-なかに　いろんな　じょうほうが\xfffeつまった　とうめいな　きかい。\xfffeシルフ　カンパニーせい。
-もたせた　ポケモンが　こうげきして\xfffeあいてに　ダメージを　あたえたとき\xfffeＨＰを　すこし　かいふく　できる。
-ふしぎな　かおりの　おこう。\xfffeもたせると　みずタイプの\xfffeわざの　いりょくが　あがる。
-もたせると　おこうの　ふしぎな\xfffeかおりが　あいてを　まどわせて\xfffeわざが　めいちゅう　しにくくなる。
-こううんを　よぶ　グローブ。\xfffeラッキーに　もたせると　わざが\xfffeきゅうしょに　あたりやすくなる。
-メタモンに　もたせると　ぼうぎょが\xfffeあがる　ふしぎなこな。\xfffeとても　こまかくて　かたい。
-なにかの　かたい　ホネ。\xfffeカラカラ　または　ガラガラに\xfffeもたせると　こうげきが　あがる。
-とても　ながくて　かたい　クキ。\xfffeカモネギに　もたせると　わざが\xfffeきゅうしょに　あたりやすくなる。
-もたせて　コンテストに　さんかすると\xfffeその　ポケモンは　いつもより\xfffeかっこよく　みられる。
-もたせて　コンテストに　さんかすると\xfffeその　ポケモンは　いつもより\xfffeうつくしく　みられる。
-もたせて　コンテストに　さんかすると\xfffeその　ポケモンは　いつもより\xfffeかわいく　みられる。
-もたせて　コンテストに　さんかすると\xfffeその　ポケモンは　いつもより\xfffeかしこく　みられる。
-もたせて　コンテストに　さんかすると\xfffeその　ポケモンは　いつもより\xfffeたくましく　みられる。
-ものが　おおきく　みえる　レンズ。\xfffeもたせると　わざの　めいちゅうりつが\xfffeすこし　あがる。
-ちからが　わいてくる　ハチマキ。\xfffeもたせると　ぶつりわざの\xfffeいりょくが　すこし　あがる。
-ぶあつい　レンズの　ついた　メガネ。\xfffeもたせると　とくしゅわざの\xfffeいりょくが　すこし　あがる。
-つかいこまれた　くろい　おび。\xfffeもたせると　こうかばつぐんの　とき\xfffeわざの　いりょくが　すこし　あがる。
-もたせた　ポケモンが　ひかりのかべや\xfffeリフレクターを　つかったとき\xfffeいつもよりも　ながく　のこる。
-もたせると　こうげきする　たびに\xfffeＨＰが　すこし　へってしまうが\xfffeわざの　いりょくが　あがる。
-もたせた　ポケモンは　いちどだけ\xfffe１ターンめに　ちからを　ためるわざを\xfffeすぐに　つかうことが　できる。
-さわると　どくをだす　ふしぎなたま。\xfffeもたせると　せんとうちゅうに\xfffeもうどくの　じょうたいに　なる。
-さわると　ねつをだす　ふしぎなたま。\xfffeもたせると　せんとうちゅうに\xfffeやけどの　じょうたいに　なる。
-メタモンに　もたせると　すばやさが\xfffeあがる　ふしぎなこな。\xfffeとても　こまかくて　かたい。
-もたせると　ＨＰが　まんたんのとき\xfffeひんしになりそうな　わざを　うけても　\xfffeＨＰ１で　いちどだけ　たえる。
-もたせた　ポケモンが　あいてよりも\xfffeこうどうするのが　おそいとき\xfffeわざが　めいちゅう　しやすくなる。
-もたせると　おなじわざを　れんぞくで\xfffeつかったとき　いりょくが　あがる。\xfffeやめると　いりょくは　もどる。
-もたせると　すばやさが　さがる。\xfffeひこうタイプや　ふゆう　ポケモンは\xfffeじめんわざが　あたって　しまう。
-とても　おもたい　なにかの　しっぽ。\xfffeもたせると　いつもより　こうどうが\xfffeおそくなる。
-ほそくて　ながい　まっかな　いと。\xfffeもたせると　メロメロに　なったとき\xfffeあいても　メロメロに　できる。
-もたせると　どくタイプの　ポケモンは\xfffeすこしずつ　ＨＰを　かいふくする。\xfffeそれいがいは　ＨＰが　へってしまう。
-もたせた　ポケモンが　あられを\xfffeつかうと　いつもより　あられの\xfffeじかんが　ながくなる。
-もたせた　ポケモンが　すなあらしを\xfffeつかうと　いつもより　すなあらしの\xfffeじかんが　ながくなる。
-もたせた　ポケモンが　にほんばれを\xfffeつかうと　いつもより　はれの\xfffeじかんが　ながくなる。
-もたせた　ポケモンが　あまごいを\xfffeつかうと　いつもより　あめの\xfffeじかんが　ながくなる。
-もたせると　しめつける　まきつくなど\xfffeダメージを　あたえつづける　わざの\xfffeターンすうが　ふえる。
-ちょっと　こだわった　スカーフ。\xfffeもたせると　すばやさは　あがるが\xfffeおなじ　わざしか　だせなくなる。
-もたせると　まいターン　ダメージを\xfffeうける。　じぶんに　ふれてきた\xfffeあいてに　くっつくことも　ある。
-もたせると　すばやさが　さがるが\xfffeふつうよりも　ポケモンの　こうげきが\xfffeたかく　そだちやすい。
-もたせると　すばやさが　さがるが\xfffeふつうよりも　ポケモンの　ぼうぎょが\xfffeたかく　そだちやすい。
-もたせると　すばやさが　さがるが\xfffeふつうよりも　ポケモンの　とくこうが\xfffeたかく　そだちやすい。
-もたせると　すばやさが　さがるが\xfffeふつうよりも　ポケモンの　とくぼうが\xfffeたかく　そだちやすい。
-もたせると　すばやさが　さがるが\xfffeふつうよりも　ポケモンの　すばやさが\xfffeたかく　そだちやすい。
-もたせると　すばやさが　さがるが\xfffeふつうよりも　ポケモンの　ＨＰが\xfffeたかく　そだちやすい。
-じょうぶで　かたい　ぬけがら。\xfffeもたせた　ポケモンは　ひかえの\xfffeポケモンと　かならず　いれかわれる。
-もたせると　ＨＰを　すいとる　わざで\xfffeいつもより　おおく　じぶんの　ＨＰを\xfffeかいふくできる。
-ちょっと　こだわった　メガネ。\xfffeもたせると　とくこうは　あがるが\xfffeおなじ　わざしか　だせなくなる。
-ほのおの　タイプの　せきばん。\xfffeもたせると　ほのおタイプの\xfffeわざの　いりょくが　つよまる。
-みずの　タイプの　せきばん。\xfffeもたせると　みずタイプの\xfffeわざの　いりょくが　つよまる。
-でんきの　タイプの　せきばん。\xfffeもたせると　でんきタイプの\xfffeわざの　いりょくが　つよまる。
-くさの　タイプの　せきばん。\xfffeもたせると　くさタイプの\xfffeわざの　いりょくが　つよまる。
-こおりの　タイプの　せきばん。\xfffeもたせると　こおりタイプの\xfffeわざの　いりょくが　つよまる。
-かくとうの　タイプの　せきばん。\xfffeもたせると　かくとうタイプの\xfffeわざの　いりょくが　つよまる。
-どくの　タイプの　せきばん。\xfffeもたせると　どくタイプの\xfffeわざの　いりょくが　つよまる。
-じめんの　タイプの　せきばん。\xfffeもたせると　じめんタイプの\xfffeわざの　いりょくが　つよまる。
-ひこうの　タイプの　せきばん。\xfffeもたせると　ひこうタイプの\xfffeわざの　いりょくが　つよまる。
-エスパーの　タイプの　せきばん。\xfffeもたせると　エスパータイプの\xfffeわざの　いりょくが　つよまる。
-むしの　タイプの　せきばん。\xfffeもたせると　むしタイプの\xfffeわざの　いりょくが　つよまる。
-いわの　タイプの　せきばん。\xfffeもたせると　いわタイプの\xfffeわざの　いりょくが　つよまる。
-ゴーストの　タイプの　せきばん。\xfffeもたせると　ゴーストタイプの\xfffeわざの　いりょくが　つよまる。
-ドラゴンの　タイプの　せきばん。\xfffeもたせると　ドラゴンタイプの\xfffeわざの　いりょくが　つよまる。
-あくの　タイプの　せきばん。\xfffeもたせると　あくタイプの\xfffeわざの　いりょくが　つよまる。
-はがねの　タイプの　せきばん。\xfffeもたせると　はがねタイプの\xfffeわざの　いりょくが　つよまる。
-ふしぎな　かおりの　おこう。\xfffeもたせると　エスパータイプの\xfffeわざの　いりょくが　あがる。
-ふしぎな　かおりの　おこう。\xfffeもたせると　いわタイプの\xfffeわざの　いりょくが　あがる。
-ふしぎな　かおりの　おこう。\xfffeもたせた　ポケモンは　いつもより\xfffeこうどうが　おそくなる。
-ふしぎな　かおりの　おこう。\xfffeもたせると　みずタイプの\xfffeわざの　いりょくが　あがる。
-ふしぎな　かおりの　おこう。\xfffeもたせると　くさタイプの\xfffeわざの　いりょくが　あがる。
-もたせた　ポケモンが　いちどでも\xfffeせんとうに　かおを　だすと\xfffeおかねが　２ばい　もらえる。
-いちばん　まえの　ポケモンに\xfffeもたせると　やせいポケモンが\xfffeでて　きにくくなる。
-なにかの　プロテクター。\xfffeとても　かたくて　おもい。\xfffeある　ポケモンが　このんでいる。
-とてつもない　でんきの　エネルギーが\xfffeたくわえられている　はこ。\xfffeある　ポケモンが　このんでいる。
-とてつもない　マグマの　エネルギーが\xfffeたくわえられている　はこ。\xfffeある　ポケモンが　このんでいる。
-なかに　あやしい　じょうほうが\xfffeつまった　とうめいな　きかい。\xfffeせいさくしゃは　ふめい。
-おそろしく　つよい　れいりょくが\xfffeこめられている　ぬの。\xfffeある　ポケモンが　このんでいる。
-するどく　とがった　ツメ。\xfffeもたせると　わざが　きゅうしょに\xfffeあたりやすくなる。
-するどく　とがった　キバ。\xfffeもたせると　ダメージを　あたえたとき\xfffeひるませることが　ある。
-つめを　みがいて　するどく　する。\xfffeじぶんの　こうげきと　\xfffeめいちゅうりつを　あげる。
-するどく　とがった　きょだいな\xfffeツメで　ひっかいて　こうげきする。\xfffe
-ふしぎな　ねんぱを　じったいかして\xfffeあいてを　こうげきする。\xfffeぶつりてきな　ダメージを　あたえる。
-しずかに　せいしんを　とういつして\xfffeこころを　しずめることで　じぶんの\xfffeとくこうと　とくぼうを　あげる。
-あいてを　にがして　ひかえポケモンを\xfffeひきずりだす。　やせいポケモンなら\xfffeせんとうは　おわる。
-もうどくの　じょうたいに　する。\xfffeターンすうが　すすむほど　どくの\xfffeダメージりょうは　ふえる。
-５ターンの　あいだ　あられを\xfffeふらして　こおりタイプ　いがいの\xfffeポケモンに　ダメージを　あたえる。
-ちからを　こめて　きんにくを\xfffeあつくする　ことで　じぶんの\xfffeこうげきと　ぼうぎょを　あげる。
-とくしゅな　どくえきを　あびせる。\xfffeどく　じょうたいの　あいてには\xfffeいりょくが　２ばいに　なる。
-おぼえる　ポケモンの　かくされた\xfffeのうりょくで　わざの　タイプと\xfffeいりょくが　かわる。
-５ターンの　あいだ　ひざしを\xfffeつよくして　ほのおタイプの\xfffeわざの　いりょくを　あげる。
-あいてを　おこらせる。３ターンの\xfffeあいだ　あいては　ダメージを\xfffeあたえる　わざしか　だせなくなる。
-れいきの　ビームを　はっしゃして\xfffeこうげきする。　あいてを　こおりの\xfffeじょうたいに　することが　ある。
-はげしい　ふぶきを　ぶつけて\xfffeこうげきする。　あいてを　こおりの\xfffeじょうたいに　することが　ある。
-つよい　こうせんを　はっしゃする。\xfffeつかった　つぎのターンは　はんどうで\xfffeうごけなくなる。
-５ターンの　あいだ　ふしぎな　かべで\xfffeあいてから　うける　とくしゅわざの\xfffeダメージを　よわめる。
-こうげきを　まったく　うけない。\xfffeわざを　れんぞくで　だすと\xfffeしっぱい　しやすくなる。
-５ターンの　あいだ　あめを　ふらして\xfffeみずタイプの　わざの　いりょくを\xfffeあげる。
-あいてを　うかせて　３ターンの\xfffeあいだ　こうげきが　あいてに\xfffeあたりやすくなる。
-５ターンの　あいだ\xfffeふしぎな　ちからに　まもられて\xfffeじょうたい　いじょうに　ならなくなる。
-ふまんを　はらすために　ぜんりょくで\xfffeこうげきする。　なついて　いないほど\xfffeいりょくは　あがる。
-１ターンめに　ひかりを　あつめて\xfffe２ターンめに　ひかりの　こうせんを\xfffeはっしゃして　こうげきする。
-いしや　たまを　なげて　とんでいる\xfffeあいてを　こうげきする。あいては\xfffeうちおとされて　じめんに　おちる。
-つよい　でんげきを　あびせて\xfffeこうげきする。　あいてを　まひの\xfffeじょうたいに　することが　ある。
-はげしい　かみなりを　おとして\xfffeこうげきする。　あいてを　まひの\xfffeじょうたいに　することが　ある。
-じぶんの　まわりの　ポケモンに\xfffeじしんの　しょうげきを　あたえて\xfffeこうげきする。
-トレーナーのために　ぜんりょくで\xfffeこうげきする。　なついて　いるほど\xfffeいりょくは　あがる。
-１ターンめに　もぐり　２ターンめで\xfffeこうげきする。　どうくつで　つかうと\xfffeそとに　だっしゅつ　できる。
-つよい　ねんりきを　おくって\xfffeこうげきする。　あいての　とくぼうを\xfffeさげることが　ある。
-くろいかげの　かたまりを　なげて\xfffeこうげきする。　あいての　とくぼうを\xfffeさげることが　ある。
-こぶしなどで　こうげきする。\xfffeひかりのかべや　リフレクターも\xfffeはかいできる。
-すばやい　うごきで　ぶんしんを\xfffeつくる。　あいてを　まどわせることで\xfffeかいひりつを　あげる。
-５ターンの　あいだ　ふしぎな　かべで\xfffeあいてから　うける　ぶつりわざの\xfffeダメージを　よわめる。
-ヘドロの　なみで　じぶんの　まわりに\xfffeいるものを　こうげきする。\xfffeどくに　することが　ある。
-はげしい　ほのおを　はっしゃして\xfffeこうげきする。　あいてを　やけどの\xfffeじょうたいに　することが　ある。
-きたない　ヘドロを　なげつける。\xfffeあいてを　どくの　じょうたいに\xfffeすることが　ある。
-５ターンの　あいだ　すなあらしで\xfffeじめん　いわ　はがね　タイプいがいに\xfffeダメージを　あたえる。
-だいのじの　ほのおで　あいてを\xfffeやきつくす。　やけどの　じょうたいに\xfffeすることが　ある。
-いわを　なげつけ　こうげきする。\xfffeおちた　いわが　うごきを　ふうじて\xfffeあいての　すばやさを　さげる。
-すばやい　うごきで　ほんろうする。\xfffeこうげきは　かならず　あいてに\xfffeめいちゅうする。
-いちゃもんを　つけて　おなじわざを\xfffeれんぞくで　だせない　ようにする。\xfffe
-どく　まひ　やけど　のじょうたいで\xfffeわざを　だすと　２ばいの　いりょくで\xfffeこうげき　できる。
-ほのおを　まとい　あいてを\xfffeこうげきする。　ちからを　ためて\xfffeじぶんの　すばやさを　あげる。
-２ターンの　あいだ　ねむりつづける。\xfffeＨＰと　からだの　いじょうを\xfffeすべて　かいふくする。
-♂なら♀を　♀なら♂を　ゆうわくして\xfffeメロメロにする。　メロメロに　なった\xfffeあいては　わざが　だしにくくなる。
-こうげきと　どうじに　もちものを\xfffeぬすむ。　じぶんに　もちものが\xfffeあると　しっぱいする。
-すばやい　うごきで　あいての　あしを\xfffeねらって　こうげきする。\xfffeあいての　すばやさを　さげる。
-うたで　あいてを　こうげきする。\xfffeみんなで　つかうと　れんぞくで\xfffeだせて　いりょくも　あがる。
-こえで　あいてを　こうげきする。\xfffeまいターン　だれかが　つかうと\xfffeいりょくが　あがる。
-フルパワーで　ほのおの　こうげき。\xfffeつかったあと　じぶんの　とくこうは\xfffeがくっと　さがる。
-ふしぎな　ちからで　テレポートして\xfffeじぶんと　みかたの　いばしょを\xfffeいれかえる。
-こんしんの　ちからで　こうげきする。\xfffeあたった　あいての　とくぼうを\xfffeさげることが　ある。
-いのちの　ちからを　あつめて　\xfffeこうげきする。　あたった　あいての\xfffeとくぼうを　さげることが　ある。
-てかげんして　こうげきする。\xfffeこうげきした　あいての　ＨＰは\xfffeかならず　１　のこる。
-あつく　にえたぎる　みずを\xfffeはっしゃして　こうげきする。\xfffeやけどに　することが　ある。
-どうぐを　なげつけて　こうげきする。\xfffeなげる　もちものに　よって　わざの\xfffeいりょくと　こうかは　かわる。
-でんげきを　あびせて　こうげきする。\xfffeのこった　でんきを　ためて　じぶんの\xfffeとくこうを　あげることが　ある。
-つれさった　あいてを　２ターンめに\xfffeそらから　おとして　こうげきする。\xfffeつれさられた　あいては　うごけない。
-ほのおで　あいてを　こうげきする。\xfffeあいてが　きのみを　もっている　とき\xfffeもやして　つかえなく　する。
-あいてを　おさえつけて\xfffeこうどうの　じゅんばんを\xfffeさいごに　する。
-あおじろく　もえる　あやしげな\xfffeほのおを　はなつ。　あいてを\xfffeやけどの　じょうたいに　する。
-かろやかに　あいてを　こうげきする。\xfffeじぶんが　どうぐを　もっていないと\xfffeおおきな　ダメージを　あたえる。　
-もたせた　どうぐを　つかえなくする。\xfffeトレーナーも　その　ポケモンには\xfffeどうぐを　つかうことが　できない。
-おおきな　ばくはつで　じぶんの\xfffeまわりに　いるものを　こうげきする。\xfffeつかったあと　ひんしに　なる。
-かげで　つくった　するどいツメで\xfffeきりさいて　こうげきする。\xfffeきゅうしょに　あたりやすい。
-ちからを　ためこみ　こうげきする。\xfffeあいてより　あとに　だせると\xfffeわざの　いりょくは　２ばいに　なる。
-たおれた　みかたの　かたきを　うつ。\xfffeまえの　ターンに　たおされて\xfffeいると　いりょくが　あがる。　
-もてる　ちからの　すべてを　あつめて\xfffeとつげきする。　つぎの　ターン\xfffeはんどうで　うごけなくなる。
-からだを　みがきあげて　くうきの\xfffeていこうを　すくなくする。\xfffeすばやさを　ぐーんと　あげる。
-あいての　めいちゅうりつを　さげる。\xfffeくらい　どうくつを　あかるく\xfffeてらすことも　できる。
-とがった　がんせきを　したから\xfffeつきさして　こうげきする。\xfffeきゅうしょに　あたりやすい。
-こうげき　したあと\xfffeものすごい　スピードで　もどってきて\xfffeひかえ　ポケモンと　いれかわる。
-よわい　でんきを　あびせることで\xfffeあいてを　まひじょうたいに　する。\xfffe
-からだを　こうそくに　かいてん\xfffeさせて　たいあたりする。　あいてより\xfffeおそいほど　いりょくは　あがる。
-たたかいのまいを　はげしく　おどり\xfffeきあいを　たかめる。　じぶんの\xfffeこうげきを　ぐーんと　あげる。
-ていこう　して\xfffeあいてを　こうげきする。\xfffeあいての　とくこうを　さげる。
-じぶんに　あんじを　かけることで\xfffeのうりょく　へんかの　じょうたいを\xfffeあいてと　おなじにする。
-じめんを　ふみならして　じぶんの\xfffeまわりに　いるものを　こうげきする。\xfffeあいての　すばやさを　さげる。
-つめたい　いきを\xfffeあいてに　ふきつけて　こうげきする。\xfffeかならず　きゅうしょに　あたる。
-おおきな　がんせきを　なげつけて\xfffeこうげきする。\xfffeあいてを　ひるませることが　ある。
-カマや　ツメを　ハサミのように\xfffeこうさ　させながら　きりさいて\xfffeこうげきする。
-あいてを　はじきとばして\xfffeひかえの　ポケモンを　ひきずりだす。\xfffeやせいなら　せんとうが　おわる。
-じぶんを　ふるいたてて\xfffeこうげきと　とくこうを　あげる。\xfffe
-どくに　そまった　しょくしゅや\xfffeうでで　こうげきする。どくの\xfffeじょうたいに　することが　ある。
-ねている　あいての　ゆめを　たべて\xfffeこうげきする。　あたえた　ダメージの\xfffeはんぶん　ＨＰを　かいふくする。
-くさを　からませて　ころばせる。\xfffeあいてが　おもいほど　わざの\xfffeいりょくは　あがる。
-おこらせて　こんらんさせる。\xfffeいかりで　あいての　こうげきは\xfffeぐーんと　あがってしまう。
-くちばしで　こうげきする。\xfffeあいてが　きのみを　もっているとき\xfffeついばんで　こうかを　うけられる。
-あいてを　こうげきした　あとに\xfffeひかえの　ポケモンと　いれかわる。\xfffe
-じぶんの　ＨＰを　すこし　けずって\xfffeぶんしんを　だす。　じぶんの\xfffeかわりに　こうげきを　うける。
-からだの　ひかりを　いってんに\xfffeあつめ　ひかりを　はなつ。　あいての\xfffeとくぼうを　さげることがある。
-まかふしぎな　くうかんを　つくる。\xfffe５ターンの　あいだ　うごきの　おそい\xfffeポケモンから　こうげきできる。
-カマや　ツメなどの　するどいもので\xfffeきりつけて　こうげきする。\xfffeほそいきを　きることも　できる。
-１ターンめで　そらへ　とびあがって\xfffe２ターンめで　こうげきする。\xfffeしっているまちに　いどうも　できる。
-おおきな　なみで　じぶんの　まわりに\xfffeいるものを　こうげきする。\xfffeみずのうえを　すすむことも　できる。
-こんしんの　ちからで　こうげきする。\xfffeおもいいわを　おすことも　できる。\xfffe
-たきを　さかのぼるような　すさまじい\xfffeいきおいで　とっしん　こうげきする。\xfffeたきを　のぼることも　できる。
-１ターンめで　もぐり　２ターンめに\xfffeうきあがって　こうげきする。うみの\xfffeなかに　もぐる　ことも　できる。
 ー\xfffeー\xfffeー
 ー\xfffeー\xfffeー
-たんけんに　やくだつ　べんりな\xfffeどうぐが　はいった　ふくろ。\xfffeちかつうろに　はいれる。
-たんこうで　てにいれた\xfffeたからものを　しまっておける\xfffeおおきくて　じょうぶな　ふくろ。
-たいせんの　ルールが　かかれている。\xfffeつうしんたいせん　するとき\xfffeルールを　えらぶことが　できる。
-くさむらに　かくれている　ポケモンを\xfffeさがしだせる　どうぐ。\xfffeあるくと　でんちが　たまる。
-かちとった　バトルポイントの　かずを\xfffeみることが　できる　カード。\xfffe
-これまでの　ぼうけんの　ようすが\xfffeきろく　されている　ノート。\xfffe
-ボールカプセルに　はりつけられる\xfffeシールが　はいった　いれもの。\xfffe
-ミュージカルで　ポケモンに　つける\xfffeいろとりどりの　グッズを　たくさん\xfffeしまえる　きれいで　すてきなケース。
-シールが　１０まい　いれられる\xfffeちっちゃな　ふくろ。\xfffe
-ともだちを　とうろくしたり\xfffeあそんだ　ことを　きろくする\xfffeべんりな　てちょう。
-たにまのはつでんしょの　とびらを\xfffeあけしめする　おおきな　カギ。\xfffeなぜか　ギンガだんが　もっていた。
-カンナギタウンの　ちょうろうに\xfffeとどける　おおむかしの　おまもり。\xfffeポケモンの　ホネで　つくられている。
-ギンガだんアジトの　セキュリティを\xfffeかいじょ　するための　カードキー。\xfffeなくすと　おしおき　されるらしい。
-シンオウちほうを　うみだした\xfffeでんせつの　ポケモンを　つなぐと\xfffeいわれる　しんわの　どうぐ。
-いつでも　てがるに　みることが\xfffeできる　べんりな　ちず。\xfffeじぶんの　ばしょも　わかる。
-たたかいたい　トレーナーを\xfffeおしえてくれる　きかい。\xfffeあるくと　でんちが　たまる。
-ゲームコーナーで　てにいれた\xfffeコインを　５００００まい　まで\xfffeいれることが　できる　ケース。
-ふるくて　ボロい　つりざお。\xfffeみずの　ある　ばしょで　つかうと\xfffeポケモンが　つれる。
-あたらしくて　いい　つりざお。\xfffeみずの　ある　ばしょで　つかうと\xfffeポケモンが　つれる。
-さいしんの　すごい　つりざお。\xfffeみずの　ある　ばしょで　つかうと\xfffeポケモンが　つれる。
-みずを　かける　どうぐ。\xfffeふかふかのつちに　うめた　きのみを\xfffeすくすく　そだてる。
-おりょうりで　つくった　ポフィンを\xfffeほぞんする　いれもの。\xfffe
-ランニングシューズ　よりも\xfffeはやく　はしることが　できる\xfffeおりたたみしきの　じてんしゃ。
-みずうみの　ほとりにある\xfffeこうきゅうホテルの　ルームキー。\xfffeなぜか　よく　なくなってしまう。
-オーキドはかせ　からの　てがみ。\xfffeなかには　２２４ばんどうろに\xfffeきてほしいと　かかれている。
-つきのような　かがやきを　はなつ\xfffeはね。　あくむを　ふりはらう　ちからを\xfffeひめていると　つたえられている。
-ミオシティの　やどやに　はいれる\xfffeカード。　なぜか　５０ねんほどまえの\xfffeひづけが　きざまれている。
-このよの　ものとは　おもえない\xfffeねいろが　なりひびく　ふえ。　いつ\xfffeだれが　つくったのか　わからない。
-こうそくせん　アクアごうに　のるとき\xfffeひつような　ふねの　チケット。\xfffeふねの　えが　かかれている。
-もっていれば　ポケモンコンテストに\xfffeさんか　することが　できる。\xfffeきねんリボンが　かかれている。
-しゃくねつの　マグマの　ねつでとけた\xfffeがんせきが　かたまって　できたもの。\xfffeなかに　マグマが　のこっている。
-フタバタウンから　たびだった\xfffeおさななじみに　わたすように\xfffeたのまれた　おとどけもの。
-ポケモンウォッチ　ちぢめて\xfffeポケッチを　もらうために　ひつような\xfffeひきかえけん。　３まい　ひつよう。
-ポケモンウォッチ　ちぢめて\xfffeポケッチを　もらうために　ひつような\xfffeひきかえけん。　３まい　ひつよう。
-ポケモンウォッチ　ちぢめて\xfffeポケッチを　もらうために　ひつような\xfffeひきかえけん。　３まい　ひつよう。
-トバリシティの　はずれにある\xfffeギンガだんの　あやしい\xfffeそうこに　はいるための　カギ。
-タンバシティの　くすりやで　もらった\xfffeどんな　ポケモンでも　たちまち\xfffeげんきになる　すごい　くすり。
-ともだち　との　しょうぶや\xfffeとくしゅな　しせつでの　しょうぶを\xfffeきろくできる　かっこいい　きかい。
-たんじょうびや　きねんび　などに\xfffeかんしゃの　きもちを　つたえるため\xfffeブーケにして　おくることが　ある。
-きまった　ばしょで　つかうことで\xfffeとくしゅな　でんきしんごうを　だして\xfffeとびらを　あける　ハイテクな　カギ。
-ぼんぐりを　９９こ　ほぞん　できる\xfffeべんりな　いれもの。\xfffe
-みつけた　アンノーンの　ようすが\xfffeきろく　されている　ノート。\xfffe
-いつでも　てがるに　きのみを\xfffeそだてられる　けいたいしきの\xfffeさいばい　ようき。
-みえない　どうぐに　はんのうして\xfffeおとと　ひかりで　おしえてくれる\xfffeさいしんの　きかい。
-「アオイのあいことば」　ばんぐみの\xfffeポイントを　ためる　カード。\xfffe
-とても　おいしい　なにかの　しっぽ。\xfffeショップで　たかく　うれる。\xfffe
-こころ　やすまる　ねいろが　きける\xfffeとても　ふるめかしい　スズ。\xfffe
-ラジオきょくの　シャッターを　あける\xfffeカードしきの　カギ。\xfffe
-コガネちかどうに　ある　とびらを\xfffeあける　カギ。\xfffe
-みずを　かける　どうぐ。\xfffeきのみプランターの　きのみを\xfffeすくすく　そだてる。
-いかりのみずうみに　あらわれた\xfffeあかい　ギャラドスの　ウロコ。\xfffeほのおのように　あかく　かがやく。
-モノマネむすめが　なくした\xfffeマネネの　にんぎょう。\xfffe
-リニアカーに　のるときに　ひつような\xfffeチケット。　いつでも　のりほうだい。\xfffe
-はつでんしょから　ぬすまれた\xfffeはつでんきの　たいせつな　ぶひん。\xfffe
-ぎんいろに　ひかり　かがやく\xfffeふしぎな　はね。\xfffe
-にじいろに　ひかり　かがやく\xfffeふしぎな　はね。\xfffe
-ポケモンじいさんから　あずかった\xfffeふしぎな　もようの　タマゴ。\xfffeなんの　タマゴか　わからない。
-あかい　ぼんぐり。\xfffeつーんと　はなにくる　においがする。\xfffe
-あおい　ぼんぐり。\xfffeすこし　あおくさい　かおりがする。\xfffe
-きいろの　ぼんぐり。\xfffeさわやかな　かおりが　する。\xfffe
-みどりの　ぼんぐり。\xfffeふしぎと　こうばしい　かおりがする。\xfffe
-ももいろの　ぼんぐり。\xfffeあまそうな　いい　においがする。\xfffe
-しろい　ぼんぐり。\xfffeなんの　においも　しない。\xfffe
-くろい　ぼんぐり。\xfffeなんともいえない　においがする。\xfffe
-にげあしの　はやい　ポケモンが\xfffeつかまえやすくなる\xfffeちょっと　かわった　ボール。　
-じぶんの　ポケモンより　レベルが\xfffeひくいほど　つかまえやすくなる\xfffeちょっと　かわった　ボール。　
-つりざおで　つりあげた　ポケモンだと\xfffeつかまえやすくなる\xfffeちょっと　かわった　ボール。　
-たいじゅうの　おもい　ポケモンが\xfffeつかまえやすくなる\xfffeちょっと　かわった　ボール。　
-じぶんの　ポケモンと　せいべつが\xfffeちがうと　つかまえやすくなる\xfffeちょっと　かわった　ボール。　
-つかまえた　やせいポケモンが\xfffeすぐに　なついて　くれる\xfffeちょっと　かわった　ボール。　
-つきのいしで　しんかする　ポケモンが\xfffeつかまえやすくなる\xfffeちょっと　かわった　ボール。　
-むしとりたいかいの　なかで\xfffeつかう　とくべつな　ボール。　\xfffe
-パルパークの　なかで\xfffeつかう　とくべつな　ボール。　\xfffe
-ぼうけんちゅうに　さつえいした\xfffeきねんしゃしんを　かざる　アルバム。\xfffe
-なつかしい　きょくが　きける\xfffeおんがく　プレイヤー。\xfffeスイッチ　ひとつで　きりかえられる。
-こころ　やすまる　ねいろが　きける\xfffeとても　ふるめかしい　スズ。\xfffe
-チョウジめいぶつの　まんじゅう。\xfffeおみやげひん　として　ゆうめい。\xfffe
-ポケスロンの　きろくが　はいっている。\xfffeゆうしょう　かいすうが\xfffe
-ポケスロンの　きろくが　はいっている。\xfffeビリになった　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeポケモンの　ダッシュした　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeポケモンの　ジャンプした　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeダッシュハードル　１い　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeチェンジリレー　１い　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeスティールフラッグ　１い　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeブレイクブロック　１い　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeキャッチソーサー　１い　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeシューティングスノー　１い\xfffeかいすうが　きろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeポケモンの　かくとく　ポイントが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeポケモンの　しっぱいした　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeポケモンの　じめつした　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeポケモンの　たいあたり　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeポケモンの　おちた　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeリングアウトファイト　１い\xfffeかいすうが　きろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeゲットトランポリン　１い　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeプッシュサークル　１い　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeつうしん　ポケスロンの　ゆうしょう\xfffeかいすうが　きろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeつうしん　ポケスロンの　ビリになった\xfffeかいすうが　きろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeきょうぎで　１い　になった\xfffeかいすうが　きろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeきょうぎで　ビリになった\xfffeかいすうが　きろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeポケモンの　こうたい　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeスマッシュゴール　１い　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeこじんしょう　かくとく　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeポケモンを　タッチした　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeポケスロンで　あそんだ　じかんが\xfffeきろくされた　カード。
-ホウエンちほうの　でんせつと\xfffeふかい　かかわりが　あると　いわれる\xfffeみどりいろに　かがやく　たま。
-とくしゅな　カギで　あけられる\xfffeがんじょうな　カプセル。\xfffe
-ホウエンちほうの　でんせつと\xfffeふかい　かかわりが　あると　いわれる\xfffeあかく　かがやく　たま。
-ホウエンちほうの　でんせつと\xfffeふかい　かかわりが　あると　いわれる\xfffeあおく　かがやく　たま。
-じめんから　ほりだされた\xfffeすいしょうだま。いわと　つちで\xfffeおおわれているが　とても　きれい。
-ある　とくていの　ポケモンを\xfffeしんかさせる　ふしぎな　ウロコ。\xfffeにじいろに　かがやいている。
-しんかの　ふしぎな　かたまり。\xfffeもたせると　しんかまえ　ポケモンの\xfffeぼうぎょと　とくぼうが　あがる。
-とても　かるい　いし。\xfffeもたせると　ポケモンの\xfffeたいじゅうが　かるくなる。
-ポケモンに　もたせると\xfffeだげきわざを　うけたとき\xfffeあいてにも　ダメージを　あたえる。
-ポケモンに　もたせると\xfffeポケモンが　ちゅうに　うく。\xfffeこうげきを　うけると　われてしまう。
-ふしぎな　ちからのある　カード。\xfffeもたせると　わざをうけた　あいてを\xfffeたいじょう　させることが　できる。
-ポケモンの　タイプの　あいしょうで\xfffeむこう　だった　わざが\xfffeあたるように　なってしまう。
-しめつけるわざを　ほじょする　バンド。\xfffeもたせると　しめつけるわざの\xfffeいりょくが　つよく　なる。
-つかいすての　きゅうこん。\xfffeもたせて　みずの　わざを　うけると\xfffeとくこうが　あがる。
-つかいすての　じゅうでんち。\xfffeもたせて　でんきの　わざを　うけると\xfffeこうげきが　あがる。
-もたせて　わざを　うけると\xfffeせんとうから　だっしゅつして\xfffeてもちと　いれかわる　ことができる。
-ほのおの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　ほのおの\xfffeわざの　いりょくが　つよまる。
-みずの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　みずの\xfffeわざの　いりょくが　つよまる。
-でんきの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　でんきの\xfffeわざの　いりょくが　つよまる。
-くさの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　くさの\xfffeわざの　いりょくが　つよまる。
-こおりの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　こおりの\xfffeわざの　いりょくが　つよまる。
-かくとうの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　かくとうの\xfffeわざの　いりょくが　つよまる。
-どくの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　どくの\xfffeわざの　いりょくが　つよまる。
-じめんの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　じめんの\xfffeわざの　いりょくが　つよまる。
-ひこうの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　ひこうの\xfffeわざの　いりょくが　つよまる。
-エスパーの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　エスパーの\xfffeわざの　いりょくが　つよまる。
-むしの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　むしの\xfffeわざの　いりょくが　つよまる。
-いわの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　いわの\xfffeわざの　いりょくが　つよまる。
-ゴーストの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　ゴーストの\xfffeわざの　いりょくが　つよまる。
-ドラゴンの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　ドラゴンの\xfffeわざの　いりょくが　つよまる。
-あくの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　あくの\xfffeわざの　いりょくが　つよまる。
-はがねの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　はがねの\xfffeわざの　いりょくが　つよまる。
-ノーマルの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　ノーマルの\xfffeわざの　いりょくが　つよまる。
-ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　ＨＰの\xfffeきそポイントを　ちょっと　あげる。
-ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　こうげきの\xfffeきそポイントを　ちょっと　あげる。
-ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　ぼうぎょの\xfffeきそポイントを　ちょっと　あげる。
-ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　とくこうの\xfffeきそポイントを　ちょっと　あげる。
-ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　とくぼうの\xfffeきそポイントを　ちょっと　あげる。
-ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　すばやさの\xfffeきそポイントを　ちょっと　あげる。
-きれいなだけで　なんの　こうかもない\xfffeごくごく　ふつうの　ハネ。\xfffe
-おおむかし　うみに　すんでいた\xfffeこだい　ポケモンの　カセキ。\xfffeせなかの　いちぶ　らしい。
-とりポケモンの　そせんと　いわれる\xfffeこだい　ポケモンの　カセキ。\xfffeつばさの　いちぶ　らしい。
-リバティガーデンとうに　いくための\xfffeとくべつな　チケット。\xfffeヒウンシティから　ふねに　のれる。
-デルパワーを　はっせいさせる\xfffeときにつかう　イッシュの　パワーが\xfffeとじこめられた　ふしぎな　たま。
-ハイリンクのもりで　いつのまにか\xfffeバッグに　あらわれる　ゆめのボール。\xfffeどんな　ポケモンも　つかまえられる。
-ポケモンの　きを　ひかせる　どうぐ。\xfffeやせいポケモンとの　せんとうから\xfffeぜったいに　にげられる。
-ミュージカルで　ポケモンに　つける\xfffeいろとりどりの　グッズを　たくさん\xfffeしまえる　きれいで　すてきなケース。
-あれくるう　うみを　ものともせず\xfffeじゆうに　とびまわっていたと　される\xfffeポケモンの　あたまの　ホネ。
-あたりいったいに　いい　かおりが\xfffeひろがる　めずらしい　キノコ。\xfffeマニアが　たかく　かってくれる。
-キラキラと　きんいろに　ひかる\xfffeじゅんきんせいの　おおきな　たま。\xfffeマニアが　たかく　かってくれる。
-きれいな　ぎんいろに　ひかる\xfffeとても　おおつぶの　しんじゅ。\xfffeマニアが　たかく　かってくれる。
-すいせいが　ちかづいたとき\xfffeちひょうに　おちた　かけら。\xfffeマニアが　たかく　かってくれる。
-３０００ねんほど　むかしの\xfffeぶんめいで　つかわれた　どうか。\xfffeマニアが　たかく　かってくれる。
-３０００ねんほど　むかしの\xfffeぶんめいで　つかわれた　ぎんか。\xfffeマニアが　たかく　かってくれる。
-３０００ねんほど　むかしの\xfffeぶんめいで　つかわれた　きんか。\xfffeマニアが　たかく　かってくれる。
-３０００ねんほど　むかしの\xfffeぶんめいで　つくられた　ツボ。\xfffeマニアが　たかく　かってくれる。
-３０００ねんほど　むかしの\xfffeぶんめいで　つくられた　うでわ。\xfffeマニアが　たかく　かってくれる。
-３０００ねんほど　むかしの\xfffeぶんめいで　つくられた　せきぞう。\xfffeマニアが　たかく　かってくれる。
-３０００ねんほど　むかしの\xfffeぶんめいで　つくられた　おうかん。\xfffeマニアが　たかく　かってくれる。
-ヒウンシティの　めいぶつアイス。\xfffeポケモン　１ひきの　じょうたいの\xfffeいじょうを　すべて　かいふくする。
-きゅうしょりつが　あがる。\xfffeつかうたびに　こうかが　アップする。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeすばやさを　それなりに　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeとくこうを　それなりに　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeとくぼうを　それなりに　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeぼうぎょを　それなりに　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeこうげきを　それなりに　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeめいちゅうを　それなりに　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeすばやさを　かなり　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeとくこうを　かなり　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeとくぼうを　かなり　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeぼうぎょを　かなり　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeこうげきを　かなり　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeめいちゅうを　かなり　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeすばやさを　ものすごく　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeとくこうを　ものすごく　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeとくぼうを　ものすごく　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeぼうぎょを　ものすごく　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeこうげきを　ものすごく　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeめいちゅうを　ものすごく　あげる。\xfffeひっこめると　もとに　もどる。
-つかうと　みかたの　ポケモンの\xfffeとくせいを　はつどう　させる。\xfffe
-つかうと　みかたの　ポケモンが\xfffeもっている　どうぐを　なくす。\xfffe
-つかうと　みかたの　ポケモンが\xfffeもっている　どうぐを　すぐつかう。\xfffe
-つかうと　みかたの　ポケモンの\xfffeのうりょく　へんかが　もとにもどる。\xfffe
-きゅうしょりつが　おおきく　あがる。\xfffeつかうたびに　こうかが　アップする。\xfffeひっこめると　もとに　もどる。
-レシラムの　にくたいが　ほろび\xfffeへんかした　すがた。えいゆうの\xfffeとうじょうを　まっていると　される。
-ゼクロムの　にくたいが　ほろび\xfffeへんかした　すがた。えいゆうの\xfffeとうじょうを　まっていると　される。
-でんきを　まとって\xfffeあいてに　ぶつかって　こうげきする。\xfffeじぶんも　ダメージを　うける。
-いわをも　くだくような\xfffeパンチで　こうげきする。あいての\xfffeぼうぎょを　さげる　ことが　ある。
-まくしたてる　ように　どなりつけて\xfffeあいての　とくこうを　さげる。\xfffe
-さいだい　４にんで　つうわができる\xfffeテレビカメラきのうつきの\xfffeさいしんがた　トランシーバー。
-まぼろしの　いし。\xfffe\xfffe
-キャモメが　はいたつ　している\xfffeたいせつな　てがみ。\xfffe
-キャモメが　はいたつ　している\xfffeたいせつな　てがみ。\xfffe
-キャモメが　はいたつ　している\xfffeたいせつな　てがみ。\xfffe
-さいだい　４にんで　つうわができる\xfffeテレビカメラきのうつきの\xfffeさいしんがた　トランシーバー。
-かくとくした　メダルを　しゅうのうし\xfffeメダルについての　じょうほうを\xfffeきろくする　はこがたの　きかい。
-もとは　ひとつだったと　いわれる\xfffeキュレムと　あるポケモンを\xfffeがったいさせる　いっついの　くさび。
-がったいした　キュレムと\xfffeあるポケモンを　もとどおりに\xfffeぶんりさせる　いっついの　くさび。
-わずかな　ひとしか　しらない\xfffeしぜんほごくに　はいるために\xfffeひつような　ライセンスカード。
-もっていると　そだてやさんで\xfffeタマゴが　みつかりやすくなる\xfffeふしぎで　とてもまるい　おまもり。
-もっていると　ひかる　ポケモンと\xfffeであいやすくなる　といわれる\xfffeふしぎで　ひかりかがやく　おまもり。
-プラズマフリゲートの　せんないで\xfffeパスワードを　にゅうりょくするときに\xfffeひつようとなる　カードキー。
-シッポウシティにある　カフェソーコの\xfffeじょうれんが　おとした　ハンカチ。\xfffeほのかに　ポケモンの　かおりがする。
-ポケモンの　のうりょくを　むりやり\xfffeめざめさせる　とくしゅな　そうち。\xfffeだが　しさくひんのため　ふかんぜん。
-ライモンシティの　ゆうえんちで\xfffeひろった　ライブキャスター。\xfffeおとしぬしは　おとこのこ　らしい。
-ライモンシティの　ゆうえんちで\xfffeひろった　ライブキャスター。\xfffeおとしぬしは　おんなのこ　らしい。
-しんじつを　うつしだすことで\xfffeポケモンを　ほんらいの　すがたに\xfffeかえてしまう　ふしぎな　かがみ。
+ー\xfffeー\xfffeー
+ー\xfffeー\xfffeー
+Chocolatina de sabor dulce.\xfffeRestaura 20 PS de un Pokémon.
+Una esfera brillante que potencia los\xfffemovimientos de tipo Acero y Dragón.\xfffeDebe llevarla Dialga.
+Una bonita esfera que potencia\xfffelos movimientos de tipo Dragón y Agua.\xfffeDebe llevarla Palkia.
+Carta para presentarse a alguien.\xfffeHaz que la entregue un Pokémon.
+Carta para escribir sobre tus cosas\xfffefavoritas. Haz que la entregue\xfffeun Pokémon.
+Carta para invitar a un compañero.\xfffeHaz que la entregue un Pokémon.
+Carta de agradecimiento.\xfffeHaz que la entregue un Pokémon.
+Carta para preguntar a un compañero.\xfffeHaz que la entregue un Pokémon.
+Carta para recomendar algo.\xfffeHaz que la entregue un Pokémon.
+Carta para responder a un mensaje.\xfffeHaz que la entregue un Pokémon.
+Carta con la imagen de un puente\xfffeque se alza hacia el cielo. Haz que\xfffela entregue un Pokémon.
+Carta con la imagen de un puente\xfffelevadizo de color rojo. Haz que\xfffela entregue un Pokémon.
+Carta con la imagen de un puente\xfffecolgante de acero. Haz que la\xfffeentregue un Pokémon.
+Carta con la imagen de un puente \xfffede ladrillos. Haz que la entregue\xfffeun Pokémon.
+Carta con la imagen de un puente\xfffecon forma de varios arcos. Haz\xfffeque la entregue un Pokémon.
+Los Pokémon pueden llevarla o usarla\xfffepara recuperarse de la parálisis.
+Los Pokémon pueden llevarla o usarla\xfffepara despertar del sueño.
+Los Pokémon pueden llevarla o usarla\xfffepara curarse del envenenamiento.
+Los Pokémon pueden llevarla o usarla\xfffepara curarse las quemaduras.
+Los Pokémon pueden llevarla o usarla\xfffepara descongelarse.
+Los Pokémon pueden llevarla o usarla\xfffepara restaurar 10 PP de un movimiento.
+Los Pokémon pueden llevarla o usarla\xfffepara restaurar 10 PS.
+Los Pokémon pueden llevarla o usarla\xfffepara librarse de la confusión.
+Los Pokémon pueden llevarla o usarla\xfffepara recuperarse de problemas\xfffede estado.
+Los Pokémon pueden llevarla o usarla\xfffepara restaurar algunos PS.
+Los Pokémon pueden llevarla o usarla\xfffepara restaurar algunos PS. Su sabor\xfffepuede causar confusión.
+Los Pokémon pueden llevarla o usarla\xfffepara restaurar algunos PS. Su sabor\xfffepuede causar confusión.
+Los Pokémon pueden llevarla o usarla\xfffepara restaurar algunos PS. Su sabor\xfffepuede causar confusión.
+Los Pokémon pueden llevarla o usarla\xfffepara restaurar algunos PS. Su sabor\xfffepuede causar confusión.
+Los Pokémon pueden llevarla o usarla\xfffepara restaurar algunos PS. Su sabor\xfffepuede causar confusión.
+Una Baya muy rara en la región\xfffede Teselia. Muy apreciada\xfffepor los gourmets.
+Una Baya muy rara en la región\xfffede Teselia. Muy apreciada\xfffepor los gourmets.
+Una Baya muy rara en la región\xfffede Teselia. Muy apreciada\xfffepor los gourmets.
+Una Baya muy rara en la región\xfffede Teselia. Muy apreciada\xfffepor los gourmets.
+Una Baya muy rara en la región\xfffede Teselia. Muy apreciada\xfffepor los gourmets.
+Al usarla con un Pokémon, se gana\xfffesu amistad, pero también reduce\xfffesus PS de base al subir de nivel.
+Al usarla con un Pokémon, se gana\xfffesu amistad, pero también reduce\xfffesu Ataque de base al subir de nivel.
+Al usarla con un Pokémon, se gana\xfffesu amistad, pero también reduce\xfffesu Defensa de base al subir de nivel.
+Al usarla con un Pokémon, se gana\xfffesu amistad, pero también reduce\xfffesu At. Esp. de base al subir de nivel.
+Al usarla con un Pokémon, se gana\xfffesu amistad, pero también reduce\xfffesu Def. Esp. de base al subir de nivel.
+Al usarla con un Pokémon, se gana\xfffesu amistad, pero también reduce\xfffesu Velocidad de base al subir de nivel.
+Una Baya muy rara en la región\xfffede Teselia. Muy apreciada\xfffepor los gourmets.
+Una Baya muy rara en la región\xfffede Teselia. Muy apreciada\xfffepor los gourmets.
+Una Baya muy rara en la región\xfffede Teselia. Muy apreciada\xfffepor los gourmets.
+Una Baya muy rara en la región\xfffede Teselia. Muy apreciada\xfffepor los gourmets.
+Una Baya muy rara en la región\xfffede Teselia. Muy apreciada\xfffepor los gourmets.
+Una Baya muy rara en la región\xfffede Teselia. Muy apreciada\xfffepor los gourmets.
+Una Baya muy rara en la región\xfffede Teselia. Muy apreciada\xfffepor los gourmets.
+Una Baya muy rara en la región\xfffede Teselia. Muy apreciada\xfffepor los gourmets.
+Una Baya muy rara en la región\xfffede Teselia. Muy apreciada\xfffepor los gourmets.
+Si la lleva un Pokémon, debilita un\xfffeataque supereficaz de tipo Fuego\xfffede un enemigo.
+Si la lleva un Pokémon, debilita un\xfffeataque supereficaz de tipo Agua\xfffede un enemigo.
+Si la lleva un Pokémon, debilita un\xfffeataque supereficaz de tipo Eléctrico\xfffede un enemigo.
+Si la lleva un Pokémon, debilita un\xfffeataque supereficaz de tipo Planta\xfffede un enemigo.
+Si la lleva un Pokémon, debilita un\xfffeataque supereficaz de tipo Hielo\xfffede un enemigo.
+Si la lleva un Pokémon, debilita un\xfffeataque supereficaz de tipo Lucha\xfffede un enemigo.
+Si la lleva un Pokémon, debilita un\xfffeataque supereficaz de tipo Veneno\xfffede un enemigo.
+Si la lleva un Pokémon, debilita un\xfffeataque supereficaz de tipo Tierra\xfffede un enemigo.
+Si la lleva un Pokémon, debilita un\xfffeataque supereficaz de tipo Volador\xfffede un enemigo.
+Si la lleva un Pokémon, debilita un\xfffeataque supereficaz de tipo Psíquico\xfffede un enemigo.
+Si la lleva un Pokémon, debilita un\xfffeataque supereficaz de tipo Bicho\xfffede un enemigo.
+Si la lleva un Pokémon, debilita un\xfffeataque supereficaz de tipo Roca\xfffede un enemigo.
+Si la lleva un Pokémon, debilita un\xfffeataque supereficaz de tipo Fantasma\xfffede un enemigo.
+Si la lleva un Pokémon, debilita un\xfffeataque supereficaz de tipo Dragón\xfffede un enemigo.
+Si la lleva un Pokémon, debilita un\xfffeataque supereficaz de tipo Siniestro\xfffede un enemigo.
+Si la lleva un Pokémon, debilita un\xfffeataque supereficaz de tipo Acero\xfffede un enemigo.
+Si la lleva un Pokémon, debilita un\xfffeataque de tipo Normal de un enemigo.
+Si la lleva un Pokémon, le sube\xfffeel Ataque en un momento de apuro.
+Si la lleva un Pokémon, le sube\xfffela Defensa en un momento de apuro.
+Si la lleva un Pokémon, le sube\xfffela Velocidad en un momento de apuro.
+Si la lleva un Pokémon, le sube\xfffeel Ataque Especial en un momento\xfffede apuro.
+Si la lleva un Pokémon, le sube\xfffela Defensa Especial en un momento\xfffede apuro.
+Si la lleva un Pokémon, aumenta\xfffela probabilidad de dar un golpe\xfffecrítico en un momento de apuro.
+Si la lleva un Pokémon, aumenta\xfffemucho una característica en un\xfffemomento de apuro.
+Restaura los PS de un Pokémon\xfffesi la lleva cuando le alcanza\xfffeun ataque supereficaz.
+Cuando la lleva un Pokémon, le sube\xfffela Precisión de un movimiento en un\xfffemomento de apuro.
+El Pokémon que la lleva puede actuar\xfffeen primer lugar una vez cuando se\xfffeencuentra en un momento de apuro.
+Si la lleva un Pokémon cuando otro\xfffelanza un ataque físico, este último\xfffetambién recibe daño.
+Si la lleva un Pokémon cuando otro\xfffelanza un ataque especial, este último\xfffetambién recibe daño.
+Lanza un destello que baja la Precisión\xfffedel enemigo. Debe llevarlo un Pokémon.
+Restaura cualquier característica\xfffereducida en combate. Solo se puede\xfffeusar una vez. Debe llevarla un Pokémon.
+Sólido y pesado brazal. Sube más las\xfffecaracterísticas al subir nivel, pero\xfffebaja la Velocidad de quien lo lleva.
+El Pokémon que lo lleva obtiene parte\xfffede los Puntos de Exp. del combate\xfffesin participar en él.
+Garra ligera y afilada que permite que\xfffeel Pokémon que la lleve ataque\xfffea veces el primero.
+Una campana con un tañido calmante\xfffeque reconforta al Pokémon que la lleva\xfffey lo vuelve más amistoso.
+El Pokémon que la lleva se libera\xfffedel enamoramiento. Solo puede\xfffeusarse una vez.
+Aumenta el Ataque, pero solo permite\xfffeusar un movimiento.\xfffeDebe llevarla un Pokémon.
+El Pokémon que la lleva puede\xfffehacer retroceder al Pokémon\xfffeal que le inflige daño.
+Polvo de brillo argénteo que fortalece\xfffelos ataques de tipo Bicho.\xfffeDebe llevarlo un Pokémon.
+Si el Pokémon que la lleva lucha en\xfffeun combate, duplica las ganancias.
+Si lo lleva el primer Pokémon del\xfffeequipo, se reduce la probabilidad de\xfffeque se acerquen Pokémon salvajes.
+Un orbe fantástico que debe llevar\xfffeLatios o Latias. Sube su Ataque\xfffeEspecial y su Defensa Especial.
+Tiene el brillo afilado de la plata\xfffey debe llevarlo Clamperl.\xfffeSube el Ataque Especial.
+Tiene un débil brillo rosado\xfffey debe llevarla Clamperl.\xfffeSube la Defensa Especial.
+Debe llevarla un Pokémon.\xfffePermite huir siempre de combates\xfffecontra Pokémon salvajes.
+El Pokémon que lleva esta piedra\xfffemágica no evoluciona.
+El Pokémon que la lleva puede resistir\xfffeun golpe que potencialmente lo deja\xfffeK.O. con un PS.
+Es un huevo lleno de felicidad que te\xfffehace ganar Puntos de Experiencia extra\xfffeen combate. Debe llevarlo un Pokémon.
+Su lente aumenta la probabilidad que\xfffetiene el Pokémon que lo lleva de\xfffeconseguir un golpe crítico.
+Película metálica que fortalece\xfffelos ataques de tipo Acero.\xfffeDebe llevarlo un Pokémon.
+Restaura gradualmente los PS\xfffedel Pokémon que lo lleva\xfffedurante el combate.
+Una gruesa y resistente escama que\xfffepueden llevar los Pokémon de tipo\xfffeDragón cuando son capturados.
+Asombrosa esfera que debe llevar\xfffePikachu y que aumenta su Ataque\xfffey su Ataque Especial.
+Debe llevarla un Pokémon.\xfffeLa suavidad de la arena fortalece\xfffelos movimientos de tipo Tierra.
+Debe llevarla un Pokémon.\xfffeLa robustez de la piedra fortalece\xfffelos movimientos de tipo Roca.
+Debe llevarla un Pokémon.\xfffeLa vitalidad de la semilla fortalece\xfffelos movimientos de tipo Planta.
+Debe llevarlas un Pokémon.\xfffeFortalecen los movimientos de\xfffetipo Siniestro.
+Debe llevarlo un Pokémon.\xfffeAumenta la decisión y fortalece\xfffelos movimientos de tipo Lucha.
+Debe llevarlo un Pokémon.\xfffeSu potente magnetismo fortalece\xfffelos movimientos de tipo Eléctrico.
+Gema con forma de gota de agua que\xfffefortalece los movimientos de tipo Agua.\xfffeDebe llevarla un Pokémon.
+Pico largo y afilado que aumenta la\xfffepotencia de los movimientos de tipo\xfffeVolador. Debe llevarlo un Pokémon.
+Flecha venenosa que refuerza los\xfffemovimientos de tipo Veneno. Debe\xfffellevarla un Pokémon.
+Fragmento de hielo que repele el calor y\xfffefortalece los movimientos de tipo Hielo.\xfffeDebe llevarlo un Pokémon.
+Misterioso y siniestro objeto que\xfffepotencia los movimientos de tipo\xfffeFantasma. Debe llevarlo un Pokémon.
+Cuchara llena de energía telequinética\xfffeque potencia los movimientos de tipo\xfffePsíquico. Debe llevarla un Pokémon.
+Actúa como combustible y potencia\xfffelos movimientos de tipo Fuego.\xfffeDebe llevarlo un Pokémon.
+Colmillo de gran dureza que refuerza\xfffelos movimientos de tipo Dragón.\xfffeDebe llevarlo un Pokémon.
+La delicadeza del pañuelo fortalece\xfffelos movimientos de tipo Normal.\xfffeDebe llevarlo un Pokémon.
+Peculiar dispositivo fabricado en\xfffeSilph S. A. que contiene todo tipo\xfffede datos.
+Debe llevarla un Pokémon.\xfffeCada vez que este inflige daño,\xffferecupera algunos PS.
+Tiene un curioso aroma que potencia\xfffelos movimientos de tipo Agua.\xfffeDebe llevarlo un Pokémon.
+Debe llevarlo un Pokémon.\xfffeSu peculiar aroma reduce la Precisión\xfffedel objetivo.
+Un par de guantes que debe llevar\xfffeChansey. Potencian su índice\xfffede golpe crítico mucho.
+Debe llevarlo Ditto. Es un polvo\xfffemuy fino, pero a la vez resistente,\xfffeque aumenta su Defensa.
+Un extraño tipo de hueso que potencia\xfffeel Ataque. Deben llevarlo Cubone o\xfffeMarowak.
+Es un puerro muy largo que debe llevar\xfffeFarfetch'd. Aumenta la probabilidad de\xfffeque logre un golpe crítico mucho.
+Debe llevarlo un Pokémon.\xfffeAumenta el carisma en los concursos.
+Debe llevarlo un Pokémon.\xfffeAumenta la belleza en los concursos.
+Debe llevarlo un Pokémon.\xfffeAumenta la dulzura en los concursos.
+Debe llevarlo un Pokémon.\xfffeAumenta el ingenio en los concursos.
+Debe llevarlo un Pokémon.\xfffeAumenta la dureza en los concursos.
+Debe llevarla un Pokémon.\xfffeAumenta ligeramente la Precisión de\xfffelos movimientos.
+Cinta de pelo que aumenta ligeramente\xfffela potencia de los movimientos físicos.\xfffeDebe llevarla un Pokémon.
+Potencian ligeramente los movimientos\xfffeespeciales. Debe llevarlas un Pokémon.
+Potencia ligeramente los movimientos\xfffesupereficaces.\xfffeDebe llevarla un Pokémon.
+Prolonga la duración de barreras\xfffecomo Reflejo y Pantalla de Luz.\xfffeDebe llevarla un Pokémon.
+Potencia los movimientos, pero\xfffeconsume PS con cada ataque.\xfffeDebe llevarla un Pokémon.
+Permite el uso inmediato de cualquier\xfffemovimiento en el primer turno. Es de un\xfffesolo uso y debe llevarla un Pokémon.
+Extraña esfera que envenena\xfffegravemente al Pokémon que\xfffela lleva en combate.
+Extraña esfera que causa quemaduras\xfffeal Pokémon que la lleva en combate.
+Debe llevarlo Ditto. Es un polvo\xfffemuy fino, pero a la vez resistente,\xfffeque aumenta su Velocidad.
+Si el Pokémon que la lleva tiene los PS\xfffeal máximo, puede resistir un golpe que\xfffepotencialmente lo deja K.O. con un PS.
+Debe llevarlo un Pokémon. Si se mueve\xfffedespués del enemigo, aumenta la\xfffePrecisión del Pokémon.
+Potencia un movimiento que se use de\xfffeforma consecutiva. Pero el efecto se\xfffepierde si se emplea otro movimiento.
+Reduce la Velocidad. Los Pokémon que\xfffelevitan y los de tipo Volador se tornan\xfffesensibles a movimientos de tipo Tierra.
+Es muy pesada y hace que el Pokémon\xfffeque la lleva se mueva más lento de\xfffelo normal.
+Un hilo largo y delgado de color rojo\xfffeque transmite el enamoramiento del\xfffePokémon que lo lleva a su objetivo.
+Restaura gradualmente los PS\xfffede los Pokémon de tipo Veneno\xfffey daña a todos los demás.
+Prolonga la duración del movimiento\xfffeGranizo que use el Pokémon que\xfffela lleva.
+Prolonga la duración del movimiento\xfffeTormenta Arena que use el Pokémon\xfffeque la lleva.
+Prolonga la duración del movimiento\xfffeDía Soleado que use el Pokémon\xfffeque la lleva.
+Prolonga la duración del movimiento\xfffeDanza Lluvia que use el Pokémon\xfffeque la lleva.
+Prolonga la duración de ataques\xfffemultiturno como Atadura y Repetición.\xfffeDebe llevarla un Pokémon.
+Debe llevarlo un Pokémon. Potencia\xfffela Velocidad, pero solo permite usar\xfffeun movimiento.
+Daña en cada turno al Pokémon que\xfffela lleva. Puede adherirse al Pokémon\xfffeque alcance con su ataque al portador.
+Potencia el Ataque al subir de nivel,\xfffepero reduce la Velocidad.\xfffeDebe llevarlo un Pokémon.
+Aumenta la Defensa al subir de\xfffenivel, pero reduce la Velocidad.\xfffeDebe llevarlo un Pokémon.
+Potencia el Ataque Especial al subir\xfffede nivel, pero reduce la Velocidad.\xfffeDebe llevarla un Pokémon.
+Aumenta la Defensa Especial al subir\xfffede nivel, pero reduce la Velocidad.\xfffeDebe llevarla un Pokémon.
+Potencia la Velocidad al subir de\xfffenivel, pero reduce la Velocidad en\xfffecombate. Debe llevarla un Pokémon.
+Aumenta los PS al subir de nivel,\xfffepero reduce la Velocidad.\xfffeDebe llevarla un Pokémon.
+En combate, esta concha desechada\xfffesirve para que un Pokémon se cambie\xfffepor otro que no esté combatiendo.
+El Pokémon que la lleva recupera\xfffemás PS al usar movimientos que\xfffedrenan al objetivo.
+Potencian el Ataque Especial, pero solo\xfffepermiten usar un movimiento.\xfffeDebe llevarlas un Pokémon.
+Tabla de piedra que potencia\xfffelos movimientos de tipo Fuego.\xfffeDebe llevarla un Pokémon.
+Tabla de piedra que potencia\xfffelos movimientos de tipo Agua.\xfffeDebe llevarla un Pokémon.
+Tabla de piedra que potencia\xfffelos movimientos de tipo Eléctrico.\xfffeDebe llevarla un Pokémon.
+Tabla de piedra que potencia\xfffelos movimientos de tipo Planta.\xfffeDebe llevarla un Pokémon.
+Tabla de piedra que potencia\xfffelos movimientos de tipo Hielo.\xfffeDebe llevarla un Pokémon.
+Tabla de piedra que potencia\xfffelos movimientos de tipo Lucha.\xfffeDebe llevarla un Pokémon.
+Tabla de piedra que potencia\xfffelos movimientos de tipo Veneno.\xfffeDebe llevarla un Pokémon.
+Tabla de piedra que potencia\xfffelos movimientos de tipo Tierra.\xfffeDebe llevarla un Pokémon.
+Tabla de piedra que potencia\xfffelos movimientos de tipo Volador.\xfffeDebe llevarla un Pokémon.
+Tabla de piedra que potencia\xfffelos movimientos de tipo Psíquico.\xfffeDebe llevarla un Pokémon.
+Tabla de piedra que potencia\xfffelos movimientos de tipo Bicho.\xfffeDebe llevarla un Pokémon.
+Tabla de piedra que potencia\xfffelos movimientos de tipo Roca.\xfffeDebe llevarla un Pokémon.
+Tabla de piedra que potencia\xfffelos movimientos de tipo Fantasma.\xfffeDebe llevarla un Pokémon.
+Tabla de piedra que potencia\xfffelos movimientos de tipo Dragón.\xfffeDebe llevarla un Pokémon.
+Tabla de piedra que potencia\xfffelos movimientos de tipo Siniestro.\xfffeDebe llevarla un Pokémon.
+Tabla de piedra que potencia\xfffelos movimientos de tipo Acero.\xfffeDebe llevarla un Pokémon.
+Incienso de exótico aroma que fortalece\xfffelos movimientos de tipo Psíquico.\xfffeDebe llevarlo un Pokémon.
+Incienso de exótico aroma que fortalece\xfffelos movimientos de tipo Roca.\xfffeDebe llevarlo un Pokémon.
+Incienso de exótico aroma que hace\xfffeque el Pokémon que lo lleve esté\xfffeaturdido y se mueva más despacio.
+Incienso que tiene un curioso aroma\xfffeque potencia los movimientos de\xfffetipo Agua. Debe llevarlo un Pokémon.
+Incienso de exótico aroma que fortalece\xfffelos movimientos de tipo Planta.\xfffeDebe llevarlo un Pokémon.
+Si el Pokémon que lo lleva lucha en\xfffeun combate, duplica las ganancias.
+Si lo lleva el primer Pokémon del\xfffeequipo, se reduce la probabilidad de\xfffeque se acerquen Pokémon salvajes.
+Dispositivo de protección muy pesado.\xfffeCierto Pokémon lo adora.
+Este dispositivo contiene una gran\xfffecantidad de energía eléctrica.\xfffeCierto Pokémon lo adora.
+Esta caja contiene una enorme\xfffecantidad de energía magmática.\xfffeCierto Pokémon lo adora.
+Dispositivo transparente que contiene\xfffedatos misteriosos. Es de fabricante\xfffedesconocido.
+Tela imbuida de una energía espiritual\xfffemuy potente. Cierto Pokémon la adora.
+Aumenta la probabilidad de que\xfffeel Pokémon que la lleve consiga\xfffeun golpe crítico.
+Si lo lleva un Pokémon cuando inflige\xfffedaño a otro, puede hacer retroceder\xfffea este último.
+Lima y afila las garras.\xfffeAumenta el Ataque y la Precisión.
+Engancha y araña al objetivo con unas\xfffepotentes y enormes garras afiladas.
+Crea una onda psíquica que causa\xfffedaño físico al objetivo.
+Quien lo usa concentra su energía\xfffemental y calma su espíritu para\xfffeaumentar su At. Esp. y su Def. Esp.
+Asusta tanto al objetivo que tiene que\xfffecambiarse por otro de su grupo. Si es\xfffeun Pokémon salvaje, la batalla acaba.
+Un movimiento altamente tóxico que\xfffeenvenena gravemente al objetivo y\xfffecausa un daño mayor en cada turno.
+Invoca una tormenta de granizo que\xfffedura cinco turnos y daña a todos los\xfffePokémon excepto a los de tipo Hielo.
+Tensa los músculos de quien lo usa y\xfffepotencia su Ataque y su Defensa.
+Un líquido venenoso que cubre al\xfffeobjetivo y provoca un daño doble\xfffesi este ya estaba envenenado.
+Movimiento variable que cambia de tipo\xfffey potencia en función de la habilidad\xfffeoculta del Pokémon que lo use.
+Quien lo usa intensifica el sol durante\xfffecinco turnos, lo que potencia\xfffelos movimientos de tipo Fuego.
+Provoca un ataque de ira en el objetivo\xfffeque solo le permite usar movimientos\xfffede ataque durante tres turnos.
+Ataca al objetivo con un rayo de hielo\xfffeque puede llegar a congelarlo.
+Invoca una tormenta de viento y nieve\xfffeque envuelve al objetivo y puede llegar\xfffea congelarlo.
+Ataca al objetivo con un potente rayo,\xfffepero quien lo usa debe descansar en el\xfffesiguiente turno para reponer energía.
+Impresionante pared de luz que reduce\xfffeel daño de los Ataques Especiales\xfffedurante cinco turnos.
+Bloquea todos los ataques.\xfffePuede fallar si se usa repetidamente.
+Quien lo usa invoca una fuerte lluvia\xfffeque dura cinco turnos y fortalece los\xfffemovimientos de tipo Agua.
+Quien lo usa emplea su poder mental\xfffepara hacer levitar al objetivo, que es\xfffemás vulnerable durante tres turnos.
+Un escudo que protege de problemas\xfffede estado, como el sueño o la parálisis,\xfffedurante cinco turnos.
+Un ataque de gran potencia que resulta\xfffemás fuerte cuanto menos le guste el\xfffeEntrenador al Pokémon que lo usa.
+Ataque de dos turnos. En el primer\xfffeturno se concentra luz, y en el segundo\xfffese canaliza en un rayo para atacar.
+El usuario ataca lanzando una piedra\xfffeo un proyectil. Puede estrellar contra\xfffeel suelo al objetivo si vuela.
+Ataca al objetivo con una fuerte\xfffedescarga eléctrica que puede\xfffellegar a paralizar.
+Ataca con un terrible rayo que puede\xfffeparalizar al objetivo.
+Quien lo usa genera un terremoto que\xfffeafecta a los Pokémon de alrededor\xfffeen combate.
+Un ataque de gran potencia que resulta\xfffemás fuerte cuanto más le guste el\xfffeEntrenador al Pokémon que lo usa.
+Quien lo usa cava en el primer turno y\xfffeataca en el segundo. También se puede\xfffeusar para escapar de lugares cerrados.
+Ataca al objetivo con un potente\xfffeataque telequinético que le puede\xfffebajar la Defensa Especial.
+Lanza una bola oscura que puede bajar\xfffela Defensa Especial del objetivo.
+Ataca con contundentes puñetazos.\xfffePuede destruir barreras como Pantalla\xfffeLuz y Reflejo.
+Quien lo usa se mueve tan rápido que\xfffedeja una estela de sí mismo que\xfffeaumenta la Evasión.
+Impresionante pared de luz que reduce\xfffeel daño de los ataques físicos durante\xfffecinco turnos.
+Onda de porquería que afecta a todos\xfffelos Pokémon de alrededor y puede\xfffecausar envenenamiento.
+Abrasa al objetivo con una intensa\xfffellamarada que puede causarle\xfffequemaduras.
+Descarga de lodo tóxico que puede\xfffellegar a envenenar al objetivo.
+Tormenta de arena de cinco turnos\xfffeque daña a todos los Pokémon excepto\xfffea los de tipo Roca, Tierra y Acero.
+Ataca con una intensa ráfaga de fuego\xfffeabrasador que puede causar\xfffequemaduras.
+Tira rocas que detienen al objetivo y\xfffebajan su Velocidad.
+Ataque que desconcierta por su\xffferapidez y que no falla nunca.
+Atormenta al objetivo y le provoca un\xfffeataque de ira que le impide usar el\xfffemismo movimiento dos veces seguidas.
+Movimiento de ataque que dobla su\xfffepotencia si quien lo utiliza está\xfffeenvenenado, quemado o paralizado.
+Ataca al objetivo envuelto en llamas.\xfffeAcumula fuerza y hace subir la Velocidad\xfffedel usuario.
+Restaura todos los PS y cura todos los\xfffeproblemas de estado del usuario.\xfffeDuerme los dos próximos turnos.
+Si el objetivo es del sexo opuesto,\xfffeel enamoramiento reducirá las\xfffeprobabilidades de que ataque.
+Quien lo usa ataca y roba el objeto que\xfffelleva su objetivo simultáneamente. Si ya\xfffelleva un objeto, no podrá robar.
+Ataque rápido dirigido a los pies del\xfffeobjetivo que le hace perder Velocidad.
+Canto que sirve de ataque.\xfffeSu fuerza aumenta cuantos más\xfffePokémon lo usan en cadena.
+Ataca al objetivo con un susurro.\xfffeSu fuerza aumenta si cualquiera\xfffede los Pokémon lo usa cada turno.
+Quien lo usa ataca con toda\xfffesu fuerza, pero ve muy reducido\xfffesu Ataque Especial.
+Extraño poder que intercambia la\xfffeposición del usuario con la de un\xfffealiado sobre el terreno de combate.
+Quien lo usa ataca con toda su energía.\xfffeTambién puede bajar la Defensa\xfffeEspecial del objetivo si lo alcanza.
+Extrae energía de la naturaleza y la\xfffelanza contra el objetivo. También\xfffepuede reducir su Defensa Especial.
+Ataque controlado que impide que\xfffeel objetivo se debilite al dejarle\xfffecon un mínimo de un PS.
+Abrasa al objetivo con agua hirviendo\xfffey puede causarle quemaduras.
+El usuario ataca al objetivo arrojando\xfffeel objeto que lleve. La potencia y los\xfffeefectos dependen del objeto arrojado.
+Quien lo usa ataca con una descarga\xfffeeléctrica y puede usar la electricidad\xffferestante para subir su Ataque Especial.
+Arroja al objetivo por los aires y lo\xfffeestrella contra el suelo al siguiente\xfffeturno, impidiéndole moverse en el aire.
+El usuario ataca con fuego al objetivo.\xfffeSi este lleva una Baya, se quemará\xfffey ya no la podrá usar.
+Consigue que el objetivo sea\xfffeel último en moverse.
+Lanza una siniestra llamarada morada\xfffeque provoca quemaduras al objetivo.
+Quien lo usa realiza un ataque rápido\xfffeque aumenta de potencia si el atacante\xfffeno lleva ningún objeto.
+Impide que el objetivo use el objeto\xfffeque lleve y que su Entrenador use\xfffeobjetos sobre él.
+Quien lo usa explosiona en combate\xfffee inflige daño a todos los Pokémon\xfffea su alrededor. El usuario se debilita.
+Quien lo usa ataca con una afilada\xfffegarra de sombras. Su índice de golpe\xfffecrítico es muy alto.
+Quien lo usa se carga de energía y\xfffeluego ataca. Y, si ataca después del\xfffeobjetivo, dobla la potencia del ataque.
+Quien lo usa puede vengar a sus amigos.\xfffeEl daño causado será mayor si en el\xfffeturno anterior han debilitado a uno.
+Quien lo usa carga contra el objetivo\xfffeusando toda su energía y en el turno\xfffesiguiente tiene que descansar.
+Quien lo usa reduce la resistencia\xfffeque ofrece su cuerpo y gana\xfffemucho en Velocidad.
+Lanza una luz cegadora que reduce\xfffela Precisión del objetivo. También\xfffepuede usarse para iluminar cuevas.
+Apuñala al objetivo desde abajo con\xfffepiedras afiladas. Su índice de golpe\xfffecrítico es muy alto.
+Tras atacar, vuelve a toda prisa para\xfffedar paso a otro Pokémon del equipo.
+Débil descarga eléctrica que se lanza\xfffecontra el objetivo y causa parálisis\xfffesi es certera.
+Quien lo usa ataca al objetivo como\xfffeun remolino. Cuanto más lento sea\xfffequien lo usa, más daño causa.
+Danza frenética que eleva el espíritu\xfffecombativo. Aumenta mucho el Ataque\xfffede quien lo usa.
+Quien lo usa realiza un contraataque\xfffeque baja el Ataque Especial\xfffedel oponente.
+Quien lo usa se hipnotiza y copia\xfffecualquier cambio que haya en las\xfffecaracterísticas de su objetivo.
+Sacudida sísmica que afecta a los demás\xfffePokémon adyacentes y también\xfffereduce su Velocidad.
+Quien lo usa ataca lanzando un\xfffealiento gélido. Siempre resulta\xfffeen un golpe crítico.
+Arroja grandes rocas para infligir\xfffedaño. También puede hacer\xffferetroceder al objetivo.
+Ataca al objetivo con cuchillas o\xfffegarras que se cruzan a modo\xfffede tijera.
+Se lleva al objetivo, que es cambiado\xfffepor otro Pokémon. Si es un Pokémon\xfffesalvaje, acaba el combate.
+Quien lo usa se concentra y potencia\xfffesu Ataque y su Ataque Especial.
+Ataca con un tentáculo o brazo\xfffeimpregnado de veneno que puede\xfffellegar a envenenar al objetivo.
+Solo funciona con objetivos dormidos.\xfffeAbsorbe la mitad del daño causado para\xffferestaurar los PS de quien lo usa.
+Atrapa al objetivo con hierbas y lo\xfffederriba. Cuanto más pesado sea\xfffeel objetivo, más daño causa.
+Envuelve al objetivo en confusión, pero\xfffetambién sube marcadamente su Ataque.
+Ataca picoteando al objetivo. Si este\xfffetiene una Baya, se la arrebata y se\xfffebeneficia de sus efectos.
+Después de atacar, quien lo usa cambia\xffferápidamente su puesto con un compañero\xfffeque no esté combatiendo.
+Quien lo usa utiliza parte de sus PS\xfffepara hacer una copia de sí mismo\xfffeque sirve como señuelo.
+Quien lo usa concentra toda su energía\xfffelumínica y la libera de golpe. Puede\xfffereducir la Def. Especial del objetivo.
+Distorsiona el espacio de forma que los\xfffePokémon más lentos consiguen moverse\xfffeen primer lugar durante cinco turnos.
+Corta al objetivo con una cuchilla o\xfffegarra. También puede usarse para\xfffecortar árboles delgados.
+Quien lo usa levanta el vuelo y ataca en\xfffeel siguiente turno. También se puede\xfffeusar para volar a algún sitio conocido.
+Inunda el campo de batalla con una\xfffeola gigante. También puede usarse\xfffepara desplazarse por el agua.
+Genera mucha fuerza y ataca con gran\xfffeenergía al objetivo. También puede\xfffeusarse para mover piedras grandes.
+Carga contra el objetivo a una\xfffevelocidad increíble. También puede\xfffeusarse para remontar una cascada.
+Quien lo usa se sumerge en el agua y\xfffeataca al siguiente turno. También puede\xfffeusarse para bucear en el mar.
+ー\xfffeー\xfffeー
+ー\xfffeー\xfffeー
+Una saca donde guardar los objetos\xfffeútiles para la exploración.\xfffePermite acceder al Subsuelo.
+Una saca grande y resistente utilizada\xfffepara transportar el botín reunido en\xfffela mina de carbón.
+Recoge las normas de los combates. En\xfffelos combates en conexión puedes elegir\xfffeel conjunto de reglas que quieres usar.
+Busca Pokémon que se esconden\xfffeen la hierba. La batería se recarga\xfffemientras caminas.
+Una tarjeta en la que se registran los\xfffePuntos de Batalla que has ganado.
+Un cuaderno en el que se recogen, día\xfffea día, los progresos de tu aventura.
+Caja en la que se pueden guardar los\xfffeSellos que se aplican a las Cápsulas\xfffede las Poké Balls.
+Una bonita cajita donde guardar todos\xfffelos Complementos para vestir a tus\xfffePokémon en el Teatro Musical.
+Bolsita con capacidad para diez Sellos\xfffede los que decoran las Poké Balls.
+Un cuaderno muy práctico en el que\xfffepuedes registrar amigos, claves\xfffede amigo, etc.
+Abre la puerta de la Central del\xfffeValle Eólico. La llevaba un Recluta\xfffedel Equipo Galaxia.
+Está hecho con huesos de Pokémon y\xfffetrae buena suerte. Hay que llevarlo a\xfffela anciana de Pueblo Caelestis.
+Desactiva los sistemas de seguridad de\xfffela Base Galaxia. Por lo visto, perder\xfffeesta tarjeta se castiga severamente.
+Se dice que esta cadena mítica está\xffferelacionada con el Pokémon legendario\xfffeque creó la región de Sinnoh.
+Un mapa muy útil que puede consultarse\xfffeen cualquier momento y que, además,\xfffete indica dónde te encuentras.
+Dispositivo que busca Entrenadores\xfffelistos para el combate. La batería se\xfffecarga mientras caminas.
+Puedes obtenerlo en el Casino.\xfffeTiene capacidad para 50 000 Fichas.
+Caña de pescar bastante usada y\xfffedesgastada. Pesca Pokémon salvajes\xfffeen todo tipo de aguas.
+Caña de pescar nuevecita y de gran\xfffecalidad. Pesca Pokémon salvajes\xfffeen todo tipo de aguas.
+Increíble caña de pescar de alta\xfffetecnología. Pesca Pokémon salvajes\xfffeen todo tipo de aguas.
+Una regadera con forma de Psyduck.\xfffeAyuda a que las Bayas plantadas en\xfffesuelo fértil crezcan mejor.
+Caja en la que se transportan los\xfffePokochos elaborados con Bayas.
+Bicicleta plegable con la que se va más\xffferápido que con las Deportivas.
+Llave de una suite del hotel de lujo\xfffejunto al lago. Por algún motivo,\xfffese pierde a menudo.
+Carta del Profesor Oak en la que se\xfffete pide que vayas a la Ruta 224.
+Pluma que brilla como la luna. Se dice\xfffeque tiene el poder de disipar pesadillas.
+Necesario para entrar en la posada de\xfffeCiudad Canal. Es extraño, pero la última\xfffefecha registrada es de hace 50 años.
+Emite sonidos que no parecen de este\xfffemundo. Es de fabricante desconocido.
+Es el billete válido para embarcar\xfffeen el Ferry S.S. Aqua. Tiene dibujado\xfffeun barco.
+Es necesario para participar en\xfffeConcursos Pokémon. Tiene una\xfffeCinta de ganador dibujada.
+Formada a partir de magma enfriado\xfffey endurecido. Aún hay magma\xfffelíquido en su interior.
+Paquete encomendado a tu cuidado que\xfffetienes que entregar a tu amigo de la\xfffeinfancia que dejó Pueblo Hojaverde.
+Uno de los tres cupones que sirve\xfffepara obtener un Poké-reloj.
+Uno de los tres cupones que sirve\xfffepara obtener un Poké-reloj.
+Uno de los tres cupones que sirve\xfffepara obtener un Poké-reloj.
+Llave del siniestro almacén del Equipo\xfffeGalaxia que está ubicado en las afueras\xfffede Ciudad Rocavelo.
+Fantástico medicamento vendido en la\xfffefarmacia de Ciudad Orquídea. Cura\xfffecompletamente un Pokémon.
+Un fantástico dispositivo que graba\xfffecombates entre amigos o celebrados\xfffeen algún recinto especial.
+Una flor que se suele regalar en ramos\xfffepara expresar agradecimiento en\xfffeocasiones especiales, como cumpleaños.
+Una llave de alta tecnología que debe\xfffeusarse en un lugar concreto. Emite una\xfffeseñal eléctrica que abre una puerta.
+Práctico recipiente que puede almacenar\xfffehasta 99 Bonguri de cada especie.
+Bloc que almacena la información de los\xfffeUnown capturados hasta el momento.
+Dispositivo portátil de cultivo que\xfffepermite plantar Bayas en cualquier\xfffemomento de forma sencilla.
+Aparato de precisión que reacciona\xfffecon luz y sonido ante los objetos que\xfffeno se ven indicando su posición.
+Tarjeta para conseguir puntos con el\xfffeprograma de radio Las contraseñas\xfffede Buena.
+Sabrosa cola de origen desconocido.\xfffeSe puede comprar a un precio\xfffemuy elevado.
+Campana de aspecto antiguo que emite\xfffeun sonido que calma el espíritu.
+Llave con forma de tarjeta que abre\xfffelas puertas de la Torre Radio.
+Llave que abre la puerta que hay\xfffeen el Túnel Trigal.
+Objeto que contiene agua y se usa para\xffferegar las Bayas del Plantabayas.
+Escama del Gyarados aparecido en\xfffeel Lago de la Furia. Es de un rojo\xfffetan intenso como las llamas.
+El muñeco Mime Jr. que perdió\xfffela Copiona.
+Billete necesario para poder montar\xfffetodas las veces que se desee en\xfffeel Magnetotrén.
+Valiosa pieza robada de una máquina\xfffede la Central Energía.
+Misteriosa ala de un brillante\xfffecolor plateado.
+Misteriosa ala de un brillante\xfffecolor arcoíris.
+Misterioso Huevo con dibujos\xfffeque obtienes del Sr. Pokémon.\xfffeNadie sabe qué contiene.
+Bonguri de color rojo y aroma\xfffemuy penetrante.
+Bonguri de color azul y aroma tierno.
+Bonguri de color amarillo y aroma\xffferefrescante.
+Bonguri de color verde y aroma peculiar\xfffeque recuerda al café tostado.
+Bonguri de color rosa y aroma dulce.
+Bonguri de color blanco que no\xfffedesprende aroma alguno.
+Bonguri de color negro y aroma\xfffeindescriptible.
+Poké Ball algo distinta, especialmente\xfffeindicada para capturar Pokémon\xfffeevasivos.
+Poké Ball algo distinta que funciona\xfffeespecialmente bien con Pokémon\xfffede nivel inferior a los que se posee.
+Poké Ball algo distinta, especialmente\xfffeindicada para capturar los Pokémon\xfffeque se han pescado con una Caña.
+Poké Ball algo distinta que funciona\xfffeespecialmente bien a la hora de atrapar\xfffePokémon de mucho peso.
+Poké Ball algo distinta que atrapa mejor\xfffePokémon de la misma especie que los\xfffeque se posee, pero de sexo diferente.
+Poké Ball algo distinta que hace más\xfffeamistosos a los Pokémon salvajes que\xfffese capturan con ella.
+Poké Ball algo distinta que atrapa con\xfffemás facilidad los Pokémon que\xfffeevolucionan con la Piedra Lunar.
+Poké Ball que se utiliza en el\xfffeConcurso de Captura de Bichos.
+Poké Ball que se utiliza dentro del\xfffeParque Compi.
+Álbum que recoge las fotos que se toman\xfffea lo largo de la aventura.
+Lector con el que se pueden escuchar\xfffeaquellas canciones tan nostálgicas.\xfffeSe cambia con un solo interruptor.
+Campana de aspecto antiguo que emite\xfffeun sonido que calma el espíritu.
+Caramelo típico de Pueblo Caoba,\xfffemuy popular como souvenir.
+Contiene los datos del Pokéathlon\xfffecon el número de victorias.
+Contiene los datos del Pokéathlon con\xfffeel número de veces que se ha quedado\xfffeen último lugar.
+Contiene los datos del Pokéathlon con\xfffeel número de sprints de los Pokémon.
+Contiene los datos del Pokéathlon con\xfffeel número de saltos de los Pokémon.
+Contiene los datos del Pokéathlon\xfffecon el número de victorias\xfffeen Saltaobstáculos.
+Contiene los datos del Pokéathlon\xfffecon el número de victorias en\xfffeCarrera de Relevos.
+Contiene los datos del Pokéathlon\xfffecon el número de victorias\xfffeen Atrapabanderas.
+Contiene los datos del Pokéathlon con\xfffeel número de victorias en Rompelosas.
+Contiene los datos del Pokéathlon con\xfffeel número de victorias en Atrapadiscos.
+Contiene los datos del Pokéathlon\xfffecon el número de victorias\xfffeen Nieve Cruzada.
+Contiene los datos del Pokéathlon\xfffecon el número de puntos conseguidos.
+Contiene los datos del Pokéathlon\xfffecon el número de derrotas.
+Contiene los datos del Pokéathlon\xfffecon el número de puntos perdidos\xfffepor tus Pokémon.
+Contiene los datos del Pokéathlon\xfffecon el número de placajes realizados.
+Contiene los datos del Pokéathlon\xfffecon el número de caídas que han\xfffesufrido tus Pokémon.
+Contiene los datos del Pokéathlon\xfffecon el número de victorias\xfffeen Fuera del Ring.
+Contiene los datos del Pokéathlon\xfffecon el número de victorias\xfffeen Botaluces.
+Contiene los datos del Pokéathlon\xfffecon el número de victorias\xfffeen Pisacírculos.
+Contiene los datos del Pokéathlon\xfffecon el número de victorias en conexión.
+Contiene los datos del Pokéathlon\xfffecon el número de veces que se ha\xfffequedado en último lugar en conexión.
+Contiene los datos del Pokéathlon\xfffecon el número de victorias\xfffeen una disciplina.
+Contiene los datos del Pokéathlon con\xfffeel número de veces que has terminado\xfffeen última posición en una disciplina.
+Contiene los datos del Pokéathlon\xfffecon el número de veces que has cambiado\xfffede Pokémon.
+Contiene los datos del Pokéathlon con\xfffeel número de victorias en Metegoles.
+Contiene los datos del Pokéathlon con\xfffeel número de premios individuales.
+Contiene los datos del Pokéathlon\xfffecon el número de veces que has\xfffetocado tus Pokémon.
+Contiene los datos del Pokéathlon\xfffecon el tiempo que has pasado\xfffeen esta competición.
+Esfera glauca de la que se dice que\xfffeguarda una estrecha relación con las\xfffeleyendas de Hoenn.
+Una Cápsula resistente que solo puede\xfffeabrirse con una llave especial.
+Esfera carmesí de la que se dice que\xfffeguarda una estrecha relación con las\xfffeleyendas de Hoenn.
+Esfera añil que, según dicen, guarda\xfffeuna estrecha relación con las leyendas\xfffede Hoenn.
+Esfera cristalina encontrada bajo\xfffetierra. A pesar de estar cubierta de\xffferoca y tierra, su belleza es increíble.
+Curiosa piedra que hace evolucionar\xfffea determinadas especies de Pokémon.\xfffeBrilla con los colores del arcoíris.
+Piedra evolutiva. El Pokémon portador\xfffeaumentará su Defensa y su Defensa\xfffeEspecial si aún puede evolucionar.
+Piedra muy ligera que reduce el peso\xfffedel Pokémon que la lleve.
+Si el portador es alcanzado por un\xfffeataque físico, el agresor también\xffferecibe daño.
+El Pokémon que lo lleve flotará en el\xfffeaire. Si recibe un golpe, estallará.
+Misteriosa tarjeta que permite al\xfffePokémon que la lleve expulsar al\xfffeagresor cuando este le cause daño.
+El Pokémon que lo lleva es vulnerable\xfffefrente a movimientos que normalmente\xfffeno afectan a su tipo.
+Banda que potencia los movimientos\xfffeque estrujan al rival.
+Raíz de usar y tirar que sube el Ataque\xfffeEspecial cuando se recibe un ataque\xfffede tipo Agua.
+Batería de usar y tirar que sube\xfffeel Ataque de quien la lleva cuando\xffferecibe un golpe de tipo Eléctrico.
+Si el portador es alcanzado por un\xfffeataque, saldrá del combate y será\xfffesustituido por otro Pokémon del equipo.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Fuego.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Agua.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Eléctrico.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Planta.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Hielo.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Lucha.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Veneno.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Tierra.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Volador.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Psíquico.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Bicho.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Roca.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Fantasma.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Dragón.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Siniestro.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Acero.\xfffeDebe llevarla un Pokémon.
+Joya de un solo uso que potencia\xfffelos movimientos de tipo Normal.\xfffeDebe llevarla un Pokémon.
+Pluma que aumenta un poco los PS\xfffede un Pokémon al subir de nivel.
+Pluma que aumenta un poco el Ataque\xfffede un Pokémon al subir de nivel.
+Pluma que aumenta un poco la Defensa\xfffede un Pokémon al subir de nivel.
+Pluma que aumenta un poco\xfffeel Ataque Especial de un Pokémon\xfffeal subir de nivel.
+Pluma que aumenta un poco\xfffela Defensa Especial de un Pokémon\xfffeal subir de nivel.
+Pluma que aumenta un poco\xfffela Velocidad de un Pokémon\xfffeal subir de nivel.
+Pluma normal y corriente. Muy bonita,\xfffepero no sirve para nada.
+Fósil de un Pokémon ancestral que\xfffevivió en el fondo del mar. Parece ser\xfffeun fragmento de concha marina.
+Fósil de un Pokémon ancestral que\xfffesurcó los cielos. Parece ser parte\xfffede un ala suya.
+Ticket especial para ir a Isla Libertad\xfffemediante un barco de Ciudad Porcelana.
+Bola misteriosa que contiene el poder\xfffede la región de Teselia y se utiliza para\xfffegenerar Poderes Regalo.
+Bola especial que aparece de pronto\xfffeen tu Bolsa en el Bosque Nexo y\xfffepuede atrapar a cualquier Pokémon.
+Un objeto que atrae a los Pokémon.\xfffePuedes utilizarlo para huir de un\xfffecombate con un Pokémon salvaje.
+Bonita caja donde puedes guardar\xfffelos Complementos para vestir a tus\xfffePokémon en el Teatro Musical.
+Fósil del cráneo de un Pokémon.\xfffeSe dice que este Pokémon cruzó\xfffemares embravecidos.
+Extraña seta que desprende un\xfffeagradable aroma. Muy apreciada\xfffepor los gourmets.
+Pepita grande de oro puro que\xfffedesprende un brillo espectacular.\xfffeMuy valorada por los coleccionistas.
+Brillantes perlas plateadas de gran\xfffetamaño. Muy valoradas por los\xfffecoleccionistas.
+Fragmento de un cometa caído al\xfffesuelo al atravesar la atmósfera.\xfffeMuy valorado por los coleccionistas.
+Moneda de cobre de más de tres mil\xfffeaños de antigüedad. Muy valorada\xfffepor los coleccionistas.
+Moneda de plata de más de tres mil\xfffeaños de antigüedad. Muy valorada\xfffepor los coleccionistas.
+Moneda de oro de más de tres mil\xfffeaños de antigüedad. Muy valorada\xfffepor los coleccionistas.
+Jarrón de más de tres mil años de\xfffeantigüedad. Muy valorado por\xfffelos coleccionistas.
+Brazalete de más de tres mil años\xfffede antigüedad. Muy valorado por\xfffelos coleccionistas.
+Efigie de piedra de más de tres mil\xfffeaños de antigüedad. Muy valorada\xfffepor los coleccionistas.
+Corona de más de tres mil años\xfffede antigüedad. Muy valorada\xfffepor los coleccionistas.
+Especialidad de Ciudad Porcelana.\xfffeCura los problemas de estado de\xfffeun Pokémon.
+Aumenta la probabilidad de asestar\xfffeun golpe crítico. Al cambiar de\xfffePokémon, el efecto desaparece.
+Aumenta ligeramente la Velocidad en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta ligeramente el Ataque Especial\xfffeen combate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta ligeramente la Defensa\xfffeEspecial en combate. Al cambiar\xfffede Pokémon, el efecto desaparece.
+Aumenta ligeramente la Defensa en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta ligeramente el Ataque en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta ligeramente la Precisión en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta bastante la Velocidad en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta bastante el Ataque Especial\xfffeen combate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta bastante la Defensa Especial\xfffeen combate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta bastante la Defensa en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta bastante el Ataque en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta bastante la Precisión en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta mucho la Velocidad en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta mucho el Ataque Especial\xfffeen combate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta mucho la Defensa Especial\xfffeen combate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta mucho la Defensa en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta mucho el Ataque en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Aumenta mucho la Precisión en\xfffecombate. Al cambiar de Pokémon,\xfffeel efecto desaparece.
+Al usarlo, activa la habilidad de\xfffeun Pokémon de tu equipo.
+Cuando se usa, un Pokémon de\xfffetu equipo pierde su objeto.
+Cuando se usa, un Pokémon\xfffede tu equipo utiliza su objeto\xfffeinmediatamente.
+Cuando se usa, se anulan los cambios\xfffeen las características de un Pokémon\xfffede tu equipo.
+Aumenta mucho la probabilidad de\xfffeasestar un golpe crítico. Al cambiar\xfffede Pokémon, su efecto desaparece.
+Forma que adoptó Reshiram\xfffeal perder su cuerpo. Espera\xfffela llegada de un nuevo héroe.
+Forma que adoptó Zekrom\xfffeal perder su cuerpo. Espera\xfffela llegada de un nuevo héroe.
+Placaje de alto voltaje que hiere\xfffetambién al atacante.
+Ataque demoledor que puede bajar la\xfffeDefensa del objetivo. También puede\xfffedestrozar piedras resquebrajadas.
+Ataca con un chillido desagradable\xfffeque baja el Ataque Especial del rival.
+Comunicador de alta tecnología con\xfffecámara que permite hablar a cuatro\xfffepersonas a la vez.
+Piedra enigmática.
+Carta importante que entrega Wingull.
+Carta importante que entrega Wingull.
+Carta importante que entrega Wingull.
+Comunicador de alta tecnología con\xfffecámara que permite hablar a cuatro\xfffepersonas a la vez.
+Records information about the\xfffemedals earned by small chance.
+An unique item that unites a\xfffecertain Pokemon with Kyurem
+An unique item that separates\xfffea centain pokemon from Kyurem.
+Una llave necesaria\xfffpara entrar en una pequeña\xfffereserva natural.
+Un misterioso hechizo increible que\xfffecuando se equipa, hace mas facil al\xfffeHombre de la Guarderia encontrar Huevos.
+Un misterioso hechizo brillante que\xfffecuando se equipa, hace mas facil encontrar\xfffePokémon con colores Raros. 
+Una llave usada para abrir\xfffepuertas del equipo Plsama\xfffeFragata.
+Un pañuelo que un visitante habitual de\xfffeNacrene City's "Cafe" tiró.\xfffeHuele a Pokémon.
+Un aparato para forzar\xfffey despertar las habilidades Pokémon.\xfffeEs un prototipo inacabado.
+Un Xtransceiver encontrado en\xfffeNimbasa City Amusement Park.\xfffeSu propietario es probable que sea un chico.
+Un Xtransceiver encontrado en\xfffeNimbasa City Amusement Park.\xfffeSu propietario es probable que sea una chica.
+Un espejo que cambia de forma\xfffepara mostrar la verdad.
