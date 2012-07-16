@@ -1,26 +1,26 @@
-ＰＧＬ
-ＧＴＳ
-ＰＤＷ
-Ｗｉ－Ｆｉ
-ぐるぐる
-ゲームシンク
-コロシアム
-サブウェイ
-ジオネット
-シングルバトル
-せきがいせん
-ダブルバトル
-チャット
-つうしん
-ともだちコード
-トリプルバトル
-ハイリンク
-バトルビデオ
-ボイスチャット
-ポケシフター
-マルチバトル
-ミュージカル
-ユニオン
-すれちがいログ
-ローテーション
-ワイヤレス
+PGL
+GTS
+POKÉMON DW
+Wi-Fi
+GIRO
+SINCR. JUEGO
+COLISEO
+METRO
+GEONET
+INDIVIDUAL
+INFRARROJOS
+DOBLE
+CHAT
+CONEXIÓN
+CLAVE AMIGO
+COMB. TRIPLE
+ZONA NEXO
+VÍD. COMBATE
+CHAT DE VOZ
+POKÉTRANSFER
+MÚLTIPLE
+MUSICAL
+UNIÓN
+R. ENCUENTROS
+ROTATORIO
+INALÁMBRICA
