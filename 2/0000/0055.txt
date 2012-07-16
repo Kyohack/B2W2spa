@@ -1,41 +1,41 @@
-\xf000Ā\x0001\x0000のせかい　と　\xfffeせつぞく　しました！
-\xf000Ā\x0001\x0000のせかい　と　\xfffeせつぞく　しました！
-\xf000Ā\x0001\x0000のせかい　と　\xfffeせつぞく　しました！
-\xf000Ā\x0001\x0000のせかい　と　\xfffeせつぞく　しました！
-\xf000Ā\x0001\x0000が　ハイリンクに　います
-\xf000Ā\x0001\x0001が　ハイリンクに　います
-\xf000Ā\x0001\x0002が　ハイリンクに　います
-\xf000Ā\x0001\x0003が　ハイリンクに　います
-\xf000Ā\x0001\x0000のせかいに\xfffeはいることが　できます
-\xf000Ā\x0001\x0000のせかいに\xfffeはいることが　できます
-\xf000Ā\x0001\x0000のせかいに\xfffeはいることが　できます
-\xf000Ā\x0001\x0000のせかいに\xfffeはいることが　できます
-\xf000Ā\x0001\x0000が　ハイリンクに　もどりました
-\xf000Ā\x0001\x0001が　ハイリンクに　もどりました
-\xf000Ā\x0001\x0002が　ハイリンクに　もどりました
-\xf000Ā\x0001\x0003が　ハイリンクに　もどりました
-\xf000Ā\x0001\x0000が　ハイリンクから　ぬけました
-\xf000Ā\x0001\x0001が　ハイリンクから　ぬけました
-\xf000Ā\x0001\x0002が　ハイリンクから　ぬけました
-\xf000Ā\x0001\x0003が　ハイリンクから　ぬけました
-つうしんを　しゅうりょう　します
-\xf000Ā\x0001\x0000が　まちに　きました！
-\xf000Ā\x0001\x0001が　まちに　きました！
-\xf000Ā\x0001\x0002が　まちに　きました！
-\xf000Ā\x0001\x0003が　まちに　きました！
-\xf000Ā\x0001\x0000の　ハイリンクに　います
-\xf000Ā\x0001\x0001の　ハイリンクに　います
-\xf000Ā\x0001\x0002の　ハイリンクに　います
-\xf000Ā\x0001\x0003の　ハイリンクに　います
-\xf000Ā\x0001\x0000が　\xf000Ā\x0001\x0001の\xfffeハイリンクに　はいりました
-\xf000Ā\x0001\x0000が\xfffeじぶんのハイリンクに　もどりました
-\xf000Ā\x0001\x0000のせかい　と　\xfffeせつぞく　しました！
-\xf000Ā\x0001\x0000は　もとのせかいに\xfffeかえっていきました
-まもなく　ミッションを　かいしします\xfffeさんかしゃは　さんかを　おしてください
-まもなく　ミッションを　かいしします\xfffeしばらく　おまちください
-ミッションを　しているようです
-ミッションを　たっせい　しました
-ミッションを　しっぱい　しました
+¡Conectado con el mundo de \xfffe\xf000Ā\x0001\x0000!
+¡Conectado con el mundo de \xfffe\xf000Ā\x0001\x0000!
+¡Conectado con el mundo de \xfffe\xf000Ā\x0001\x0000!
+¡Conectado con el mundo de \xfffe\xf000Ā\x0001\x0000!
+\xf000Ā\x0001\x0000 está en la Zona Nexo.
+\xf000Ā\x0001\x0001 está en la Zona Nexo.
+\xf000Ā\x0001\x0002 está en la Zona Nexo.
+\xf000Ā\x0001\x0003 está en la Zona Nexo.
+Entraste al mundo de \xfffe\xf000Ā\x0001\x0000.
+Entraste al mundo de \xfffe\xf000Ā\x0001\x0000¡.
+Entraste al mundo de \xfffe\xf000Ā\x0001\x0000.
+Entraste al mundo de \xfffe\xf000Ā\x0001\x0000.
+\xf000Ā\x0001\x0000 volvió a la Zona Nexo.
+\xf000Ā\x0001\x0001 volvió a la Zona Nexo.
+\xf000Ā\x0001\x0002 volvió a la Zona Nexo.
+\xf000Ā\x0001\x0003 volvió a la Zona Nexo.
+\xf000Ā\x0001\x0000　salió a la Zona Nexo.
+\xf000Ā\x0001\x0001　salió a la Zona Nexo.
+\xf000Ā\x0001\x0002　salió a la Zona Nexo.
+\xf000Ā\x0001\x0003　salió a la Zona Nexo.
+Comunicación activada.
+¡\xf000Ā\x0001\x0000 llego a la ciudad!
+¡\xf000Ā\x0001\x0001 llego a la ciudad!
+¡\xf000Ā\x0001\x0002 llego a la ciudad!
+¡\xf000Ā\x0001\x0003 llego a la ciudad!
+En la Zona Nexo de \xf000Ā\x0001\x0000.
+En la Zona Nexo de \xf000Ā\x0001\x0001.
+En la Zona Nexo de \xf000Ā\x0001\x0002.
+En la Zona Nexo de \xf000Ā\x0001\x0003.
+\xf000Ā\x0001\x0000 entró \xf000Ā\x0001\x0001's\xfffeZona Nexo.
+\xf000Ā\x0001\x0000 regresó\xfffea la Zona Nexo
+Conectado a \xf000Ā\x0001\x0000's el mundo!
+\xf000Ā\x0001\x0000 marchó\xfffede la casa de la Zona Nexo
+La misión va a comenzar pronto. Por favor\xfffeentra si quieres participar.
+a misión va a comenzar pronto...\xfffePor favor espera un momento.
+Parece ocupado con una misión.
+La misión ha sido completada.
+La misión ha sido un fracaso.
 \xf000Ā\x0001\x0000は　\xf000Ā\x0001\x0001の\xfffeハイリンクから　デルパワーをもらった
 \xf000Ā\x0001\x0000は　じぶんの\xfffeハイリンクから　デルパワーをもらった
 このばしょには\xfffe\xf000Ā\x0001\x0000が　います
