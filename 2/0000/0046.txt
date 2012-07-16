@@ -1,13 +1,13 @@
-そのまま　おまちください
+Por favor, espera.
 \xf000Ă\x0001\x0000
-\xf000Ă\x0001\x0001は\xfffe\xf000Ă\x0001\x0002の　タマゴを　もらった！
-おまけエリアに　とまったので\xfffe\xf000ĉ\x0001\x0000を　もらった！
-ざんねん！　バッグが　いっぱいだ……\xfffeきのみを　もらうのを　あきらめた
-つうしん　たいきちゅう　です\xfffeしばらく　おまちください
-つごうのつかない　メンバーがいたので\xfffeぐるぐるこうかんを　ちゅうし　します
-リーダーの　つごうが　つかないので\xfffeぐるぐるこうかんを　ちゅうし　します
-つうしんエラーが　はっせい　しました\xfffeぐるぐるこうかんを　ちゅうし　します
-じかんぎれのため　しめきられました\xfffeぐるぐるこうかんを　ちゅうし　します
-つうしん　たいきちゅう　です\xfffeしばらく　おまちください
-ポケモンレポートに　かきこんでいます\xfffeでんげんを　きらないでください
-こうかんできない　タマゴが　あるので\xfffeぐるぐるこうかんを　ちゅうし　します
+¡\xf000Ā\x0001\x0001 ha recibido\xfffeel Huevo de \xf000Ā\x0001\x0002!
+¡Ha caído en una zona de bonificación!\xfffe¡Has recibido una \xf000ĉ\x0001\x0000!
+Es una pena, la Bolsa está llena.\xfffeNo puedes aceptar la Baya.
+Conectando...\xfffePor favor, espera.
+Alguien se ha ido.\xfffeSe cancelará el Intercambio Giro.
+El anfitrión se ha ido.\xfffeSe cancelará el Intercambio Giro.
+Error de conexión.\xfffeSe cancelará el Intercambio Giro.
+Se ha excedido el límite de tiempo.\xfffeSe cancelará el Intercambio Giro.
+Conectando...\xfffePor favor, espera.
+Guardando...\xfffeNo apagues la consola.
+Hay un Huevo que no se puede cambiar.\xfffeSe cancelará el Intercambio Giro.
