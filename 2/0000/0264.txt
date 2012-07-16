@@ -1,49 +1,49 @@
-やせいの　ポケモンと　すこし\xfffeそうぐうしやすく　なります\xfffeこうかは　３ふん　です
-やせいの　ポケモンと　とても\xfffeそうぐうしやすく　なります\xfffeこうかは　３ふん　です
-やせいの　ポケモンと　かなり\xfffeそうぐうしやすく　なります\xfffeこうかは　３ふん　です
-やせいの　ポケモンと　すこし\xfffeそうぐうしづらく　なります\xfffeこうかは　３ふん　です
-やせいの　ポケモンと　とても\xfffeそうぐうしづらく　なります\xfffeこうかは　３ふん　です
-やせいの　ポケモンと　かなり\xfffeそうぐうしづらく　なります\xfffeこうかは　３ふん　です
-あるいているときに　タマゴが\xfffeすこし　かえりやすく　なります\xfffeこうかは　３ふん　です
-あるいているときに　タマゴが\xfffeとても　かえりやすく　なります\xfffeこうかは　３ふん　です
-あるいているときに　タマゴが\xfffeかなり　かえりやすく　なります\xfffeこうかは　３ふん　です
-ポケモンが　すこし\xfffeなつきやすく　なります\xfffeこうかは　３ふん　です
-ポケモンが　とても\xfffeなつきやすく　なります\xfffeこうかは　３ふん　です
-ポケモンが　かなり\xfffeなつきやすく　なります\xfffeこうかは　３ふん　です
-フレンドリィショップで\xfffe１０％オフの　やすうりが　はじまります\xfffeこうかは　３ふん　です
-フレンドリィショップで\xfffe２５％オフの　やすうりが　はじまります\xfffeこうかは　３ふん　です
-フレンドリィショップで\xfffe５０％オフの　やすうりが　はじまります\xfffeこうかは　３ふん　です
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeたいりょくが　すこし　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeたいりょくが　とても　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeたいりょくが　かなり　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeＰＰが　すこし　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeＰＰが　とても　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeＰＰが　かなり　かいふくします
-たたかったあと　もらえる　けいけんちが\xfffeすこし　あがります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeとても　あがります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeかなり　あがります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeすこし　へります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeとても　へります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeかなり　へります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　おこづかいが\xfffeすこし　あがります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　おこづかいが\xfffeとても　あがります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　おこづかいが\xfffeかなり　あがります\xfffeこうかは　３ふん　です
-ポケモンを　ほかくする　かくりつが\xfffeすこし　あがります\xfffeこうかは　３ふん　です
-ポケモンを　ほかくする　かくりつが\xfffeとても　あがります\xfffeこうかは　３ふん　です
-ポケモンを　ほかくする　かくりつが\xfffeかなり　あがります\xfffeこうかは　３ふん　です
-あるいているときに　タマゴが\xfffeかなり　かえりやすく　なります\xfffeこうかは　３０ふん　です
-フレンドリィショップで\xfffe５０％オフの　やすうりが　はじまります\xfffeこうかは　３０ふん　です
-ポケモンが　かなり\xfffeなつきやすく　なります\xfffeこうかは　３０ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeかなり　あがります\xfffeこうかは　３０ふん　です
-たたかったあと　もらえる　おこづかいが\xfffeかなり　あがります\xfffeこうかは　３０ふん　です
-ポケモンを　ほかくする　かくりつが\xfffeかなり　あがります\xfffeこうかは　３０ふん　です
-このパワーを　うけとると\xfffeてもちにいる　すべての　ポケモンが\xfffeぜんかい　します
-あるいているときに　タマゴが\xfffeかなり　かえりやすく　なります\xfffeこうかは　６０ふん　です
-フレンドリィショップで\xfffe５０％オフの　やすうりが　はじまります\xfffeこうかは　６０ふん　です
-ポケモンが　かなり\xfffeなつきやすく　なります\xfffeこうかは　６０ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeかなり　あがります\xfffeこうかは　６０ふん　です
-たたかったあと　もらえる　おこづかいが\xfffeかなり　あがります\xfffeこうかは　６０ふん　です
-ポケモンを　ほかくする　かくりつが\xfffeかなり　あがります\xfffeこうかは　６０ふん　です
+Durante 3 minutos, aumenta ligeramente\xfffela probabilidad de encuentros\xfffecon Pokémon salvajes.
+Durante 3 minutos, aumenta bastante\xfffela probabilidad de encuentros\xfffecon Pokémon salvajes.
+Durante 3 minutos, aumenta muchísimo\xfffela probabilidad de encuentros\xfffecon Pokémon salvajes.
+Durante 3 minutos, reduce ligeramente\xfffela probabilidad de encuentros\xfffecon Pokémon salvajes.
+Durante 3 minutos, reduce bastante\xfffela probabilidad de encuentros\xfffecon Pokémon salvajes.
+Durante 3 minutos, reduce muchísimo\xfffela probabilidad de encuentros\xfffecon Pokémon salvajes.
+Durante 3 minutos, aumenta ligeramente\xfffela rapidez con la que eclosionan\xfffelos Huevos mientras te mueves.
+Durante 3 minutos, aumenta bastante\xfffela rapidez con la que eclosionan\xfffelos Huevos mientras te mueves.
+Durante 3 minutos, aumenta muchísimo\xfffela rapidez con la que eclosionan\xfffelos Huevos mientras te mueves.
+Durante 3 minutos, los Pokémon se\xfffesienten un poco más amistosos\xfffecon su Entrenador.
+Durante 3 minutos, los Pokémon se\xfffesienten bastante más amistosos\xfffecon su Entrenador.
+Durante 3 minutos, los Pokémon se\xfffesienten muchísimo más amistosos\xfffecon su Entrenador.
+Durante 3 minutos, las Tiendas Pokémon\xfffeofrecen un descuento del 10%.
+Durante 3 minutos, las Tiendas Pokémon\xfffeofrecen un descuento del 25%.
+Durante 3 minutos, las Tiendas Pokémon\xfffeofrecen un descuento del 50%.
+Al usarlo, el Pokémon a la cabeza\xfffedel equipo recupera unos pocos PS.
+Al usarlo, el Pokémon a la cabeza\xfffedel equipo recupera bastantes PS.
+Al usarlo, el Pokémon a la cabeza\xfffedel equipo recupera muchos PS.
+Al usarlo, el Pokémon a la cabeza\xfffedel equipo recupera unos pocos PP.
+Al usarlo, el Pokémon a la cabeza\xfffedel equipo recupera bastantes PP.
+Al usarlo, el Pokémon a la cabeza\xfffedel equipo recupera muchos PP.
+Durante 3 minutos, la cantidad de Puntos\xfffede Experiencia obtenida al final de\xfffeun combate aumenta ligeramente.
+Durante 3 minutos, la cantidad de Puntos\xfffede Experiencia obtenida al final de\xfffeun combate aumenta bastante.
+Durante 3 minutos, la cantidad de Puntos\xfffede Experiencia obtenida al final de\xfffeun combate aumenta muchísimo.
+Durante 3 minutos, la cantidad de Puntos\xfffede Experiencia obtenida al final de\xfffeun combate disminuye ligeramente.
+Durante 3 minutos, la cantidad de Puntos\xfffede Experiencia obtenida al final de\xfffeun combate disminuye bastante.
+Durante 3 minutos, la cantidad de Puntos\xfffede Experiencia obtenida al final de\xfffeun combate disminuye muchísimo.
+Durante 3 minutos, la cantidad de dinero\xfffeobtenida al final de un combate aumenta\xfffeligeramente.
+Durante 3 minutos, la cantidad de dinero\xfffeobtenida al final de un combate aumenta\xfffebastante.
+Durante 3 minutos, la cantidad de dinero\xfffeobtenida al final de un combate aumenta\xfffemuchísimo.
+Durante 3 minutos, la probabilidad de\xfffecapturar Pokémon aumenta ligeramente.
+Durante 3 minutos, la probabilidad de\xfffecapturar Pokémon aumenta bastante.
+Durante 3 minutos, la probabilidad de\xfffecapturar Pokémon aumenta muchísimo.
+Durante 30 minutos, aumenta muchísimo\xfffela rapidez con la que eclosionan\xfffelos Huevos mientras te mueves.
+Durante 30 minutos, las Tiendas Pokémon\xfffeofrecen un descuento del 50%.
+Durante 30 minutos, los Pokémon se\xfffesienten muchísimo más amistosos\xfffecon su Entrenador.
+Durante 30 minutos, la cantidad de\xfffePuntos de Experiencia obtenida al final\xfffede un combate aumenta muchísimo.
+Durante 30 minutos, la cantidad de dinero\xfffeobtenida al final de un combate aumenta\xfffemuchísimo.
+Durante 30 minutos, la probabilidad de\xfffecapturar Pokémon aumenta muchísimo.
+Al usarlo, los Pokémon del equipo\xfffese recuperan completamente.
+Durante 60 minutos, aumenta muchísimo\xfffela rapidez con la que eclosionan\xfffelos Huevos mientras te mueves.
+Durante 60 minutos, las Tiendas Pokémon\xfffeofrecen un descuento del 50%.
+Durante 60 minutos, los Pokémon se\xfffesienten muchísimo más amistosos\xfffecon su Entrenador.
+Durante 60 minutos, la cantidad de\xfffePuntos de Experiencia obtenida al final\xfffede un combate aumenta muchísimo.
+Durante 60 minutos, la cantidad de dinero\xfffeobtenida al final de un combate aumenta\xfffemuchísimo.
+Durante 60 minutos, la probabilidad de\xfffecapturar Pokémon aumenta muchísimo.
 ダミー
 ダミー
 ダミー
