@@ -1,14 +1,14 @@
-ロードちゅう……\xfffeしばらく　おまちください
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　てんそうマシンを\xfffeきどうしなおして　ください
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-レポートに　かきこみました\xf000븂\x0001<
-てんそうマシンを　しゅうりょうします\xfffeでんげんを　きって\xfffeしゅうりょうしてください
-データの　よみこみに\xfffeしっぱい　しました\xfffeてんそうマシンを　しゅうりょうします
-もう１つの　ＤＳの\xfffeせつぞくに　しっぱい　しました\xf000븁\x0000
-データの　かきこみに\xfffeしっぱい　しました\xf000븀\x0000\xfffeてんそうマシンを　しゅうりょうします\xf000븁\x0000
-てんそうマシンが　きどうしています！\xfffeポケモンを　さがしていますので\xfffeこのまま　しばらく　おまちください
-レポートを　よみこむことが\xfffeできませんでした\xfffeレポートが　かかれていないか\xfffeこわれている　かのうせいがあります
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　てんそうマシンを\xfffeきどうしなおして　ください
-はい
-いいえ
+Leyendo datos...\xfffePor favor, espera.
+La tarjeta DS insertada no es\xfffecompatible. Apaga la consola,\xfffevuelve a insertar la tarjeta y activa\xfffede nuevo el Trasladador PKMN.\xf000븁\x0000
+Guardando...\xfffeNo apagues la consola.
+Se han guardado los datos.\xf000븂\x0001<
+La sesión del Trasladador PKMN\xfffeha finalizado.\xfffeApaga la consola.
+Error de lectura de datos.\xfffeLa sesión del Trasladador PKMN\xfffeva a finalizar.\xf000븁\x0000
+No se ha podido conectar con la\xfffeotra consola Nintendo DS.\xf000븁\x0000
+Error de escritura de datos.\xfffeLa sesión del Trasladador PKMN\xfffeva a finalizar.\xf000븁\x0000
+El Trasladador PKMN se ha activado.\xfffeBuscando Pokémon...\xfffePor favor, espera.
+El archivo guardado esta corrupto\xfffeo falta.\xfffeEl archivo guardado no puede\xfffeser leido.
+El juego insertado no es compatible.\xfffeApaga la consola, inserta un\xfffejuego compatible e intenta de nuevo.\xf000븁\x0000
+SÍ
+NO
 デバッグROM\xfffeDP　Y\xfffePT　X\xfffeGS　A
