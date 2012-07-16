@@ -6,8 +6,8 @@ TORNEO
 CONFIG. SINCRONIZAR JUEGO
 TRANS. USANDO LA CONSOLA
 PRUEBA MIC
-イッシュリンク
-しゅじんこう
+CONEXIONES
+Jugador
 Tiempo de juego: \xf000Ȃ\x0001\x0000:\xf000ȁ\x0001\x0001
 Pokédex: \xf000Ȃ\x0001\x0000
 Medallas: \xf000ȁ\x0001\x0000
@@ -16,18 +16,18 @@ Medallas: \xf000ȁ\x0001\x0000
 \xf000Ȃ\x0001\x0000ひき
 \xf000ȁ\x0001\x0000こ
 \xf000ą\x0001\x0000
-レポートじょうほう
-キーシステムせってい
-Modo Asistir
-Modo Desafío
+INFORMACIÓN
+CONFIG. DIFICULTAD
+MODO FÁCIL
+MODO DESAFIO
 Bosque Blanco
 Ciudad Negra
-いわやまのま
-くろがねのま
-ひょうざんのま
-ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000\xfffeむせんつうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000\xfffeオンにしてください　（５０６９９）
-ペアレンタルコントロールの\xfffeつうしんせいげん
-イッシュリンクの　キーシステム　で\xfffeモードへんこうの　キーが\xf000븀\x0000\xfffeそうしん　できるように　なりました\xf000븁\x0000
+ROCA
+ACERO
+HIELO
+La comunicación inalámbrica\xfffeestá desactivada.\xf000븁\x0000\xfffeActiva la comunicación inalámbrica\xfffeen la configuración de la consola.\xf000븀\x0000\xfffeError: 50699
+Restricción de la comunicación\xfffepor control parental.
+Cambia la dificultad del juego.
 ¡ATENCIÓN!
 Activa las funciones de comunicación\xfffepara disfrutar al máximo de este juego.\xfffeDesconecta estas funciones en lugares\xfffedonde esté prohibido usarlas, como\xfffeaviones y hospitales.\xfffeRecuerda que puedes activarlas\xfffeo desactivarlas en cualquier momento\xfffedesde la pantalla del C-Gear.
 ¡ATENCIÓN!
@@ -45,5 +45,5 @@ Los datos del Fondo del Pokédex\xfffehan sido borrados.
 Tus datos del Hall de la Fama\xfffehan sido borrados.
 Tus datos del Regalo Misterioso\xfffehan sido borrados.
 Tus datos del Estudios\xfffeCinematográficos Pokéwood han sido\xfffeborrados.
-キーシステムと　おもいでリンクの\xfffeきろくが　きえてしまった！
-きえて　しまった　ＰＷＴの\xfffeきろくが　あります！
+Se han borrado los datos del\xfffeDreamWorld.
+Se han borrado los datos del\xfffePWT.
