@@ -1,11 +1,11 @@
-すきなリズムで　１０かい\xfffeしたがめんを　タッチしてください
-チェックが　おわりました　あいてと\xfffeせきがいせんつうしんを　してください
-チェックちゅう　です\xfffeつうしんを　つづけてください
-せきがいせんつうしんが　\xfffeつながりました！
-つうしんが　きれました\xfffeせきがいせんを　あわせてください
-もどる
-タッチ　スタート
-リズムチェック
+Toca la pantalla táctil 10 veces a tu ritmo.
+Fin del Test. Establece la comunicación\xfffepor infrarrojos con el otro Entrenador.
+Test en progreso...\xfffeNo interrumpas la comunicación.
+¡Se ha establecido la comunicación\xfffepor infrarrojos!
+Se ha interrumpido la comunicación.\xfffeReanuda la comunicación por infrarrojos.
+SALIR
+TOCA PARA EMPEZAR
+TEST DE RITMO
 no data
 no data
 no data
