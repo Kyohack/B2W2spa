@@ -1,9 +1,9 @@
-いま　おぼえている　ことばを\xfffeわすれますが　よいですか？
-Ａボタンを　おしてから\xfffeマイクに　しゃべって　ください！\xf000븁\x0000
-\xf000Ă\x0001\x0000が　ことばを　おぼえた！\xf000븁\x0000
-\xf000Ă\x0001\x0000は　ことばを\xfffeおぼえられなかった　みたいだ！\xf000븁\x0000
-やりなおしますか？
-まわりの　ようすが　きになって\xfffeしゅうちゅうできない　みたいだ…
-マイクの　じゅんびちゅう……
-はい
-いいえ
+Olvidará la frase que ahora conoce.\xfffe¿Estás de acuerdo?
+Pulsa el Botón A y habla al micrófono.\xf000븁\x0000
+¡\xf000Ă\x0001\x0000 ha aprendido una nueva frase!\xf000븁\x0000
+\xf000Ă\x0001\x0000 no ha logrado aprender\xfffela nueva frase.\xf000븁\x0000
+¿Quieres intentarlo de nuevo?
+Parece que ahora no puede\xfffeconcentrarse...
+Preparando el micrófono...
+SÍ
+NO
