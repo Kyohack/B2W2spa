@@ -7,22 +7,22 @@
 これで　いいですか？
 なにか　ことばを　いれてください！
 なにも　しないで　やめますか？
-はい
-いいえ
-グループ\xfffeモード
-あいうえお\xfffeモード
-つかう
-けってい
-やめる
-へんしゅう
-あたらしく　メッセージを　ついかする
-えらぶ
-けす
-やめる
-メッセージとうろくリスト：\xfffeつかいたい　メッセージを\xfffeえらんで　ください！
-メッセージの　しゅるいや\xfffeことばをいれる　ばしょを\xfffeえらんで　ください！
-ことばをいれる　ばしょを\xfffeえらんで　ください！
-グループモード：\xfffeグループの　なかから\xfffeことばを　えらんで　ください！
-あいうえおモード：\xfffeもじを　えらんでいって\xfffeことばを　しぼりこんでください！
-あいうえおモード：\xfffeしぼりこんだ　なかから\xfffeことばを　えらんで　ください！
-グループモード：\xfffeきめた　ばしょに　あてはまる\xfffeグループを　えらんで　ください
+SI
+NO
+GRUPO\xfffeModo
+ABC\xfffeModo
+USAR
+VALE
+SALIR
+EDITAR
+AÑADIR NUEVO MENSAJE
+ELEGIR
+BORRAR
+SALIR
+Lista de mensajes:\xfffeSelecciona el mensaje\xfffeque quieras usar.
+Selecciona el tipo de mensaje y\xfffelas palabras que quieras introducir.
+Selecciona el texto que quieras\xfffeintroducir.
+Modo Categorías:\xfffeSelecciona una palabra o frase\xfffede esta categoría.
+Modo ABC:\xfffeIntroduce caracteres\xfffepara filtrar las palabras.
+Modo ABC:\xfffeSelecciona una palabra\xfffede la lista filtrada.
+Modo Categorías:\xfffeSelecciona una categoría de palabras\xfffepara introducir en el lugar elegido.
