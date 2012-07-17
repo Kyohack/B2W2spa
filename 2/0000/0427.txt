@@ -1,23 +1,23 @@
-なし
-アキテーヌ
-アルザス
-イル・ド・フランス
-オーベルニュ
-コルシカ
-シャンパーニュ・アルデンヌ
-ノール・パ・ド・カレ
-バス＝ノルマンディー
-オート＝ノルマンディー
-ピカルディ
-フランシュ・コンテ
-ブルゴーニュ
-ブルターニュ
-プロバンス
-ペイ・ド・ラ・ロワール
-ポワトゥ・シャラント
-ミディ・ピレネー
-ラングドック・ルシヨン
-リムーザン
-ローヌ・アルプ
-ロレーヌ
-サントル
+-
+Aquitania
+Alsacia
+Isla de Francia
+Auvernia
+Córcega
+Champaña-Ardenas
+Norte-Paso de Calais
+Baja Normandía
+Alta Normandía
+Picardía
+Franco-Condado
+Borgoña
+Bretaña
+Provenza-Alpes-Costa Azul
+Países del Loira
+Poitou-Charentes
+Mediodía-Pirineos
+Languedoc-Rosellón
+Lemosín
+Ródano-Alpes
+Lorena
+Centro
