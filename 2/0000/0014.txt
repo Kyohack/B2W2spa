@@ -1,5 +1,5 @@
-\xf000Ă\x0001\x0000を　どうする？
-マーキング　してください
+\xf000Ă\x0001\x0000Qué hacer？
+Por favor marque
 ¿Liberas a este Pokémon?
 \xf000Ă\x0001\x0000 ha sido liberado.
 ¡Adiós, \xf000Ă\x0001\x0000!
@@ -13,23 +13,23 @@ Elige un fondo.
 La Caja está completa.
 La Bolsa está llena.
 Sacó el \xf000ĉ\x0001\x0000.
-\xf000ĉ\x0001\x0000を　もたせた！
+\xf000ĉ\x0001\x0000No lo olvides!
 ¿Cuál cogerás?
 ¿Mover a qué Caja?
-もちものなし
+¡No hay objetos!
 ♂
 ♀
 ¿Toma ese \xf000ĉ\x0001\x0000?
-No puede coger cartas.
+No puedes coger cartas.
 \xf000ĉ\x0001\x0000 es seleccionado.
 ¿Coger el objeto \xf000ĉ\x0001\x0000?
 Has puesto \xf000ĉ\x0001\x0000 en la bolsa.
 Puede llevar un objeto.
 Por favor recoge la Carta.
 No puedes liberar un Huevo.
-がったいした　キュレムは　にがせません！
+¡Kyurem se ha fusionado!
 ¡\xf000Ă\x0001\x0000 ha vuelto!
-しんぱい　だったのかな……
+Me temo que……
 Un Huevo no puede llevar un objeto.
 ¡Toca la Marca!
 DEJAR POKÉMON
@@ -37,20 +37,20 @@ SACAR POKÉMON
 La Caja está completa.
 ¡Tu equipo está completo!
 ポケモンを　あずける
-ポケモンを　つれていく
-ボックスを　せいりする
+Ir a coger un Pokémon
+Organizar las cajas
 MOVER OBJETO
 CAJA DE COMBATE
 SELECCIONA UN POKÉMON CANSADO
-¡No puede mover cartas!
+¡No puedes mover cartas!
 ¡No puede llevar \xf000ĉ\x0001\x0000!
 ¡Lleva correo!
-¡Has quedado sin Pokémon que pueden luchar!
-¡No puede mover cartas!
-No puede llevar cartas aquí.
-¡No puede seleccionar Huevos!
+¡Has quedado sin Pokémon que puedan luchar!
+¡No puedes mover cartas!
+No puedes llevar cartas aquí.
+¡No puedes seleccionar Huevos!
 \xf000Ă\x0001\x0000 será arropado.\xfffe¿Vale?
 Este Pokémon no parece\xfffecansado ahora.
 ¿Selecciona otro Pokémon?
-Tu Caja de Combate está cerrado.\xfffeNo puedes mover tus Pokémon.
-Tu Caja de Combate está cerrado.\xfffeNo puede dar o quitar objetos.
+Tu Caja de Combate está cerrada.\xfffeNo puedes mover tus Pokémon.
+Tu Caja de Combate está cerrada.\xfffeNo puede dar o quitar objetos.
