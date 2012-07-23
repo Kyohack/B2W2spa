@@ -22,8 +22,8 @@ No
 ¡Ah! Tu nombre es \xf000Ā\x0001\x0000.\xfffe¡Que hermoso nombre!\xf000븁\x0000
 Y estos chicos de aquí... tengo entendido\xfffeque son tus amigos.\xf000븁\x0000
 Permíteme presentarte\xfffea tu rival.\xf000븀\x0000\xfffeÉl vive en tu ciudad.\xf000븁\x0000
-Ahora, ¿cuál es\xfffesu nombre de nuevo?...\xf000븁\x0000
-Hugh
+Ahora, ¿cuál es\xfffeme repites su nombre?...\xf000븁\x0000
+Matís
 Default 1
 Default 2
 ¿Cuál es su nombre?
