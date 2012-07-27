@@ -1,72 +1,72 @@
 MENÚ PRINCIPAL
-INFO DE CENTRO POKÉMON
-INFO DE C-GEAR
-SOBRE "MENÚ"
-SOBRE "COMBATE"
-INFO DE POKÉMON
-OTRAS TEMAS
+INFO. CENTRO POKEMON
+INFO. C-GEAR
+SOBRE “MENÚ"
+SOBRE “COMBATE"
+POKÉMON INFO
+OTROS
 CONTINUAR
-PARTIDA NUEVA
+NUEVA PARTIDA
 REGALO MISTERIOSO
 TORNEO
-デジタルせんしゅしょう
-CONFIG. SINCRONIZAR JUEGO
-CONFIG. DE LA CWF DE NINTENDO
-PRUEBA MIC
+ID ONLINE
+OPCIONES SINC. JUEGO
+CONFIGURACIÓN Wi-Fi DE NINTENDO
+PRUEBA DE MICRO
 CENTRO POKÉMON
-MOVER POKÉMON EN EL PC
-ORDENAR CAJA
+MOVER POKÉMON EN EL ORDENADOR
+ORGANIZAR TU CAJA
 CAJA DE COMBATE
-つうしんこうかんの　はじめかた
-つうしんたいせんの　はじめかた
+CÓMO INICIAR UNA CONEXIÓN DE INTERCAMBIO
+CÓMO ORGANIZAR UNA CONEXIÓN DE COMBATE
 COMBATE INDIVIDUAL
 COMBATE DOBLE
 COMBATE TRIPLE
 COMBATE ROTATORIO
-COMBATE LANZADOR
+SUPERLANZADOR
 SALA UNIÓN
-CLUB Wi-Fi
+CLUB Wi-Fi 
 TERMINAL GLOBAL
-CLAVE DE AMIGO
+CÓDIGO AMIGO
 C-GEAR
-すれちがいログ
-¿QUÉ ES UN SONDEO TRANSEÚNTE?
-ACEPTANDO UNA PETICIÓN SONDEO TRANSEÚNTE
-EMPEZANDO UN SONDEO TRANSEÚNTE
-REPORTANDO RESULTADOS DE SONDEO TRANSEÚNTE
-CONEXIÓN INFRARROJO
-SINCRO. JUEGO
+REGISTRO DE ENCUENTROS
+¿QUÉ ES UN SONDEO?
+ACEPTAR PETICIÓN DE SONDEO
+INICIAR SONDEO
+COMUNICAR RESULTADOS DE SONDEO
+CONEXIÓN INFRARROJA
+SINC. JUEGO
 ZONA NEXO
-デルパワー
-デルダマ
+PODERES REGALO
+REGALOSFERA
 BOLSA
 FICHA DE ENTRENADOR
 POKÉDEX
-CONSEJOS PARA CAPTURAR POKÉMON
-タイプとあいしょう
-"FÍSICO," "ESPECIAL," Y "ESTADO"
+TRUCOS PARA ATRAPAR POKÉMON
+TIPO vs. TIPO
+“FÍSICO," “ESPECIAL" Y “ESTADO"
 DEBILITADO
-VENENO
-PARALIZACIÓN
-SUEÑO
-CONJELADO
+ENVENENADO
+PARALIZADO
+DORMIDO
+CONGELADO
 QUEMADO
 CONFUNDIDO
-ENCAPRICHAMIENTO
-PUNTOS DE EXP.
+ENAMORADO
+PUNTOS DE EXPERIENCIA
 EVOLUCIÓN
-"NATURALEZA" Y "CARACTERISTICA"
+“NATURALEZA" Y “CARACTERÍSTICAS"
 POKÉRUS
 HUEVO POKÉMON
-CORRIENDO
+CORRER
 ZAHORÍ
-VIDEOMISOR
-MEDALLAS
-べんりボタン
-メダルラリー
-ポケシフターでポケモンをつれてくる
-ポケシフターでポケモンをつかまえる
-ぼうけんを　はじめたら\xfffeＸボタンで　メニューを　ひらき\xfffe「レポート」を　こまめに　かきましょう。\xfffe\xfffeレポートをかくと　ＤＳの　でんげんを\xfffeきっても　タイトルメニューの\xfffe「つづきから　はじめる」から\xfffeぼうけんの　つづきを　あそべます。
+VIDEOEMISOR
+MEDALLAS DE GIMNASIO
+PREPARADO
+CARRERA DEL VIERNES
+TRANSFERIR POKÉMON CON POKE-TRANSFER
+ATRAPAR POKÉMON CON POKÉ-TRANSFER
+Mientras estés jugando, pulsa el \xfffebotón X para abrir el menú y guardar a menudo.\xfffe\xfffeUna vez guardado, puedes escoger CONTINUAR\xfffeel juego desde la situación,\xfffesi tú tienes apagada\xfffe/ la consola desde entonces
 レポートを　すべてけして　もういちど\xfffeさいしょから　ぼうけんを　はじめなおす\xfffeときは　タイトルがめんで\xfffe\xfffeうえボタン　セレクトボタン　Ｂボタン\xfffe\xfffeの　３つのボタンを\xfffeどうじに　ぜんぶ　おしてください。
 イベントかいじょうなどで　とくべつな\xfffeプレゼントを　つぎの　３つの　ほうほうで\xfffeうけとることが　できます。\xfffe・ワイヤレスつうしんで　うけとる\xfffe・Ｗｉ－Ｆｉつうしんで　うけとる\xfffe・せきがいせんつうしんで　うけとる\xfffe\xfffeイベントごとに　ほうほうが　きめられて\xfffeいますので　ごちゅういください。
 ふしぎな　おくりもので　とくべつな\xfffeポケモンや　どうぐを　もらえる\xfffeふしぎなカードを　じゅしんすると\xfffeポケモンセンターに\xfffeあおい　ぼうしを　かぶった\xfffeはいたついんが　やってきます。\xfffe\xfffeはいたついんに　はなしかけて\xfffeポケモンや　どうぐを　うけとってください。
