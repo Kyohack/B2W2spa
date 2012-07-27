@@ -1,51 +1,51 @@
-『Modo de Búsqueda』
-Por favor digita el criterio de búsqueda
-『Resultados』
-\xf000Ȃ\x0001\x0000 no fue encontrado
-Por favor digite el orden
-Digite la primera letra del nombre
-Digite el Tipo
-Digite la forma
-Digite el color
-¡Pokémon localizado!
-No se encontró el Pokémon...
+Modo de búsqueda
+Introduce los criterios de búsqueda.
+Resultados de la búsqueda
+No encontrado:　\xf000Ȃ\x0001\x0000
+Introduce el criterio de ordenación.
+Introduce la inicial del nombre.
+Introduce el tipo de Pokémon.
+Introduce una silueta.
+Introduce el color del Pokémon.
+¡Se han obtenido resultados!
+No se ha encontrado ningún Pokémon.
 Buscando...
-ORDEN
+ORDENACIÓN
 NOMBRE
 TIPO
 COLOR
-FORMA
-Pokédex Unova: Modo de búsqueda
-Pokédex Nacional: Modo de búsqueda
-REINICIAR
-COMENZAR
-CANCELAR
-\xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
-ACEPTAR
-CANCELAR
-Número
-A a la Z
-Pesado a Ligero
-Ligero a Pesado
-Alto a Bajo
-Bajo a Alto
-Oscuro
-Roca
-Psíquico
-Lucha
-Planta
-Hielo
-Fantasma
-Tierra
-Eléctrico
-Veneno
-Dragón
-Normal
-Acero
-Volador
-Fuego
-Agua
-Bicho
+SILUETA
+Búsqueda en Pokédex de Teselia
+Búsqueda en Pokédex Nacional
+REINICAR
+BUSCAR
+SALIR
+\xf000Ȃ\x0001\x0000. \xf000Ȁ\x0001\x0001
+HECHO
+VOLVER
+POR NÚMERO
+A-Z
+PESADO-LIGERO
+LIGERO-PESADO
+ALTO-BAJO
+BAJO-ALTO
+SINIESTRO
+ROCA
+PSÍQUICO
+LUCHA
+PLANTA
+HIELO
+FANTASMA
+TIERRA
+ELÉCTRICO
+VENENO
+DRAGÓN
+NORMAL
+ACERO
+VOLADOR
+FUEGO
+AGUA
+BICHO
 ――――
 ／
 ――――
@@ -94,14 +94,14 @@ Z
 
 
 ―
-Rojo
-Azul
-Amarillo
-Verde
-Negro
-Café
-Morado
-Gris
-Blanco
-Rosa
+ROJO
+AZUL
+AMARILLO
+VERDE
+NEGRO
+MARRÓN
+MORADO
+GRIS
+BLANCO
+ROSA
 ――――
