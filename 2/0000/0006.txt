@@ -127,7 +127,7 @@ Bolsillo de Bayas\xfffePara ordenar y guardar Bayas\xfffediferentes.
 Bolsillo de Correo\xfffePara ordenar y guardar papel\xfffey sobres de carta vibrantes.
 Bolsillo de Objetos de Lucha\xfffePara objetos que son útiles durante batallas.
 Bolsillo de Objetos Claves\xfffePara objetos que son indispensables a\xfffetu aventura.
-Parar
+Cerrar
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 Sí
@@ -142,11 +142,11 @@ Usaste una Piedra Día\xfffepero pasó nada...
 ¡Tus objetos han sido ordenados\xfffepor nombre!
 ¡Tus objetos han sido ordenados\xfffepor orden descendente!
 ¡Tus objetos han sido ordenados\xfffepor orden ascendente!
-ぜんぶ
+Por Nº
 Poner en almacenamiento
 Volver
 Por favor elige el tipo que\xfffe estás buscando.
-\xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
+\xf000Ē\x0001\x0000 usted no a encontrado\xfffe\xf000Ȃ\x0001\x0001 el tipo de posesiones!
 \xf000ĉ\x0001\x0001 ha sido puesto en\xfffe\xf000Ē\x0001\x0000.
 \xf000ĉ\x0001\x0001 ha sido puesto\xfffedevuelto en\xf000Ē\x0001\x0000.
 ¿Como quieres ordenarlos?
@@ -158,4 +158,4 @@ Por Numero
 \xfffe\xf000Ȃ\x0001\x0001 pertenencias encontradas!
 ¡Tus objetos han sido ordenados\xfffepor numero!
 No encontrado
-Guarda
+Guardar
