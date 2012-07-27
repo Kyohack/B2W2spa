@@ -1,40 +1,40 @@
-タイトルダミー
-ミッションダミー
-はじめての　きのみ　さがし！
-かけらを　さがせ！
-いっかく　せんきん！
-トレジャー　ハント！
-きえた　\xf000ȃ\x0001\x0001この　ざいほう
-なぞの　こうせきを　さがせ！
-ひかる　こうせきを　さがせ！
-きのみを　あつめろ！
-きのみ　だいしゅうかく！
-おとしものを　さがせ！
-わすれられた　おとしもの
-みつからない　おとしもの
-こやし　コレクター！
+TÍTULO
+MISIÓN
+¡Para el primer tiempo, solo caza
+¡Ah mira!
+¡El tiempo corre!
+¡Busqueda de tesoros!
+El\xf000ȃ\x0001\x0001tesoro desaparecio
+Este misterio será resuelto
+¡El analisis brillara!
+¡Colección los arboles solo!
+¡La cosecha ha comenzado!
+¡Encuentra el objeto perdido!
+El objeto perdido fue olvidado
+El objeto perdido no fue encontrado 
+¡Coleccionista de fertilizantes!
 ときめく　ハートは　どこに？
-まぼろしの　きのみを　さがせ！
-まぼろしの　いっぴん！
-きのみさがしで　だいぼうけん！
-きのみ　フェスティバル！
-まいごの　しょうねんを　さがせ
-そのどうぐ　ちょうだいな！
+¡Encuentra la baya fantasma!
+¡El objeto fantasma!
+!Busqueda para la baya fantasma!
+¡Fiesta de Bayas!
+¡Encuentra el niño perdido!
+!Esa ruta es larga!
 かくとうかと　しゅぎょう！
 \xf000ȃ\x0001\x0001にん　くみて！
-エリートへの　みちのり！
+¡El camino a la elite!
 めざせ　わらしべちょうじゃ！
 ドキドキ　ぶつぶつこうかん！
 ウキウキ　ぶつぶつこうかん！
-エンジョイ　ショッピング！
-ショッキング　ショッピング！
-りそうの　おねだんは……？
+¡Disfruta las compras!
+¿El coste de las ideas...?
+¿El coste de la verdad...?
 ホントの　おねだんは……？
 きおくの　げんかいへ……
-きおくりょく　トレーニング！
-じゃんけん　たいかい！
-ポケモンセンターの　おねえさん
-ポケモン　ずかんクイズ！
+¡Entrenamiento de memoria!
+!Torneo de Piedra-papel-tijeras¡
+Enfermera del centro pokemon
+!Pokepregunta!
 おかいもの　だいさくせん！
 おわりなき　たたかい……！
 ポケモンセンター　クイズおう！
@@ -42,7 +42,7 @@
 めざせ！　ポケモンクイズおう！
 おねえさんからの　プレゼント
 ゆれる　くさむらを　さがせ！
-ポケモンサーチ\xf000ȃ\x0001\x0001！
+Busqueda pokemon \xf000ȃ\x0001\x0001！
 \xf000ā\x0001\x0000を　さがせ！
 かねを　ならして……
 \xf000ȃ\x0001\x0001かい　なりひびく　かね
