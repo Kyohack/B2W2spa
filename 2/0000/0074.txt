@@ -1,72 +1,72 @@
-タイトルメニュー
-ポケモンセンターの　せつめい
-Ｃギアの　せつめい
-メニューに　ついて
-せんとうに　ついて
-ポケモンの　じょうほう
-そのた
-つづきから　はじめる
-さいしょから　はじめる
-ふしぎな　おくりもの
-バトルたいかい
-デジタルせんしゅしょう
-ゲームシンクせってい
-Ｗｉ－Ｆｉせってい
-マイクテスト
-ポケモンセンター
-パソコンで　ポケモンをいれかえる
-ボックスを　せいりする
-バトルボックス
-つうしんこうかんの　はじめかた
-つうしんたいせんの　はじめかた
-シングルバトル
-ダブルバトル
-トリプルバトル
-ローテーションバトル
-ミラクルシューター
-ユニオンルーム
-Ｗｉ－Ｆｉクラブ
-グローバルターミナル
-ともだちコード
-Ｃギア（シーギア）
-すれちがいログ
-すれちがいちょうさ　とは
-すれちがいちょうさを　うける
-すれちがいちょうさを　はじめる
-すれちがいちょうさの　ほうこく
-ＩＲ(アイアール)つうしん
-ゲームシンク
-ハイリンク
-デルパワー
-デルダマ
-バッグ
-トレーナーカード
-ポケモンずかん
-ポケモンをつかまえるコツ
-タイプとあいしょう
-「ぶつり」「とくしゅ」「へんか」
-ひんし
-どく
-まひ
-ねむり
-こおり
-やけど
-こんらん
-メロメロ
-けいけんち
-しんか
-「せいかく」と　「こせい」
-ポケルス
-ポケモンのタマゴ
-はしる
-ダウジングマシン
-ライブキャスター
-ジムバッジ
-べんりボタン
-メダルラリー
-ポケシフターでポケモンをつれてくる
-ポケシフターでポケモンをつかまえる
-ぼうけんを　はじめたら\xfffeＸボタンで　メニューを　ひらき\xfffe「レポート」を　こまめに　かきましょう。\xfffe\xfffeレポートをかくと　ＤＳの　でんげんを\xfffeきっても　タイトルメニューの\xfffe「つづきから　はじめる」から\xfffeぼうけんの　つづきを　あそべます。
+MENÚ PRINCIPAL
+INFO. CENTRO POKEMON
+INFO. C-GEAR
+SOBRE “MENÚ"
+SOBRE “COMBATE"
+POKÉMON INFO
+OTROS
+CONTINUAR
+NUEVA PARTIDA
+REGALO MISTERIOSO
+TORNEO
+ID ONLINE
+OPCIONES SINC. JUEGO
+CONFIGURACIÓN Wi-Fi DE NINTENDO
+PRUEBA DE MICRO
+CENTRO POKÉMON
+MOVER POKÉMON EN EL ORDENADOR
+ORGANIZAR TU CAJA
+CAJA DE COMBATE
+CÓMO INICIAR UNA CONEXIÓN DE INTERCAMBIO
+CÓMO ORGANIZAR UNA CONEXIÓN DE COMBATE
+COMBATE INDIVIDUAL
+COMBATE DOBLE
+COMBATE TRIPLE
+COMBATE ROTATORIO
+SUPERLANZADOR
+SALA UNIÓN
+CLUB Wi-Fi 
+TERMINAL GLOBAL
+CÓDIGO AMIGO
+C-GEAR
+REGISTRO DE ENCUENTROS
+¿QUÉ ES UN SONDEO?
+ACEPTAR PETICIÓN DE SONDEO
+INICIAR SONDEO
+COMUNICAR RESULTADOS DE SONDEO
+CONEXIÓN INFRARROJA
+SINC. JUEGO
+ZONA NEXO
+PODERES REGALO
+REGALOSFERA
+BOLSA
+FICHA DE ENTRENADOR
+POKÉDEX
+TRUCOS PARA ATRAPAR POKÉMON
+TIPO vs. TIPO
+“FÍSICO," “ESPECIAL" Y “ESTADO"
+DEBILITADO
+ENVENENADO
+PARALIZADO
+DORMIDO
+CONGELADO
+QUEMADO
+CONFUNDIDO
+ENAMORADO
+PUNTOS DE EXPERIENCIA
+EVOLUCIÓN
+“NATURALEZA" Y “CARACTERÍSTICAS"
+POKÉRUS
+HUEVO POKÉMON
+CORRER
+ZAHORÍ
+VIDEOEMISOR
+MEDALLAS DE GIMNASIO
+PREPARADO
+CARRERA DEL VIERNES
+TRANSFERIR POKÉMON CON POKE-TRANSFER
+ATRAPAR POKÉMON CON POKÉ-TRANSFER
+Mientras estés jugando, pulsa el \xfffebotón X para abrir el menú y guardar a menudo.\xfffe\xfffeUna vez guardado, puedes escoger CONTINUAR\xfffeel juego desde la situación,\xfffesi tú tienes apagada\xfffe/ la consola desde entonces
 レポートを　すべてけして　もういちど\xfffeさいしょから　ぼうけんを　はじめなおす\xfffeときは　タイトルがめんで\xfffe\xfffeうえボタン　セレクトボタン　Ｂボタン\xfffe\xfffeの　３つのボタンを\xfffeどうじに　ぜんぶ　おしてください。
 イベントかいじょうなどで　とくべつな\xfffeプレゼントを　つぎの　３つの　ほうほうで\xfffeうけとることが　できます。\xfffe・ワイヤレスつうしんで　うけとる\xfffe・Ｗｉ－Ｆｉつうしんで　うけとる\xfffe・せきがいせんつうしんで　うけとる\xfffe\xfffeイベントごとに　ほうほうが　きめられて\xfffeいますので　ごちゅういください。
 ふしぎな　おくりもので　とくべつな\xfffeポケモンや　どうぐを　もらえる\xfffeふしぎなカードを　じゅしんすると\xfffeポケモンセンターに\xfffeあおい　ぼうしを　かぶった\xfffeはいたついんが　やってきます。\xfffe\xfffeはいたついんに　はなしかけて\xfffeポケモンや　どうぐを　うけとってください。
