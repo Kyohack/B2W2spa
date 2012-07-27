@@ -1,4 +1,4 @@
-Puedes cambiar el idioma del juego.\xfffe¿Quieres Español o Japonés?xf000븁\x0000
+Puedes cambiar el idioma del juego.\xfffe¿Quieres Español o Japonés?\xf000븁\x0000
 Español
 Japonés
 El idioma principal del juego será\xfffeEspañol.\xf000븁\x0000
@@ -7,7 +7,7 @@ Espere por favor en cuanto los datos\xfffeson guardados.
 ¡Hola!\xf000븁\x0000\xfffe¡Bienvenidos al mundo de Pokémon!\xf000븁\x0000
 Me llamo Profesora Encina.\xfffe¡Todos me llaman la Profesora Pokémon!\xf000븁\x0000
 ¡Este mundo es el hogar de éstas\xfffecriaturas misteriosas llamadas Pokémon!\xf000븁\x0000
-Los Pokémon tienen poderes extraños.\xfffeHay varias formas\xf000븀\x0000\xfffey viven en lugares diferentes.\xf000븁\x0000\xfffe¡Convivimos gustosos con los Pokémon!\xfffeViviendo y trabajando juntos,\xf000븀\x0000\xfffenos complementamos entre sí.\xf000븁\x0000\xfffeColaboramos unos con otros para\xffferealizar tareas difíciles.\xfffeLos Combates Pokémon son muy\xf000븁\x0000\xfffepopulares, hacen los vínculos entre\xfffepersonas y Pokémon más fuertes.\xf000븀\x0000\xfffeY Por esto es que yo investigo\xf000븁\x0000\xfffea los Pokémon.\xf000븁\x0000
+Los Pokémon tienen poderes extraños.\xfffeHay varias formas\xf000븀\x0000\xfffey viven en lugares diferentes.\xf000븁\x0000\xfffe¡Convivimos gustosos con los Pokémon!\xfffeViviendo y trabajando juntos,\xf000븀\x0000\xfffenos complementamos entre sí.\xf000븁\x0000\xfffeColaboramos unos con otros para\xffferealizar tareas difíciles.\xf000븀\x0000\xfffeLos famosos Combates Pokémon\xfffecrean fuertes lazos entre ambos.\xf000븀\x0000\xfffeY Por esto es que yo investigo\xf000븁\x0000\xfffea los Pokémon.\xf000븁\x0000
 Vale, ya basta de hablar de mí...\xfffeDíme algo sobre tí.\xf000븁\x0000
 ¿Eres chico o chica?\xf000븁\x0000
 ¿Eres un chico?\xf000븁\x0000
