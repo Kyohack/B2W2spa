@@ -621,14 +621,14 @@ MT94
 MT95
 Videomisor
 Orbe Divino
-Envio 1
-Envio 2
-Envio 3
+Envío 1
+Envío 2
+Envío 3
 Videomisor
 Caja Med.
-いでんしのくさび
-いでんしのくさび
-きょかしょう
+EnlazadorADN
+EnlazadorADN
+Licencia
 まるいおまもり
 Amu. Hikaru
 Tarj. Plasma
