@@ -12,50 +12,50 @@ Ha guardado El Vídeo Lucha
 Hubo un error. El Vídeo\xfffeLucha no se pudo guardar.
 Esperando la decisión de\xfffetu amigo... Por favor espera.
 No puedes grabar batallas\xfffecon este Entrenador... Por favor espera.
-この　あいてとは　ろくが　できません
+No se puede grabar con este Entrenador.
 La ultima batalla no pudo ser guardada
 Límite de Tiempo:
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
 Récord anterior
-コロシアム　シングル\xfffeSin Restricciones
-コロシアム　シングル\xfffeフラット
-コロシアム　シングル\xfffeSin Restricciones, シューターあり
-コロシアム　シングル\xfffeフラット　シューターあり
-コロシアム　ダブル\xfffeSin Restricciones
-コロシアム　ダブル\xfffeフラット
-コロシアム　ダブル\xfffeSin Restricciones, シューターあり
-コロシアム　ダブル\xfffeフラット　シューターあり
-コロシアム　トリプル\xfffeSin Restricciones
-コロシアム　トリプル\xfffeフラット
-コロシアム　トリプル\xfffeSin Restricciones, シューターあり
-コロシアム　トリプル\xfffeフラット　シューターあり
-コロシアム　ローテーション\xfffeSin Restricciones
-コロシアム　ローテーション\xfffeフラット
-コロシアム　ローテーション\xfffeSin Restricciones, シューターあり
-コロシアム　ローテーション\xfffeフラット　シューターあり
-コロシアム　マルチ\xfffeSin Restricciones
-コロシアム　マルチ\xfffeフラット
-コロシアム　マルチ\xfffeSin Restricciones, シューターあり
-コロシアム　マルチ\xfffeフラット　シューターあり
-バトルサブウェイ\xfffeシングル
-バトルサブウェイ\xfffeダブル
-バトルサブウェイ\xfffeマルチ
-ランダムマッチ　フリー\xfffeシングル
-ランダムマッチ　フリー\xfffeダブル
-ランダムマッチ　フリー\xfffeトリプル
-ランダムマッチ　フリー\xfffeローテーション
-ランダムマッチ　フリー\xfffeシューターバトル
-ランダムマッチ　レーティング\xfffeシングル
-ランダムマッチ　レーティング\xfffeダブル
-ランダムマッチ　レーティング\xfffeトリプル
-ランダムマッチ　レーティング\xfffeローテーション
-ランダムマッチ　レーティング\xfffeシューターバトル
-たいかい　シングル\xfffeシューターなし
-たいかい　シングル\xfffeシューターあり
-たいかい　ダブル\xfffeシューターなし
-たいかい　ダブル\xfffeシューターあり
-たいかい　トリプル\xfffeシューターなし
-たいかい　トリプル\xfffeシューターあり
-たいかい　ローテーション\xfffeシューターなし
-たいかい　ローテーション\xfffeシューターあり
+Coliseo Individual,\xfffeSin restricciones
+Coliseo Individual,\xfffeCon restricciones
+Coliseo Individual,\xfffeSin restricciones con Lanzador
+Coliseo Individual,\xfffeCon restricciones con Lanzador
+Coliseo Doble,\xfffeSin restricciones
+Coliseo Doble,\xfffeCon restricciones
+Coliseo Doble,\xfffeSin restricciones con Lanzador
+Coliseo Doble,\xfffeCon restricciones con Lanzador
+Coliseo Triple,\xfffeSin restricciones
+Coliseo Triple,\xfffeCon restricciones
+Coliseo Triple,\xfffeSin restricciones con Lanzador
+Coliseo Triple,\xfffeCon restricciones con Lanzador
+Coliseo Rotatorio,\xfffeSin restricciones
+Coliseo Rotatorio,\xfffeCon restricciones
+Coliseo Rotatorio,\xfffeSin restricciones con Lanzador
+Coliseo Rotatorio,\xfffeCon restricciones con Lanzador
+Coliseo Multiple,\xfffeSin restricciones
+Coliseo Multiple,\xfffeCon restricciones
+Coliseo Multiple,\xfffeSin restricciones con Lanzador
+Coliseo Multiple,\xfffeCon restricciones con Lanzador
+Metro Batalla,\xfffeIndividual
+Metro Batalla,\xfffeDoble
+Metro Batalla,\xfffeMúltiple
+Emparejamiento Aleatorio Libre,\xfffeIndividual
+Emparejamiento Aleatorio Libre,\xfffeDoble
+Emparejamiento Aleatorio Libre,\xfffeTriple
+Emparejamiento Aleatorio Libre,\xfffeRotatorio
+Emparejamiento Aleatorio Libre,\xfffeLanzador
+Emparejamiento Aleatorio con Puntos,\xfffeIndividual
+Emparejamiento Aleatorio con Puntos,\xfffeDoble
+Emparejamiento Aleatorio con Puntos,\xfffeTriple
+Emparejamiento Aleatorio con Puntos,\xfffeRotatorio
+Emparejamiento Aleatorio con Puntos,\xfffeLanzador
+Torneo Individual,\xfffeSin Lanzador
+Torneo Individual,\xfffeCon Lanzador
+Torneo Doble,\xfffeSin Lanzador
+Torneo Doble,\xfffeCon Lanzador
+Torneo Triple,\xfffeSin Lanzador
+Torneo Triple,\xfffeCon Lanzador
+Torneo Rotatorio,\xfffeSin Lanzador
+Torneo Rotatorio,\xfffeCon Lanzador
