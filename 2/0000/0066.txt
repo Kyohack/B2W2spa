@@ -1,4 +1,4 @@
-いろいろ
+Esto y aquello
 Estudiante
 Oficinista
 Creador
@@ -6,4 +6,4 @@ Autónomo
 Funcionario
 Ama de Casa
 Artista
-フリーター
+Trabajador temporal
