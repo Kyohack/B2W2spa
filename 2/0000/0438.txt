@@ -1,233 +1,233 @@
-なし
-アフガニスタン
-アルバニア
-アルジェリア
-アメリカりょうサモア
-アンドラ
-アンゴラ
-アンギラ
-アンティグア・バーブーダ
-アルゼンチン
-アルメニア
-アルバ
-オーストラリア
-オーストリア
-アゼルバイジャン
-バハマ
-バーレーン
-バングラデシュ
-バルバドス
-ベラルーシ
-ベルギー
-ベリーズ
-ベナン
-バミューダ
-ブータン
-ボリビア
-ボスニア・ヘルツェゴビナ
-ボツワナ
-ブラジル
-イギリスりょうバージンしょとう
-ブルネイ
-ブルガリア
-ブルキナファソ
-ブルンジ
-カンボジア
-カメルーン
-カナダ
-カーボベルデ
-ケイマンしょとう
-ちゅうおうアフリカ
-チャド
-チャネルしょとう
-チリ
-ちゅうごく
-クリスマスとう
-コロンビア
-コモロ
-コンゴきょうわこく
-クックしょとう
-コスタリカ
-コートジボワール
-クロアチア
-キューバ
-キプロス
-チェコ
-きたちょうせん
-コンゴみんしゅきょうわこく
-ひがしティモール
-デンマーク
-ジブチ
-ドミニカ
-ドミニカきょうわこく
-エクアドル
-エジプト
-エルサルバドル
-せきどうギニア
-エリトリア
-エストニア
-エチオピア
-フォークランド（マルビナス)しょとう
-フェローしょとう
-フィジーしょとう
-フィンランド
-フランス
-フランスりょうギアナ
-フランスりょうポリネシア
-ガボン
-ガンビア
-グルジア
-ドイツ
-ガーナ
-ジブラルタル
-ギリシャ
-グリーンランド
-グレナダ
-グアドループとう
-グアム
-グアテマラ
-ギニア
-ギニアビサウ
-ガイアナ
-ハイチ
-ホンジュラス
-ハンガリー
-アイスランド
-インド
-インドネシア
-イラン
-イラク
-アイルランド
-マンとう
-イスラエル
-イタリア
-ジャマイカ
-スバールバル・ヤンマンエンとう
-にほん
-ヨルダン
-カシミール
-カザフスタン
-ケニア
-キリバス
-クウェート
-キルギス
-ラオス
-ラトビア
-レバノン
-レソト
-リベリア
-リビア
-リヒテンシュタイン
-リトアニア
-ルクセンブルク
-マケドニアきゅうユーゴスラビア
-マダガスカル
-マラウイ
-マレーシア
-モルディブ
-マリ
-マルタ
-マーシャルしょとう
-マルチニーク
-モーリタニア
-モーリシャス
-マヨット
-メキシコ
-ミクロネシア
-モナコ
-モンゴル
-モンテネグロ
-モロッコ
-モザンビーク
-ミャンマー
-ナミビア
-ナウル
-ネパール
-オランダ
-オランダりょうアンティル
-ニューカレドニア
-ニュージーランド
-ニカラグア
-ニジェール
-ナイジェリア
-ニウエ
-ノーフォークとう
-きたマリアナしょとう
-ノルウェー
-オマーン
-パキスタン
-パラオ
-パレスチナじちく
-パナマ
-パプアニューギニア
-パラグアイ
-ペルー
-フィリピン
-ピトケアン
-ポーランド
-ポルトガル
-プエルトリコ
-カタール
-かんこく
-モルドバ
-レユニオン
-ルーマニア
-ロシア
-ルワンダ
-セントヘレナとう
-セントクリストファー・ネービス
-セントルシア
-セントビンセント・グレナディーン
-サンピエール・ミクロン
-サモア
-サンマリノ
-サントメ・プリンシペ
-サウジアラビア
-セネガル
-セルビア
-セーシェル
-シエラレオネ
-シンガポール
-スロバキア
-スロベニア
-ソロモンしょとう
-ソマリア
-みなみアフリカ
-スペイン
-スリランカ
-スーダン
-スリナム
-スワジランド
-スウェーデン
-スイス
-シリア
-たいわん
-タジキスタン
-タイ
-トーゴ
-トケラウ
-トンガ
-トリニダード・トバゴ
-チュニジア
-トルコ
-トルクメニスタン
-タークス・カイコスしょとう
-ツバル
-ウガンダ
-ウクライナ
-アラブしゅちょうこく
-イギリス
-タンザニア
-アメリカ
-アメリカりょうバージンしょとう
-ウルグアイ
-ウズベキスタン
-バヌアツ
-バチカン
-ベネズエラ
-ベトナム
-ワリス・フテュナしょとう
-にしサハラ
-イエメン
-ザンビア
-ジンバブエ
+-
+Afganistán
+Albania
+Argelia
+Samoa Americana
+Andorra
+Angola
+Anguila
+Antigua y Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaiyán
+Bahamas
+Bahréin
+Bangladesh
+Barbados
+Bielorrusia
+Bélgica
+Belice
+Benín
+Bermudas
+Bután
+Bolivia
+Bosnia-Herzegovina
+Botsuana
+Brasil
+Islas Vírgenes Británicas
+Brunéi Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Camboya
+Camerún
+Canadá
+Cabo Verde
+Islas Caimán
+República Centroafricana
+Chad
+Islas del Canal
+Chile
+China
+Isla de Navidad
+Colombia
+Comoras
+Congo
+Islas Cook
+Costa Rica
+Costa de Marfil
+Croacia
+Cuba
+Chipre
+República Checa
+Corea del Norte
+República Democrática del Congo
+Rep. Democrática de Timor Oriental
+Dinamarca
+Yibuti
+Dominica
+República Dominicana
+Ecuador
+Egipto
+El Salvador
+Guinea Ecuatorial
+Eritrea
+Estonia
+Etiopía
+Islas Malvinas
+Islas Feroe
+Fiyi
+Finlandia
+Francia
+Guayana Francesa
+Polinesia Francesa
+Gabón
+Gambia
+Georgia
+Alemania
+Ghana
+Gibraltar
+Grecia
+Groenlandia
+Granada
+Guadalupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haití
+Honduras
+Hungría
+Islandia
+India
+Indonesia
+Irán
+Iraq
+Irlanda
+Isla de Man
+Israel
+Italia
+Jamaica
+Isla de Jan Mayen
+Japón
+Jordania
+Cachemira
+Kazajistán
+Kenia
+Kiribati
+Kuwait
+Kirguistán
+Laos
+Letonia
+Líbano
+Lesoto
+Liberia
+Libia
+Liechtenstein
+Lituania
+Luxemburgo
+Antigua Rep. Yugoslava de Macedonia
+Madagascar
+Malaui
+Malasia
+Maldivas
+Malí
+Malta
+Islas Marshall
+Martinica
+Mauritania
+Mauricio
+Mayotte
+México
+Micronesia
+Mónaco
+Mongolia
+Montenegro
+Marruecos
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Países Bajos
+Antillas Holandesas
+Nueva Caledonia
+Nueva Zelanda
+Nicaragua
+Níger
+Nigeria
+Niue
+Isla Norfolk
+Islas Marianas del Norte
+Noruega
+Omán
+Pakistán
+Palaos
+Palestina
+Panamá
+Papúa Nueva Guinea
+Paraguay
+Perú
+Filipinas
+Islas Pitcairn
+Polonia
+Portugal
+Puerto Rico
+Qatar
+Corea del Sur
+Moldavia
+Reunión
+Rumanía
+Federación Rusa
+Ruanda
+Santa Helena
+San Cristóbal y Nieves
+Santa Lucía
+San Vicente y las Granadinas
+San Pedro y Miguelón
+Samoa
+San Marino
+Santo Tomé y Príncipe
+Arabia Saudita
+Senegal
+Serbia
+Seychelles
+Sierra Leona
+Singapur
+Eslovaquia
+Eslovenia
+Islas Salomón
+Somalia
+Sudáfrica
+España
+Sri Lanka
+Sudán
+Surinam
+Suazilandia
+Suecia
+Suiza
+República Árabe Siria
+Taiwán
+Tayikistán
+Tailandia
+Togo
+Tokelau
+Tonga
+Trinidad y Tobago
+Túnez
+Turquía
+Turkmenistán
+Islas Turcas y Caicos
+Tuvalu
+Uganda
+Ucrania
+Emiratos Árabes Unidos
+Reino Unido
+República Unida de Tanzania
+Estados Unidos de América
+Islas Vírgenes Americanas
+Uruguay
+Uzbekistán
+Vanuatu
+Ciudad del Vaticano
+Venezuela
+Vietnam
+Wallis y Futuna
+Sáhara Occidental
+Yemen
+Zambia
+Zimbabue
