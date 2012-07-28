@@ -1,3 +1,3 @@
-エリア\xf000ȁ\x0001\x0000を　リタイアして\xfffeうけつけに　もどりますか？\xfffe
-はい
-いいえ
+¿Te gustaría\xf000ȁ\x0001\x0000retirarte definitivamente\xfffede esta zona\xfffe
+SÍ
+NO
