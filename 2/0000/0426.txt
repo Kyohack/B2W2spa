@@ -1,7 +1,7 @@
-なし
-オーランド
-ラップランド
-ひがしフィンランド
-みなみフィンランド
-オウル
-にしフィンランド
+Ninguno
+Åland
+Laponia
+Finlandia Oriental
+Finlandia Meridional
+Oulu
+Finlandia Occidental
