@@ -1,51 +1,51 @@
-あいさつ
-おえかき
-たいせん
-こうかん
-やめる
-ぐるぐる
-レコード
-\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000が\xfffeはなしかけて　きました\xf000븂\x0001\x000f
-かいわが　きれました
-\xf000Ā\x0001\x0000の\xfffeへんじを　まっています\xf000븂\x0001\x000f
-かいわを　やめました
-\xf000Ā\x0001\x0000が　トレーナーカードを\xfffeみせて　きました\xf000븁\x0000\xfffeこちらも　トレーナーカードを\xfffeみせますか？
-\xf000Ĥ\x0001\x0003\xfffe\xf000ĥ\x0001\x0004\xf000븁\x0000\xfffeに　すんでいる　\xf000Ā\x0001\x0000の\xfffeトレーナーカードを　みせてもらった\xf000븂\x0001<
-\xf000Ĥ\x0001\x0003\xfffeに　すんでいる　\xf000Ā\x0001\x0000の\xf000븀\x0000\xfffeトレーナーカードを　みせてもらった\xf000븂\x0001<
-\xf000ĥ\x0001\x0004\xfffeに　すんでいる　\xf000Ā\x0001\x0000の\xf000븀\x0000\xfffeトレーナーカードを　みせてもらった\xf000븂\x0001<
-\xf000Ā\x0001\x0000の\xfffeトレーナーカードを　みせてもらった\xf000븂\x0001<
-あいての　しゅうりょうを　まっています
-おさそいを　ことわりました
-\xf000Ā\x0001\x0000が　おえかき　に\xfffeさそってきました\xf000븁\x0000\xfffeいっしょに　おえかき　しますか？
+SALUDAR
+DIBUJAR
+COMBATE
+INTERCAMBIO
+SALIR
+GIRO
+GRABAR
+\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 ha contactado contigo.\xf000븂\x0001\x000f
+Se ha interrumpido la sesión.
+Esperando respuesta de \xf000Ā\x0001\x0000...\xf000븂\x0001\x000f
+La sesión ha finalizado.
+\xf000Ā\x0001\x0000 te permite ver\xfffesu Ficha de Entrenador.\xf000븁\x0000\xfffe¿Quieres mostrarle la tuya?
+Esta es la Ficha de Entrenador\xfffede \xf000Ā\x0001\x0000, que vive en\xf000븀\x0000\xfffe\xf000ĥ\x0001\x0004,\xf000븀\x0000\xfffe\xf000Ĥ\x0001\x0003.\xf000븂\x0001<
+Esta es la Ficha de Entrenador\xfffede \xf000Ā\x0001\x0000, que vive en\xf000븀\x0000\xfffe\xf000Ĥ\x0001\x0003.\xf000븂\x0001<
+Esta es la Ficha de Entrenador\xfffede \xf000Ā\x0001\x0000, que vive en\xf000븀\x0000\xfffe\xf000ĥ\x0001\x0004.\xf000븂\x0001<
+Esta es la Ficha de Entrenador\xfffede \xf000Ā\x0001\x0000.\xf000븂\x0001<
+Esperando a que el otro jugador termine.
+Has rechazado la invitación.
+\xf000Ā\x0001\x0000 te ha invitado\xfffea hacer un dibujo.\xf000븁\x0000\xfffe¿Quieres dibujar con esta persona?
 おえかきを　はじめます！\xf000븂\x0001<
-おさそいを　ことわりました
+Has rechazado la invitación.
 \xf000Ā\x0001\x0000が　たいせんを\xfffeもうしこんで　きました\xf000븁\x0000\xfffeシングルバトルの　レベル５０ルールで\xfffeたいせん　しますか？
-\xf000Ā\x0001\x0000が　たいせんを\xfffeもうしこんで　きました\xf000븁\x0000\xfffeシングルバトルの　せいげんなしで\xfffeたいせん　しますか？\xf000븁\x0000
-\xf000Ā\x0001\x0000が　たいせんを\xfffeもうしこんで　きました\xf000븁\x0000\xfffeシングルバトルの　フラットルールで\xfffeたいせん　しますか？\xf000븁\x0000
+\xf000Ā\x0001\x0000 te propone un combate.\xf000븁\x0000\xfffe¿Aceptas su propuesta de un Combate\xfffeIndividual sin restricciones?\xf000븁\x0000
+\xf000Ā\x0001\x0000 te propone un combate.\xf000븁\x0000\xfffe¿Aceptas su propuesta de un Combate\xfffeIndividual con restricciones?\xf000븁\x0000
 \xf000Ā\x0001\x0000が　たいせんを\xfffeもうしこんで　きました\xf000븁\x0000\xfffeダブルバトルの　レベル５０ルールで\xfffeたいせん　しますか？
-\xf000Ā\x0001\x0000が　たいせんを\xfffeもうしこんで　きました\xf000븁\x0000\xfffeダブルバトルの　せいげんなしで\xfffeたいせん　しますか？\xf000븁\x0000
-\xf000Ā\x0001\x0000が　たいせんを\xfffeもうしこんで　きました\xf000븁\x0000\xfffeダブルバトルの　フラットルールで\xfffeたいせん　しますか？\xf000븁\x0000
+\xf000Ā\x0001\x0000 te propone un combate.\xf000븁\x0000\xfffe¿Aceptas su propuesta de un Combate\xfffeDoble sin restricciones?\xf000븁\x0000
+\xf000Ā\x0001\x0000 te propone un combate.\xf000븁\x0000\xfffe¿Aceptas su propuesta de un Combate\xfffeDoble con restricciones?\xf000븁\x0000
 \xf000Ā\x0001\x0000が　たいせんを\xfffeもうしこんで　きました\xf000븁\x0000\xfffeトリプルバトルの　レベル５０ルールで\xfffeたいせん　しますか？
-\xf000Ā\x0001\x0000が　たいせんを\xfffeもうしこんで　きました\xf000븁\x0000\xfffeトリプルバトルの　せいげんなしで\xfffeたいせん　しますか？\xf000븁\x0000
-\xf000Ā\x0001\x0000が　たいせんを\xfffeもうしこんで　きました\xf000븁\x0000\xfffeトリプルバトルの　フラットルールで\xfffeたいせん　しますか？\xf000븁\x0000
+\xf000Ā\x0001\x0000 te propone un combate.\xf000븁\x0000\xfffe¿Aceptas su propuesta de un Combate\xfffeTriple sin restricciones?\xf000븁\x0000
+\xf000Ā\x0001\x0000 te propone un combate.\xf000븁\x0000\xfffe¿Aceptas su propuesta de un Combate\xfffeTriple con restricciones?\xf000븁\x0000
 \xf000Ā\x0001\x0000が　たいせんを\xfffeもうしこんで　きました\xf000븁\x0000\xfffeローテーションバトルの\xfffeレベル５０ルールで\xf000븀\x0000\xfffeたいせん　しますか？
-\xf000Ā\x0001\x0000が　たいせんを\xfffeもうしこんで　きました\xf000븁\x0000\xfffeローテーションバトルの\xfffeせいげんなしで\xf000븀\x0000\xfffeたいせん　しますか？\xf000븁\x0000
-\xf000Ā\x0001\x0000が　たいせんを\xfffeもうしこんで　きました\xf000븁\x0000\xfffeローテーションバトルの\xfffeフラットルールで\xf000븀\x0000\xfffeたいせん　しますか？\xf000븁\x0000
-\xf000Ā\x0001\x0000が　たいせんを\xfffeもうしこんで　きました\xf000븁\x0000\xfffeマルチバトルの　せいげんなしで\xfffeたいせん　しますか？\xf000븁\x0000
-\xf000Ā\x0001\x0000が　たいせんを\xfffeもうしこんで　きました\xf000븁\x0000\xfffeマルチバトルの　フラットルールで\xfffeたいせん　しますか？\xf000븁\x0000
+\xf000Ā\x0001\x0000 te propone un combate.\xf000븁\x0000\xfffe¿Aceptas su propuesta de un Combate\xfffeRotatorio sin restricciones?\xf000븁\x0000
+\xf000Ā\x0001\x0000 te propone un combate.\xf000븁\x0000\xfffe¿Aceptas su propuesta de un Combate\xfffeRotatorio con restricciones?\xf000븁\x0000
+\xf000Ā\x0001\x0000 te propone un combate.\xf000븁\x0000\xfffe¿Aceptas su propuesta de un Combate\xfffeMultiple sin restricciones?\xf000븁\x0000
+\xf000Ā\x0001\x0000 te propone un combate.\xf000븁\x0000\xfffe¿Aceptas su propuesta de un Combate\xfffeMultiple con restricciones?\xf000븁\x0000
 たいせんを\xfffeかいし　します！\xf000븂\x0001<
-おさそいを\xfffeことわり　ました
-\xf000Ā\x0001\x0000が　こうかんを\xfffeもうしこんで　きました\xf000븁\x0000\xfffeこうかん　しますか？
-こうかんを\xfffeかいし　します！\xf000븂\x0001<
-おさそいを\xfffeことわり　ました
-こうかんには　てもちの　ポケモンが\xfffe２ひき　いじょう　ひつようです　
-\xf000Ā\x0001\x0000が　レコードつうしんに\xfffeさそって　きました\xf000븁\x0000\xfffeいっしょに　レコードつうしんを\xfffeしますか？
+Has rechazado la invitación.
+\xf000Ā\x0001\x0000 se ha ofrecido\xfffpara hacer un intercambio.\xf000븁\x0000\xfffe¿Aceptas su oferta?
+¡El intercambio va a comenzar!\xf000븂\x0001<
+Has rechazado la invitación.
+Necesitas al menos dos pokémon\xfffeen tu equipo para hacer un intercambio.
+\xf000Ā\x0001\x0000 te ha invitado a \xfffemezclar records.\xf000븁\x0000\xfffe¿Quieres mezclar records\xfffecon el otro jugador?
 レコードつうしんを\xfffeかいし　します！
-おさそいを\xfffeことわり　ました
-\xf000Ā\x0001\x0000が　ぐるぐるこうかん　に\xfffeさそって　きました\xf000븁\x0000\xfffeいっしょに　ぐるぐるこうかん　を\xfffeしますか？
+Has rechazado la invitación.
+\xf000Ā\x0001\x0000 has invited you to join\xfffea Spin Trade session.\xf000븁\x0000\xfffeWould you like to take part\xfffein the Spin Trade?
 ぐるぐるこうかんを\xfffeかいし　します！\xf000븂\x0001<
-おさそいを\xfffeことわり　ました
-タマゴを　もっていないので\xfffeおさそいを　ことわり　ました
+Has rechazado la invitación.
+Tu no tienes un Huevo.\xfffeLa invitación fue cancelada.
 \xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000　です！\xfffeなにか　するかい？
 \xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000　です！\xfffeなにか　する？
 あ！　ごめん\xfffeほかに　ようじが　あるから\xf000븀\x0000\xfffeまた　こんどね
