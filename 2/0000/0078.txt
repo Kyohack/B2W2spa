@@ -1,22 +1,22 @@
-メダルかくとくすう　もくひょう
-かくとくした　メダル
-もっている　ヒントメダル
+Menu de ordenación de medallas
+Medallas conseguidas
+Medallas no conseguidas
 \xf000봃\x0001\xf000Ȃ\x0001\x0000
 \xf000봃\x0001\xf000Ȃ\x0001\x0000／\xf000Ȃ\x0001\x0001
-このメダルを　イチオシに　とうろくし\xfffeほかの　プレイヤーに　こうかいします
-イチオシとうろくを\xfffeかいじょ　しました
-ヒントメダルは　イチオシに\xfffeとうろく　できません！
-ひょうじの　しかたを\xfffeどのように　かえますか？
-いちらんモード
-いちれつモード
-メダルだけみる
-ヒントだけみる
-しゅるいべつ
-なまえじゅん
-あたらしいもの
-もとにもどす
-やめる
-\xf000봃\x0001かくとくした　ひづけ
-\xf000봃\x0001もらった　ひづけ
+La medalla ha sido seleccionada\xfffe y fue registrada.
+La selección\xfffeha terminado.
+No es posible seleccionar y registrar\xfffemedallas desconocidas!
+¿Como quieres ordenar\xfffetus medallas?
+En una lista
+En una columna
+Según los metales
+No conseguidas
+Pon modo
+Por nombre
+Por más nuevas
+Reajustar la ordenación
+Cancelar
+\xf000봃\x0001Conseguidas
+\xf000봃\x0001Tuvo una pista en
 \xf000봃\x0001２０\xf000ȁ\x0001\x0000年　\xf000ȁ\x0001\x0001月　\xf000ȁ\x0001\x0002日
-メダルボックスに\xfffeせつめいしょが　はさまっていた\xf000븁\x0000\xfffeメダルボックス　きのう　せつめい\xf000븁\x0000\xfffeメダルに　カーソルを　あわせて\xfffeＡボタンを　おすか\xf000븀\x0000\xfffeみぎはしの　しかくを　タッチすると\xf000븁\x0000\xfffeその　メダルを\xfffeイチオシメダルに　とうろくします\xf000븁\x0000\xfffeイチオシメダルは　つうしんで\xfffeほかの　プレイヤーに　みせられます\xf000븁\x0000\xfffeまた　ＳＴＡＲＴボタンを　おすか\xfffeひだりしたの　ボタンを　タッチすると\xf000븀\x0000\xfffeメダルの　ひょうじを　かえられます
+Las intrucciones de la caja de medallas dicen\xfffeA para tocar una medalla y usa tu\xf000븀\x0000\xfffelapiz para giar la medalla.\xfffeSTART puede ser usado para enviar el MENU.\xf000븀\x0000\xfffeYou can also tap Medals to view them.
