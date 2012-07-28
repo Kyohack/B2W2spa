@@ -15,7 +15,6 @@ Total
 \xf000Ȅ\x0001\x0000
 Tiempo Restante
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
-¡Has dicho “\xf000Ĝ\x0001\x0000"!
 VER
 SÍ
 NO
