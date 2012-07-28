@@ -1,21 +1,21 @@
 \xf000Ā\x0001\x0000
-ＩＤ\xf000Ȅ\x0001\x0000
-メンバーが　そろったら\xfffeＡボタン：すすむ　Ｂボタン：やめる
-この　メンバーで　よろしいですか？
-ぐるぐるこうかんを\xfffeちゅうし　しますか？
-それでは　ぐるぐるこうかんを\xfffeちゅうし　します
-つごうが　わるくなってしまった\xfffeメンバーが　います
-メンバーが　いなくなりました\xfffeぐるぐるこうかんを　ちゅうし　します
-そのまま　おまちください\xfffeＢボタン：やめる
-つごうのつかない　メンバーがいたので\xfffeぐるぐるこうかんを　ちゅうし　します
-ぐるぐるこうかんを　やめますか？
-それでは　ぐるぐるこうかんを\xfffeちゅうし　します
-レコードを　まぜています\xfffeでんげんを　きらないで　ください！
-ぐるぐるこうかんが　おわりました！\xfffeユニオンルームへ　いどうします
-リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか？
-\xf000Ā\x0001\x0000さんが　かえりました
-リーダーの　\xf000Ă\x0001\x0000さんが\xfffeぬけたので　かいさん　します
-ぐるぐるこうかん　ぼしゅうちゅう！
-ぐるぐるこうかんちゅう！
-はい
-いいえ
+ID \xf000Ȅ\x0001\x0000
+Cuando todos estén listos...\xfffeBotón A: Confirmar   Botón B: Cancelar
+¿Quieres continuar con estas personas?
+¿Quieres cancelar el Intercambio Giro?
+Se cancelará el Intercambio Giro.
+Alguien se ha ido.
+No hay miembros.\xfffeSe cancelará el Intercambio Giro.
+Por favor, espera.\xfffeBotón B: Cancelar
+Alguien se ha ido.\xfffeSe cancelará el Intercambio Giro.
+¿Quieres cancelar el Intercambio Giro?
+Se cancelará el Intercambio Giro.
+Intercambiando Record\xfffe¡Por favor, no apagues la consola!
+¡Intercambio Giro completado!\xfffeVolviendo a la Sala Unión...
+Si el anfitrión se va, el grupo se\xfffedisolverá. ¿Quieres continuar?
+\xf000Ā\x0001\x0000 se ha ido.
+El anfitrión, \xf000Ā\x0001\x0000, se ha ido.\xfffeEl grupo se disolverá.
+¡Se busca un Intercambio Giro!
+¡Intercambio Giro en curso!
+SÍ
+NO
