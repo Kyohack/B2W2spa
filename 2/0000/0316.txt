@@ -1,42 +1,42 @@
-きゃくほん
-カット　０１
-カット　０２
-カット　０３
-カット　０４
-カット　０５
-カット　０６
-カット　０７
-カット　０８
-カット　０９
-カット　１０
-カット　１１
-カット　１２
-カット　１３
-カット　１４
-カット　１５
-カット　１６
-カット　１７
-カット　１８
-カット　１９
-カット　２０
-セリフの　せんたくが　じゅうよう！
-セットの　タイプを　みきわめろ！
-あいての　いれかえに　ちゅうい！
-セリフの　せんたくが　じゅうよう！
-あいての　いれかえに　ちゅうい！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-なし
-なし
-なし
-なし
-なし
-なし
+ESCENARIO
+CUT 01
+CUT 02
+CUT 03
+CUT 04
+CUT 05
+CUT 06
+CUT 07
+CUT 08
+CUT 09
+CUT 10
+CUT 11
+CUT 12
+CUT 13
+CUT 14
+CUT 15
+CUT 16
+CUT 17
+CUT 18
+CUT 19
+CUT 20
+¡Elige tus lineas cuidadosamente!
+¡Descubre el tipo de Set!
+¡Tengan cuidado de no desplazar el enemigo!
+¡Elige tus lineas cuidadosamente!
+¡Tengan cuidado de no desplazar el enemigo!
+¡Finalizalo inmediatamente!
+¡Finalizalo inmediatamente!
+¡Finalizalo inmediatamente!
+¡Finalizalo inmediatamente!
+¡Finalizalo inmediatamente!
+¡Finalizalo inmediatamente!
+¡Finalizalo inmediatamente!
+¡Finalizalo inmediatamente!
+¡Finalizalo inmediatamente!
+¡Finalizalo inmediatamente!
+None
+None
+None
+None
+None
+None
