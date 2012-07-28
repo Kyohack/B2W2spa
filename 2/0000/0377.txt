@@ -1,110 +1,110 @@
-どこへ　とびますか？
+¿Adónde quieres ir?
 ダミー
-ここちよい　しおかぜが　ふきぬけ\xfffeなにかを　よかんさせる　いなかまち
-ポケモンけんきゅうじょ
-こうていさが　ある　おかげで\xfffeみはらしが　いいのが　とくちょう
-ポケモンセンター
-ゆきよけの　かいだんは　すみついた\xfffeひとが　ふるさとをおもい　つけたもの
-サンヨウレストラン
-ポケモンセンター
-トレーナーズスクール
-マコモのけんきゅうしつ
-１００ねんほどまえの　そうこが\xfffeさいりようされ　かっきづく　まち
-シッポウはくぶつかん
-ポケモンセンター
-カフェ　ソーコ
-わざおしえ
-じょうくうの　くもを　つらぬくような\xfffeこうそうビルが　そびえる　だいとし
-ヒウンシティジム
-ポケモンセンター
-ちょうさたいほんぶ
-せいめいはんだん
-メダルじむきょく
-ロイヤルイッシュごう
-テーマパークが　たちならび\xfffeかっき　あふれる　ごらくとし
-ライモンシティジム
-ポケモンセンター
-ミュージカルホール
-バトルサブウェイ
-ビッグスタジアム
-リトルコート
-イッシュの　げんかんと　よばれ\xfffeしなものが　いきかう　みなとまち
-ホドモエシティジム
-ポケモンセンター
-ホドモエマーケット
-わざおしえ
-かっそうろの　そばで　さいばいし\xfffeとれた　やさいを　かもつきで　はこぶ
-フキヨセシティジム
-ポケモンセンター
-わざマシンコレクター
-カーゴサービス
-ふゆは　ふりつもる　ゆきにおおわれ\xfffeいちめん　ぎんせかいとなる　まち
-セッカシティジム
-ポケモンセンター
-ポケモンだいすきクラブ
-れきしを　おもんじ　むかしからの\xfffeものを　たいせつに　している　まち
-べんりさを　ついきゅうして　むかしの\xfffeなごりを　のこさず　へんかした　まち
-ソウリュウシティジム
-ポケモンセンター
-バトルのやかた
-すべての　ポケモンジムを　せいはした\xfffeトレーナーだけが　いどむことができる
-ポケモンセンター
-むかしからの　ふうしゅうを　まもり\xfffeきそくただしく　くらす　ひとの　まち
-ポケモンセンター
-なつは　バカンスの　ひとが　つどい\xfffeにぎわう　すなはまの　ひしょち
-ポケモンセンター
-てつどうしゃりょうが　せいびされたり\xfffeていはくする　しゃりょうきちの　まち
-ひとがつどい　はってんを　つづける\xfffeきんだいてきな　ふんいきの　まち
-ポケモンセンター
-ゆたかな　しぜんに　あこがれた\xfffeひとが　かくちから　あつまる　ばしょ
-ポケモンセンター
-せかい　かっこくの　ひとびとと\xfffeこうりゅうできる　ちょうこうそうビル
-とおく　はなれた　べつちほうの\xfffeポケモンを　けんきゅうする　しせつ
-こどもや　ポケモンの　あそびばとして\xfffeつかわれている　こうじょうの　あとち
-たおれて　くうどうに　なった\xfffeきの　うろも　とおることが　できる
-かんこうきゃくに　にんきだが\xfffeリゾートとよぶには　きびしい　さばく
-かつて　えいがを　ほこるも　いつしか\xfffeすなにうもれた　おおむかしの　いせき
-うでじまんの　トレーナーたちが\xfffeトーナメントで　きそいあう
-でんきを　おびた　いしと　いしが\xfffeはんぱつして　うかんでいる　ほらあな
-しつの　いい　こうせきが　とれる\xfffeこうざんとして　ひょうばんがたかい
-いつ　だれが　たてたかも　わからない\xfffeイッシュで　もっとも　ふるい　とう
-わかれみちで　トレーナーを　はばむ\xfffeポケモンリーグ　さいごの　かんもん
-ちかづけば　わざわいが　ふりかかると\xfffeいいつたえられる　きょだいな　あな
-ひとと　ポケモンとが　じゆうに\xfffeくらせる　せかいを　ねがう　しま
-こじまに　ひっそり　たたずむ\xfffeひみつめいた　けんきゅうじょ
-しみこんだ　あまみずが　わきあがり\xfffeちかに　みずたまりを　つくりだした　
-でんせつの　けはいを　とじこめたまま\xfffeひとに　わすれさられた　ほらあな
-たましいを　じょうか　させるという\xfffeおおきな　かねが　ある　たかいとう
-たいらな　とちの　くぼみに　たまった\xfffeみずでできた　しつげんと　されている
-かつては　ひとが　すんでいた　むらで\xfffeいまも　とうじの　くうきが　ながれる
-なみが　かがやいている　として\xfffeせかいでも　ひょうばんの　うみ
-しばらく　まえまでは　なにもないのに\xfffeまよう　ばしょとして　しられていた
-きせつが　うつろい　かわる\xfffeけしきを　たのしめる　うみぞいのみち
-のどかな　ムードの　みちでは\xfffeトレーナーたちが　うでを　きそいあう
-おおくの　くさむらと　いけによって\xfffeまがりくねった　ながい　どうろ
-いせきが　はっくつされて\xfffeかいはつこうじは　ちゅうしされた
-パフォーマーが　あつまり　にぎやかな\xfffeふんいきで　つつまれている　どうろ
-ゆたかな　きぎが　おいしげり\xfffeしぜんの　みりょく　あふれる　どうろ
-ながい　くさむらに　はいらなくても\xfffeすすめるよう　いっぽんばしが　ある
-あめが　おおく　ぬかるんだ\xfffeしっちのなかには　ポケモンが　ひそむ
-ほそうされた　どうろが　はしりやすく\xfffeバイクを　あいするものが　あつまる
-ショッピングモール
-うでじまんが　つどい　きそいあう\xfffeバッジチェックのもんに　つづく　みち
-せいりゅうが　どうろないを　めぐり\xfffeうつくしい　けしきが　うまれた　みち
-あるくだけで　たのしくなってしまう\xfffeなだらかな　おかが　つらなる　ばしょ
-うみの　うえを　つらぬく　すなはまが\xfffeめいぶつの　みずぎわの　みち
-たきから　おちた　みずが　まい\xfffeきりが　たちこめる　どうろ
-きりたった　がけが　あるく　ものの\xfffeこころを　さわがせる　どうろ
-ライモンシティに　おとずれた　ひとが\xfffeきゅうけいに　くることが　おおい
-ちけいの　かんけいで　きゅうりゅうが\xfffeはっせいし　じゆうに　すすめない
-リゾートデザートと　じつづきだったと\xfffeしてきする　けんきゅうしゃも　いる
-４ほんの　はしらで　ささえられた\xfffeイッシュさいだい　さいちょうの　はし
-ふねの　うんこうに　あわせて\xfffeあがったり　さがったりする　はし
-ちかてつが　とおりぬけても\xfffeびくともしない　こうてつの　はし
-イッシュを　かいたくした　ひとびとが\xfffeつくり　くらしはじめた　ふるい　はし
-どんな　しょうげきも　やわらげるよう\xfffeデザインされた　さいせんたんの　はし
-イッシュの　ちゅうしんに　ある\xfffeふしぎな　パワーが　やどる　ばしょ
-つよさを　もとめる　トレーナーが\xfffeきけんを　かえりみずに　はいりこむ
+La brisa marina que sopla en\xfffeel pueblo augura grandes hazañas.
+Laboratorio Pokémon
+Los desniveles del terreno\xfffeproporcionan vistas sensacionales.
+Centro Pokémon
+La morriña llevó a los inmigrantes\xfffea añadir las escaleras de entrada.
+Gimnasio Gres
+Centro Pokémon
+Escuela de Entren.
+Lab. de Oryza
+Una ciudad dinámica que reutiliza\xfffealmacenes de más de 100 años.
+Gimnasio Esmalte
+Centro Pokémon
+Museo Esmalte
+Café Alma
+Una gran urbe cuyos rascacielos\xfffese alzan hasta las nubes.
+Gimnasio Porcelana
+Centro Pokémon
+Sede del C. E.
+Inspector de Motes
+Masajista Pokémon
+Real Teselia
+Ocio y diversión asegurados en esta\xfffeciudad llena de atracciones.
+Gimnasio Mayólica
+Centro Pokémon
+Teatro Musical
+Metro Batalla
+Gran Estadio
+Cancha
+El puerto de entrada de infinidad de\xfffemercancías a la región de Teselia.
+Gimnasio Fayenza
+Centro Pokémon
+Mercado de Fayenza
+Tutor de Movimientos
+Las cosechas cultivadas junto a\xfffela pista se transportan en aviones.
+Gimnasio Loza
+Centro Pokémon
+Familia Movimientos
+Portes aéreos
+La nieve acumulada en los tejados\xfffetiñe la ciudad de un tono plateado.
+Gimnasio Teja
+Centro Pokémon
+Club de Fans de PKMN
+Una ciudad rebosante de historia\xfffedonde se respetan las tradiciones.
+Una ciudad en constante evolución\xfffeque no se estanca en el pasado.
+Gimnasio Caolín
+Centro Pokémon
+Mansión de Combate
+Solo para aquellos Entrenadores que\xfffehan ganado todas las Medallas.
+Centro Pokémon
+Un pueblo que respeta sus reglas\xfffey sus viejas costumbres.
+Centro Pokémon
+Las populares playas de arena fina\xfffese llenan de turistas cada verano.
+Centro Pokémon
+Pueblo que sirve de base para\xfffeel mantenimiento de los trenes.
+Ciudad moderna en continua evolución\xfffeque atrae gente de todas partes.
+Centro Pokémon
+Lugar muy popular entre los amantes\xfffede la naturaleza.
+Centro Pokémon
+Un rascacielos que es un punto\xfffede unión de gentes y culturas.
+Un laboratorio donde se investigan\xfffelos Pokémon de otras regiones.
+Una vieja fábrica derruida, lugar de\xffferecreo de niños y Pokémon.
+Los troncos huecos de los árboles\xfffecaídos son pasadizos naturales.
+Muchos turistas lo visitan, aunque\xfffeno sea el lugar ideal de vacaciones.
+Ruinas de un pasado esplendoroso\xfffeenterrado bajo la arena.
+Toneladas de mercancías se\xfffeconservan aquí a baja temperatura.
+Un potente magnetismo hace flotar\xfffelas rocas electrificadas de la cueva.
+Una explotación de donde se obtienen\xfffeminerales de la más alta calidad.
+La torre más antigua de Teselia,\xfffeerigida en tiempos inmemoriales.
+Pendientes de vértigo son la última\xfffebarrera antes de la Liga Pokémon.
+Dicen que este enorme agujero trae\xfffedesgracias a los que se acercan.
+Una isla en la que se vela por\xfffela libertad de Pokémon y humanos.
+Un laboratorio secreto en una isla\xffferecóndita.
+Un depósito natural subterráneo\xfffede agua de lluvia.
+Una cueva olvidada por los humanos\xfffeque esconde indicios de leyenda.
+Dicen que la campana de esta\xfffegrandiosa torre purifica el alma.
+Un pantano originado por el agua\xfffeestancada en una planicie.
+Antaño hubo aquí una aldea cuya\xfffeatmósfera aún se respira en el aire.
+Un mar famoso en todo el mundo\xfffepor el esplendor de sus olas.
+Un bosque misterioso donde perderse\xfffees más fácil de lo que parece.
+Un camino junto al mar donde\xfffese puede contemplar el paisaje.
+Un camino tranquilo donde practicar\xfffecon Entrenadores principiantes.
+Hierba alta y un gran estanque a lo\xfffelargo de este camino serpenteante.
+Las tormentas de arena entorpecen\xfffela construcción de carreteras.
+Los artistas más variopintos pasan\xfffea todas horas por esta bohemia ruta.
+Frondosos árboles crecen a ambos\xfffelados de este camino rural.
+Largas barras de equilibrio cruzan\xfffeel terreno evitando la hierba alta.
+Cuando llueve, es un barrizal. Hay\xfffePokémon escondidos en las charcas.
+Una carretera asfaltada que hace\xfffelas delicias de los Moteros.
+Centro Comercial
+Entrenadores expertos coinciden en\xfffela ruta que va al punto de control.
+Una ruta creada para admirar\xfffesu espléndida cascada.
+Una ruta con pequeños montículos\xfffepor la que da gusto pasearse.
+Una ruta costera famosa por sus\xfffebancos de arena sobre el agua.
+Una ruta envuelta en la tenue bruma\xfffeque emana de los saltos de agua.
+Ruta entre escarpados precipicios\xfffeque impresionan a los caminantes.
+Lugar en el que los que van a Ciudad\xfffeMayólica hacen un alto en el camino.
+Las fuertes corrientes de agua\xfffedificultan el paso por esta ruta.
+Ciertos investigadores creen que fue\xfffeadyacente a la Zona Desierto.
+Cuatro pilares sostienen el puente\xfffemás grande y largo de Teselia.
+Un puente levadizo que permite\xfffeel tráfico fluvial.
+Un robusto puente de acero.\xfffeEl metro pasa por su nivel inferior.
+Un viejo puente construido por\xfffelos pioneros que llegaron a Teselia.
+Un puente de alta tecnología\xfffediseñado para atenuar impactos.
+Un lugar en el centro de Teselia\xfffeque alberga un misterioso poder.
+Los Entrenadores entran aquí para\xfffeprogresar sin importarles el peligro.
 イッシュを　みわたせるほど　たかい\xfffeやまの　すそのに　ひろがる　まち
 ヒオウギシティジム
 トレーナーズスクール
