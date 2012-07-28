@@ -68,7 +68,7 @@ Puente Axial
 Puente Villa
 Puente Progreso
 Zona Nexo
-Santuario Abundanza
+Santuario Abundancia
 Bahía Arenisca
 Bosque de los Perdidos
 Cámara de Pruebas
@@ -116,10 +116,10 @@ Entrada Puente
 Entrada Ruta
 Ruinas Submarinas
 Ciudad Engobe
-Ciudad Tachiwaki
+Ciudad Hormigón
 Ciudad Seigaiha
 Pokéwood
-Avenida Unido
+Avenida Unión
 Pueblo Sangi
 Pueblo Yamaji
 Ruta 19
@@ -129,24 +129,24 @@ Ruta 22
 Ruta 23
 Alcan. Porcelana
 Hacienda Sangi
-Ciudad Tachiwaki
+Complejo Indus. Hormigón
 Monte Renacimiento
 Casa Forestera
-Carretera del Campeón
-Frigata Plasma
+Carretera del Campéon
+Fragata Plasma
 Fisura Ancestral
 Calle Arcilla
 －－－－－－－－－－
-Hueco del Arbol Blanco
+Árbolhueco Blanco
 Rascacielos Negro
 Cueva de Playa
 Corazón Hueco
-Agujero escondido
+Hueco de árbol
 Tubo Marino
-Tachiwaki Zona Indust.
+Portón Hormigón
 Entrada Engobe
 Reserva Natural
-Secretaría de las Medallas
+Secretariato de Medallas
 Ruinas Subterráneas
 Cámara de Roca
 Cámara de Hielo
