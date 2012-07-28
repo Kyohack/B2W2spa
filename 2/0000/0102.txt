@@ -1,2 +1,2 @@
-つうしんエラーが　はっせいしました
-つうしんエラーが　はっせいしました\xfffeでんげんを　きってください
+Error de conexión.
+Error de conexión.\xfffePor favor, apaga la consola.
