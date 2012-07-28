@@ -1,30 +1,30 @@
-ロードしています\xfffeしばらく　おまちください
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　ポケシフターを\xfffeきどうしなおして　ください\xf000븁\x0000
-ポケシフター　きどうちゅう……\xfffeまもなく　はじまります
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-レポートに　かきこみました\xf000븂\x0001<
-もういちど　ポケシフターで\xfffeあそびますか？
-ポケシフターを　しゅうりょうします\xfffeでんげんを　きって\xfffeしゅうりょうしてください
-もう１つの　ＤＳに\xfffeボックスの　あきが　たりません\xf000븁\x0000
-ポケシフターで　つかまえられる\xfffeポケモンが\xfffeボックスに　６ひき　いません\xf000븁\x0000
-データの　よみこみに\xfffeしっぱい　しました\xf000븁\x0000
-もう１つの　ＤＳの\xfffeせつぞくに　しっぱい　しました\xf000븁\x0000
-データの　かきこみに\xfffeしっぱい　しました\xf000븁\x0000
-つれてきた　ポケモンは\xfffeもう　もとの　ばしょには\xf000븁\x0000\xfffeもどれませんが\xfffeほんとうに　よろしいですか？
-ポケモンを　もとのちほうに\xfffeかえしました\xf000븁\x0000
-レポートを　よみこむことが\xfffeできませんでした\xfffeレポートが　かかれていないか\xfffeこわれている　かのうせいがあります\xf000븁\x0000
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　ポケシフターを\xfffeきどうしなおして　ください\xf000븁\x0000
-はい
-いいえ
-Ｌｖ．\xf000Ȃ\x0001\x0000
-タマゴは　ポケシフターで\xfffeつかまえることが　できません
-ひでんわざを　おぼえている　ポケモンは\xfffeポケシフターで　つかまえられません
-このポケモンは　ポケシフターで\xfffeつかまえられません
-この６ひきで　よろしいですか？
-オウ！\xf000븁\x0000\xfffeこの　ギザみみピチューは\xfffeもとの　ばしょに\xf000븀\x0000\xfffeステイさせたほうが　よさそうだ！\xf000븁\x0000\xfffeこのピチューは　ときわたりで\xfffeやってきた　ポケモンらしいね\xf000븁\x0000\xfffeみたところ　この　ピチューは\xfffeセレビィと　いっしょに　ながい　じかん\xf000븀\x0000\xfffeわたってきた　えいきょうが　からだに\xf000븀\x0000\xfffeのこってる　みたいだ\xf000븁\x0000\xfffeつれてくるのは　デンジャラス！\xfffeベリー　デンジャラスッ！\xf000븁\x0000\xfffeもとの　ばしょに　いるほうが\xfffeピチューに　とっても　ベストだろう！
-もっている　どうぐは　バッグに\xfffeもどりますが　よろしいですか？
-バッグに　いっぱいの　どうぐは\xfffeきえてしまいますが　よろしいですか？
-ポケシフターを　しゅうりょうしますか？
-ポケモンを　６ひき　えらんで\xfffeタッチペンをつかって　みぎのわくに\xfffeスライドさせて　ください
-じかんないに　ポケモンを\xfffeぜんぶ　つかまえろ！
-デバッグROM\xfffeDP　Y\xfffePT　X\xfffeGS　A
+Leyendo datos...\xfffePor favor, espera.
+No se ha insertado una tarjeta DS\xfffecompatible. Apaga la consola,\xfffeinserta una tarjeta DS compatible y\xfffeactiva de nuevo el Pokétransfer.\xf000븁\x0000
+Activando el Pokétransfer...\xfffeEspera un instante.
+Guardando...\xfffeNo apagues la consola.
+Se han guardado los datos.\xf000븂\x0001<
+¿Quieres usar el Pokétransfer de nuevo?
+La sesión del Pokétransfer\xfffeha finalizado.\xfffeApaga la consola.
+No hay suficiente espacio en\xfffelas Cajas de la otra consola\xfffeNintendo DS.\xf000븁\x0000
+Debes tener al menos seis Pokémon\xfffeen las Cajas para poder usar\xfffeel Pokétransfer.\xfffeNo tienes suficientes.\xf000븁\x0000
+No se han podido leer los datos.\xf000븁\x0000
+No se ha podido conectar con la\xfffeotra consola Nintendo DS.\xf000븁\x0000
+Error de escritura de datos.\xf000븁\x0000
+No podrás enviar de vuelta a su juego\xfffede origen los Pokémon que transfieras.\xf000븁\x0000\xfffe¿Estás de acuerdo?
+Los Pokémon han regresado a su región\xfffede origen.\xf000븁\x0000
+No se han podido leer los datos.\xfffeEs posible que no haya datos\xfffeguardados o que estos estén\xfffedañados.\xf000븁\x0000
+La tarjeta DS no se ha insertado\xfffecorrectamente. Apaga la consola,\xfffevuelve a insertar la tarjeta y\xfffeactiva de nuevo el Pokétransfer.\xf000븁\x0000
+SÍ
+NO
+Nv. \xf000Ȃ\x0001\x0000
+No puedes usar un Huevo en el Pokétransfer.
+No puedes usar Pokémon que conozcan\xfffemovimientos ocultos en el Pokétransfer.
+Este Pokémon no se puede atrapar\xfffecon el Pokétransfer.
+¿Elegir estos seis Pokémon?
+¡Oh!\xf000븁\x0000\xfffeParece que este Pichu Picoreja\xfffedebería quedarse donde está.\xf000븁\x0000\xfffeAparentemente, es un Pokémon que\xfffeha viajado en el tiempo.\xf000븁\x0000\xfffeParece que su cuerpo ha sufrido algunos\xfffeefectos por haber viajado con Celebi\xf000븀\x0000\xfffedesde una época muy lejana.\xf000븁\x0000\xfffeSería muy, pero que muy peligroso\xfffetransferir este Pokémon.\xf000븁\x0000\xfffeEs mucho mejor para él que se quede\xfffedonde está.
+Los objetos que llevan se guardarán\xfffeen la Bolsa. ¿Estás de acuerdo?
+Al superar el límite de objetos en la Bolsa,\xfffeperderás los sobrantes. ¿Estás de acuerdo?
+¿Quieres abandonar el Pokétransfer?
+Selecciona seis Pokémon y arrástralos con\xfffeel lápiz táctil hasta la barra de la derecha.
+¡Atrapa los Pokémon antes de que\xfffese agote el tiempo!
+DebugROM\xfffeDP　Y\xfffePT　X\xfffeGS　A
