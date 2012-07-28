@@ -1,112 +1,112 @@
-なまえ
-　
-せいかく
-ずかん
-おこづかい
-ＩＤＮｏ．
-プレイじかん
-ぼうけんを　はじめたとき
-はじめての　でんどういり
-つうしん　かいすう
-つうしん　たいせん
-つうしん　たいせん　かち
-つうしん　たいせん　まけ
-つうしん　こうかん
-とびだしてきた　ポケモンの　かず
-トレーナーと　めが　あった　かいすう
-すれちがった　にんずう
-フィーリングチェック
-つかえる　デルパワー
-ミュージカル　さんか　かいすう
-ポケシフター　ハイスコア
-バトルけんてい　ハイスコア
-フェスミッション　クリアすう
-ポケウッド　さつえい　かいすう
-ＰＷＴ　ゆうしょう　かいすう
+NOMBRE
+
+CARÁCTER
+POKÉDEX
+DINERO
+N.º ID:
+TIEMPO DE JUEGO:
+COMIENZO AVENTURA:
+DEBUT EN HALL DE LA FAMA:
+NÚMERO DE CONEXIONES:
+COMBATES EN CONEXIÓN:
+VICTORIAS EN CONEXIÓN:
+DERROTAS EN CONEXIÓN:
+INTERCAMBIOS POR CONEXIÓN:
+POKÉMON ENCONTRADOS:
+ENTRENADORES ENCONTRADOS:
+PERSONAS ENCUESTADAS:
+TEST DE COMPATIBILIDAD:
+PODERES REGALO DISPONIBLES:
+PARTICIPACIONES EN MUSICAL:
+RÉCORD EN EL POKÉTRANSFER:
+RÉCORD EN EL TEST DE COMBATE:
+MISIONES FES
+Peliculas PokéStar Studio
+Retos PWT
 \xf000Ĺ\x0001\x0007に
-あんないした　ひとの　かず
+Peliculas dirigidas
 ：
 －－－－年 －－月 －－日 －－時 －－分
 ーー：ーー
-もどる
-タッチで　めくる
-サインを　かく
-トレーナーカードに\xfffeサインを　かきますか？
-いま　かかれている　サインは\xfffeきえますが　よろしいですか？
-がんばりや
-さみしがり
-ゆうかん
-いじっぱり
-やんちゃ
-ずぶとい
-すなお
-のんき
-わんぱく
-のうてんき
-おくびょう
-せっかち
-まじめ
-ようき
-むじゃき
-ひかえめ
-おっとり
-れいせい
-てれや
-うっかりや
-おだやか
-おとなしい
-なまいき
-しんちょう
-きまぐれ
+VOLVER
+Toca para girar.
+FIRMAR
+¿Quieres firmarxfffe su tarjeta de entrenador?
+Su firma actual se borrará. \xfffe¿Es correcto?
+Fuerte
+Huraño
+Audaz
+Firme
+Pícaro
+Osado
+Dócil
+Plácido
+Agitado
+Flojo
+Miedoso
+Activo
+Serio
+Alegre
+Ingenuo
+Modesto
+Afable
+Manso
+Tímido
+Alocado
+Sereno
+Amable
+Grosero
+Cauto
+Raro
 \xf000Ȅ\x0001\x0000
 \xf000Ȇ\x0001\x0000円
 \xf000ȃ\x0001\x0000年 \xf000ȁ\x0001\x0001月 \xf000ȁ\x0001\x0002日
 \xf000ȃ\x0001\x0000年 \xf000ȁ\x0001\x0001月 \xf000ȁ\x0001\x0002日 \xf000ȁ\x0001\x0003時 \xf000ȁ\x0001\x0004分
 \xf000Ȃ\x0001\x0000ひき
-ヒオウギシティ　ジムリーダー\xfffeチェレン
-しんりを　もとめる　もの
-みんなの　ゆめは　それぞれ　ちがう\xfffeきみは　きみが　したいことを　さがせ
-タチワキシティ　ジムリーダー\xfffeホミカ
-ポイズンライフ　ポイズンライブ！
-ともだちのため　ポケモンのため\xfffeノー！　というのも　やさしさでしょ！
-ヒウンシティ　ジムリーダー\xfffeアーティ
-モスト　インセクト　アーティスト
-あー　そーだねー　キミ\xfffeむしポケモン　つかいなよ
-ライモンシティ　ジムリーダー\xfffeカミツレ
-シャイニング　ビューティ
-あなたじしんが　まぶしければ\xfffeしぜんと　まわりも　かがやくわ！
-ホドモエシティ　ジムリーダー\xfffeヤーコン
-アンダーグラウンド　ボス
-じぶんを　だますなよ！\xfffeしょうじきに　いきるのが　いちばんだ
-フキヨセシティ　ジムリーダー\xfffeフウロ
-おおぞらの　ぶっとびガール
-そらを　みあげるのは　あこがれ！\xfffeとぶには　プラス　こうどう　だよ！
-ソウリュウシティ　ジムリーダー\xfffeシャガ
-スパルタン　メイヤー
-まっすぐな　こころの　トレーナーよ\xfffeしなやかで　あれ！　しなやかで！
-セイガイハシティ　ジムリーダー\xfffeシズイ
-うみよりも　うみな　おとこ！
-じんせいを　あらなみに　たとえるのも\xfffeちんぷだが　おはん　ながされるなよ！
-ベーシックバッジ\xfffe\xf000ȃ\x0001\x0000年\xf000ȁ\x0001\x0001月\xf000ȁ\x0001\x0002日　かくとく
-ひとからもらった　レベル２０までの\xfffeポケモンが　いうことをきいてくれる
+Primera Medalla.\xfffePueblo Engobe
+Lider: Cheren
+Especialidad: Normal\xfffe¡Has derrotado a este Líder!
+Segunda Medalla.\xfffeCiudad Tachiwaki
+Lider: Hiedra
+Especialidad: Veneno\xfffe¡Has derrotado a este Líder!
+Tercera Medalla.\xfffeCiudad Porcelana
+Lider: Camus
+Especialidad: Bicho\xfffe¡Has derrotado a este Líder!
+Cuarta Medalla.\xfffeCiudad Mayólica
+Lider: Camila
+Especialidad: Electricidad\xfffe¡Has derrotado a este Líder!
+Quinta Medalla.\xfffeCiudad Fayenza
+Lider: Yakón
+Especialidad: Tierra\xfffe¡Has derrotado a este Líder!
+Sexta Medalla.\xfffeCiudad Loza
+Lider: Gerania
+Especialidad: Volador\xfffe¡Has derrotado a este Líder!
+Séptima Medalla.\xfffeCiudad Caolín
+Lider: Lirio
+Especialidad: Dragón\xfffe¡Has derrotado a este Líder!
+Octava Medalla.\xfffePueblo Seigaiha
+Lider: Shizui
+Especialidad: Agua\xfffe¡Has derrotado a este Líder!
+Medalla Base\xfffeConseguida el \xf000ȁ\x0001\x0002-\xf000ȁ\x0001\x0001-\xf000ȃ\x0001\x0000.
+Los Pokémon de hasta Nivel 20 que\xfffehayas intercambiado te obedecerán.
 
-トキシックバッジ\xfffe\xf000ȃ\x0001\x0000年\xf000ȁ\x0001\x0001月\xf000ȁ\x0001\x0002日　かくとく
-ひとからもらった　レベル３０までの\xfffeポケモンが　いうことをきいてくれる
+Medalla Tóxica\xfffeConseguida el \xf000ȁ\x0001\x0002-\xf000ȁ\x0001\x0001-\xf000ȃ\x0001\x0000.
+Los Pokémon de hasta Nivel 30 que\xfffehayas intercambiado te obedecerán.
 
-ビートルバッジ\xfffe\xf000ȃ\x0001\x0000年\xf000ȁ\x0001\x0001月\xf000ȁ\x0001\x0002日　かくとく
-ひとからもらった　レベル４０までの\xfffeポケモンが　いうことをきいてくれる
+Medalla Élitro\xfffeConseguida el \xf000ȁ\x0001\x0002-\xf000ȁ\x0001\x0001-\xf000ȃ\x0001\x0000.
+Los Pokémon de hasta Nivel 40 que\xfffehayas intercambiado te obedecerán.
 
-ボルトバッジ\xfffe\xf000ȃ\x0001\x0000年\xf000ȁ\x0001\x0001月\xf000ȁ\x0001\x0002日　かくとく
-ひとからもらった　レベル５０までの\xfffeポケモンが　いうことをきいてくれる
+Medalla Voltio\xfffeConseguida el \xf000ȁ\x0001\x0002-\xf000ȁ\x0001\x0001-\xf000ȃ\x0001\x0000.
+Los Pokémon de hasta Nivel 50 que\xfffehayas intercambiado te obedecerán.
 
-クエイクバッジ\xfffe\xf000ȃ\x0001\x0000年\xf000ȁ\x0001\x0001月\xf000ȁ\x0001\x0002日　かくとく
-ひとからもらった　レベル６０までの\xfffeポケモンが　いうことをきいてくれる
+Medalla Temblor\xfffeConseguida el \xf000ȁ\x0001\x0002-\xf000ȁ\x0001\x0001-\xf000ȃ\x0001\x0000.
+Los Pokémon de hasta Nivel 60 que\xfffehayas intercambiado te obedecerán.
 
-ジェットバッジ\xfffe\xf000ȃ\x0001\x0000年\xf000ȁ\x0001\x0001月\xf000ȁ\x0001\x0002日　かくとく
-ひとからもらった　レベル７０までの\xfffeポケモンが　いうことをきいてくれる
+Medalla Jet\xfffeConseguida el \xf000ȁ\x0001\x0002-\xf000ȁ\x0001\x0001-\xf000ȃ\x0001\x0000.
+Los Pokémon de hasta Nivel 70 que\xfffehayas intercambiado te obedecerán.
 
-レジェンドバッジ\xfffe\xf000ȃ\x0001\x0000年\xf000ȁ\x0001\x0001月\xf000ȁ\x0001\x0002日　かくとく
-ひとからもらった　レベル８０までの\xfffeポケモンが　いうことをきいてくれる
+Medalla Leyenda\xfffeConseguida el \xf000ȁ\x0001\x0002-\xf000ȁ\x0001\x0001-\xf000ȃ\x0001\x0000.
+Los Pokémon de hasta Nivel 80 que\xfffehayas intercambiado te obedecerán.
 
-ウェーブバッジ\xfffe\xf000ȃ\x0001\x0000年\xf000ȁ\x0001\x0001月\xf000ȁ\x0001\x0002日　かくとく
-ひとからもらった　すべての\xfffeポケモンが　いうことをきいてくれる
+Medalla Ola\xfffeConseguida el \xf000ȁ\x0001\x0002-\xf000ȁ\x0001\x0001-\xf000ȃ\x0001\x0000.
+Todos los Pokémon que hayas\xfffeintercambiado te obedecerán.
