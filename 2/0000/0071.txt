@@ -1,6 +1,6 @@
-けってい
-やめる
-なにか　ことばを　いれてください
-メールを　もたせるのを\xfffeやめますか？
-はい
-いいえ
+VALE
+SALIR
+Termina la Carta.
+¿Prefieres no dar la Carta al Pokémon?
+SÍ
+NO
