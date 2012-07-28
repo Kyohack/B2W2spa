@@ -1,17 +1,17 @@
-メールボックス
+BUZÓN
 \xf000Ȁ\x0001\x0000
 ／
-やめる
-とじる
-メールを　よむ
-メールを　けす
-もたせる
-やめる
-\xf000Ā\x0001\x0000の\xfffeメールを　どうしますか？
-ないようは　きえて　しまいますが\xfffeよろしいですか？
-ないようを　けしました
-ポケモンに　もたせますか？
-ないようを　けした　メールを\xfffeバッグに　しまいました
-バッグが　いっぱいです……\xfffeメールを　すてました
-はい
-いいえ
+VOLVER
+SALIR
+LEER
+BORRAR
+DAR
+SALIR
+¿Qué deseas hacer con la Carta\xfffede \xf000Ā\x0001\x0000?
+Se borrará el mensaje.\xfffe¿Estás de acuerdo?
+Se ha borrado el mensaje.
+¿Quieres darle la Carta a un Pokémon?
+Se ha borrado el mensaje y se ha\xfffepuesto la Carta en la Bolsa.
+La Bolsa está llena.\xfffeLa Carta se ha desechado.
+SÍ
+NO
