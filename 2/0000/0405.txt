@@ -1,19 +1,19 @@
-シングルバトル
-ダブルバトル
-トリプルバトル
-ローテーションバトル
-チャンピオンズトーナメント
-ダウンロードトーナメント
-ホドモエトーナメント
-イッシュリーダーズトーナメント
-カントーリーダーズトーナメント
-ジョウトリーダーズトーナメント
-ホウエンリーダーズトーナメント
-シンオウリーダーズトーナメント
-ワールドリーダーズトーナメント
-レンタルトーナメント
-レンタルマスタートーナメント
-ミックストーナメント
-ミックスマスタートーナメント
-タイプエキスパートトーナメント
-？？？？？
+Batalla Individual
+Batalla Doble
+Batalla Triple
+Batalla Rotatoria
+TORNEO DE CAMPEONES
+TORNEO DESCARGA
+TORNEO FAYENZA
+TORNEO LÍDERES DE TESELIA
+TORNEO LÍDERES DE KANTO
+TORNEO LÍDERES DE JOHTO
+TORNEO LÍDERES DE HOENN
+TORNEO LÍDERES DE SINNOH
+TORNEO LÍDERES DEL MUNDO
+TORNEO ALQUILER
+TORNEO ALQUILER MASTER
+TORNEO MIX
+TORNEO MIX MASTER
+TORNEO DE TIPO EXPERTO
+?????
