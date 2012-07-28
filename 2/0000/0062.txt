@@ -1,47 +1,47 @@
-たいせん
-こうかん
-もどる
-ふたりで　たいせん
-４にんで　たいせん
-シングルバトル
-ダブルバトル
-トリプルバトル
-たいせん　あいてと\xfffeせきがいせんつうしんを　してください
-パートナーとなる　あいてと\xfffeせきがいせんつうしんを　してください
-リーダーに　なりました！
-たいせん　あいての　リーダーと\xfffeせきがいせんつうしんを　してください
-しばらく　おまちください
-ともだちコード
-フィーリング\xfffeチェック
-ちゅうだんしますか？
-こうかんする　あいてと\xfffeせきがいせんつうしんを　してください
-ポケモンこうかん
-てもち
-こうかんしますか？
-Ｌｖ．\xf000Ȃ\x0001\x0000
-しゅうりょうしますか？
-こうかんしました
-しばらく　おまちください
-あそぶないようが　ちがったので\xfffeさいしょに　もどります
-ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか？
-はい
-いいえ
-ポケモンレポートに　かきこんでいます\xfffeでんげんを　きらないでください
-こうかんを　かいしします\xfffeしばらく　おまちください
-たいせんを　かいしします\xfffeしばらく　おまちください
-ローテーションバトル
-ともだちコードの　こうかん　あいてと\xfffeせきがいせんつうしんを　してください
-ともだちリストが　いっぱいです\xfffeともだちを　とうろく　できません
-\xf000봂\x0000とうろくにんずう\xfffe\xf000봂\x0000\xf000ȁ\x0001\x0000／３２
-けってい
-この　にんずうで　よろしいですか？
-さんかする　メンバー　ぜんいんと\xfffeせきがいせんつうしんを　してください
-えんもくを　きめた　リーダーと\xfffeせきがいせんつうしんを　してください
-\xf000Ȁ\x0001\x0000にんと　つうしんちゅう\xfffe　けっていで　すすむ
-バトルボックスで　たたかう
-てもちで　たたかう
-ともだちリストに\xfffeとうろく　しました！
-ともだちリストを\xfffeこうしん　しました！
-こうかんには　てもちの　ポケモンが\xfffe２ひき　いじょう　ひつようです
-すでに　べつの　ポケモンレポートが\xfffeかかれていますので\xf000븀\x0000\xfffeレポートが　かけません！\xf000븁\x0000\xfffeくわしくは\xfffeとりあつかいせつめいしょを\xf000븀\x0000\xfffeごらんください
-いっしょに　あそぶ　ともだちと\xfffeせきがいせんつうしんを　してください
+Combate
+Intecambio
+SALIR
+2 JUGADORES
+4 JUGADORES
+INDIVIDUAL
+DOBLE
+TRIPLE
+Crea una conexión de infrerrojos\xfffecon tu oponente(s).
+Crea una conexión de infrerrojos\xfffecon tu compañero.
+Eres el lider!
+Crea una conexión de infrerrojos\xfffecon el lider de tus oponentes.
+Por favor espera un momento.
+Codigo Amigo
+Afinidad\xfffeComprobar
+¿Vas a abandonar?
+Crea una conexión de infrerrojos\xfffecon tu compañero de intercambios.
+Intercambio Pokémon
+Objeto equipado
+¿Vas a cambiar de pokémon?
+Lv. \xf000Ȃ\x0001\x0000
+¿Apagar el enlace?
+¡Intercambiado!
+Por favor espera un momento.
+Tu y tu amigo no seleccionasteis la\xfffemisma cosa, volviendo al menu.
+¿Quieres guardar la partida?
+SÍ
+NO
+Guardando...\xfffeNo apagues la consola.
+El intercambio va a comenzar...\xfffPor favor espera un momento.
+La batalla va a comenzar...\xfffePor favor espera un momento.
+Batalla rotatoria
+Crea una conexión de infrerrojos\xfffecon tu amigo y cambia el Código Amigo.
+La lista de amigos esta llena\xfffeNo puedes registrar un nuevo amigo
+\xf000봂\x0000AmigosRegistrados\xfffe\xf000봂\x0000\xf000ȁ\x0001\x0000/32
+CONFIRMAR
+¿Estan los números de los equipos correctos?
+Crea una conexión de infrerrojos\xfffecon todos los participantes.
+Crea una conexión de infrerrojos\xfffecon el lider.
+Comunicandose con la\xf000Ȁ\x0001\x0000 gente.\xfffeCONFIRMAR: Proceder
+BATALLA USANDO CAJA BATALLA
+BATALLA USANDO TU EQUIPO
+Tu amigo ha sido registrado\xfffeEn el lista de amigos.
+¡La lista de amigos ha sido actualizada!
+¡Necesitas por los menos 2 pokémon\xfffesi quieres intercambiar!
+Ya hay una partida guardada.\xfffeEs imposible guardar.\xf000븁\x0000\xfffePor favor mira las intrucciones\xfffeel manual para detalles.\xf000븁\x0000\xfffePresiona Arriba + SELECT + B en\xfffela pantalla princial si quieres borrar\xf000븀\x0000\xfffela partida guardada actual.
+Crea una conexión de infrerrojos\xfffecon el amigo que quieras jugar.
