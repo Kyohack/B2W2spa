@@ -1,37 +1,37 @@
 \xf000Ā\x0001\x0000
 ＩＤ\xf000Ȅ\x0001\x0000
-あと\xf000Ȁ\x0001\x0000にん　ひつよう
-あと\xf000Ȁ\x0001\x0000にん　まで
-マルチバトル　ぼしゅうちゅう！
-ミュージカル　ぼしゅうちゅう！
-バトルサブウェイ　ぼしゅうちゅう！
-\xf000Ā\x0001\x0000\xf000봅\x0001FＩＤ：\xf000Ȅ\x0001\x0001
-さんか　メンバーを　まっています\xfffeＢボタン：やめる
-メンバーが　そろったら\xfffeＡボタン：すすむ　Ｂボタン：やめる
-\xf000Ā\x0001\x0000から　れんらくあり！\xfffeメンバーに　しますか？
-このメンバーで　よろしいですか？
-マルチバトルを　やめますか？
-ミュージカルを　やめますか？
-バトルサブウェイを　やめますか？
-リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか？
-それでは　マルチバトルを\xfffeちゅうし　します
-それでは　ミュージカルを\xfffeちゅうし　します
-それでは　バトルサブウェイを\xfffeちゅうし　します
+Esperando a \xf000Ȁ\x0001\x0000 más.
+N.º de plazas libres: \xf000Ȁ\x0001\x0000.
+Reuniendo jugadores para Comb. Múltiple.
+Reuniendo jugadores para el Musical.
+Reuniendo jugadores para Metro Batalla.
+\xf000Ā\x0001\x0000\xf000봅\x0001F ID: \xf000Ȅ\x0001\x0001
+Esperando a otros participantes...\xfffeBotón B: Cancelar
+Cuando los participantes estén listos...\xfffeBotón A: Continuar Botón B: Cancelar
+\xf000Ā\x0001\x0000 ha contactado contigo.\xfffe¿Puede unirse a tu grupo?
+¿Te parece bien este grupo?
+¿Quieres abandonar el Combate Múltiple?
+¿Quieres salir del Musical?
+¿Quieres salir del Metro Batalla?
+Si el anfitrión abandona, el grupo se\xfffedisolverá. ¿Quieres continuar?
+Se cancelará el Combate Múltiple.
+Se cancelará el Musical.
+Se cancelará el Metro Batalla.
 つごうの　わるくなってしまった\xfffeメンバーが　います
-メンバーが　いなくなりました\xfffeマルチバトルを　ちゅうし　します
-そのまま　おまちください\xfffeＢボタン：やめる
-そのまま　おまちください
-つごうが　わるくなりました\xfffeマルチバトルを　ちゅうし　します\xf000븂\x0001<
-つごうが　わるくなりました\xfffeミュージカルを　ちゅうし　します\xf000븂\x0001<
-つごうが　わるくなりました\xfffeバトルサブウェイを　ちゅうし　します\xf000븂\x0001<
+No hay miembros.\xfffeSe cancelará el Combate Múltiple.
+Por favor, espera.\xfffeBotón B: Cancelar
+Por favor, espera.
+Se ha perdido la conexión.\xfffeSe cancelará el Combate Múltiple.\xf000븂\x0001<
+Se ha perdido la conexión.\xfffeSe cancelará el Musical.\xf000븂\x0001<
+Se ha perdido la conexión.\xfffeSe cancelará el Metro Batalla.\xf000븂\x0001<
 \xf000ȁ\x0001\x0000:
-\xf000ȁ\x0001\x0000:\xf000Ā\x0001\x0001\xf000봅\x0001jＩＤ：\xf000Ȅ\x0001\x0002
-ミュージカルをする　ともだちを\xfffeえらんでください
-バトルサブウェイをする　ともだちを\xfffeえらんでください
-メンバーが　そろいました！\xfffeそれでは　こちらへ　どうぞ！
-\xf000Ā\x0001\x0000から　ＮＧとの\xfffeへんじが　きてしまいました……\xf000븂\x0001<
-\xf000Ā\x0001\x0000の　へんじを　まっています\xfffeＢボタン：やめる
-\xf000Ā\x0001\x0000から　ＯＫとの\xfffeへんじが　きました\xf000븂\x0001<
-そのまま　おまちください\xfffeＢボタン：やめる
-メンバーから　ぬけますか？
-つごうが　わるいみたい……\xf000븂\x0001<
+\xf000ȁ\x0001\x0000: \xf000Ā\x0001\x0001\xf000봅\x0001j ID: \xf000Ȅ\x0001\x0002
+Elige con quién quieres participar\xfffeen el Musical.
+Elige con quién quieres participar\xfffeen el Metro Batalla.
+Los miembros se han reunido.\xfffePor favor, entra en la sala.
+\xf000Ā\x0001\x0000 respondió con un “No"...\xf000븂\x0001<
+Esperando respuesta de \xf000Ā\x0001\x0000.\xfffeBotón B: Cancelar
+\xf000Ā\x0001\x0000 respondió con\xfffeun “Vale".\xf000븂\x0001<
+Por favor, espera.\xfffeBotón B: Cancelar
+¿Te sales del grupo?
+Parece que hay un problema...\xf000븂\x0001
