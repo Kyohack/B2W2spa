@@ -1,69 +1,69 @@
-ともだち　てちょう
-ともだちリストを　みる
-ともだちコードを　とうろく
-\xf000Ā\x0001\x0000の　ともだちコード
-とじる
-ともだちリスト
+BLOC DE AMIGOS
+VER LISTA DE AMIGOS
+REGISTRAR CLAVE DE AMIGO
+CLAVE DE \xf000Ā\x0001\x0000
+SALIR
+LISTA DE AMIGOS
 \xf000Ā\x0001\x0000
 \xf000봂\x0000もどる
-くわしく　みる
-なまえを　かきかえる
-さくじょ　する
-やめる
-\xf000Ā\x0001\x0000の　データを\xfffeどうしますか？
-\xf000Ā\x0001\x0000との　きろく
+DETALLES
+EDITAR NOMBRE
+BORRAR
+SALIR
+¿Qué quieres hacer con los datos\xfffede \xf000Ā\x0001\x0000?
+HISTORIAL CON \xf000Ā\x0001\x0000
 \xf000봂\x0000Ａ：まえの　がめんに　もどります
-グループ
+GRUPO
 \xf000Ā\x0001\x0000
 \xf000봂\x0000\xf000Ā\x0001\x0000
 \xf000봂\x0000\xf000ȁ\x0001\x0000／\xf000ȁ\x0001\x0001
-たいせんせいせき
-かち
-まけ
+HISTORIAL COMBATES
+VICT.
+DERR.
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-ポケモンこうかん
+INTERCAMB. PKMN
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 りょうりかいすう
 \xf000ȃ\x0001\x0000
-さいごにあそんだひづけ
+FECHA ÚLTIMO ENCUENTRO
 \xf000ȃ\x0001\x0000／\xf000ȁ\x0001\x0001／\xf000ȁ\x0001\x0002
-バトルタワー
-バトルファクトリー
-バトルキャッスル
-バトルステージ
-バトルルーレット
-ぜんかい
-げんざい
-さいこう
+Torre de batalla
+Factoria de batalla
+Castillo de batalla
+Salón de batalla
+Arcade Batalla
+Anterior
+Actual
+Record
 \xf000ȃ\x0001\x0000れんしょう
-レベル５０
-オープンレベル
-レンタル／こうかん
-\xf000봃\x0001\x0000キャッスルポイント
-\xf000ā\x0001\x0000の　きろく
+Nivel 50
+Sin Nivel
+Alquiler / Comercio
+\xf000봃\x0001\x0000Puntos
+\xf000ā\x0001\x0000Record
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000かい
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000ＣＰ
-\xf000ȃ\x0001\x0000れんしょう
-\xf000ȃ\x0001\x0000ゲーム　クリア
-ひろばゲームのかいすう
-ひろばミニゲーム
+Racha de Victorias: \xf000ȃ\x0001\x0000
+Juegos jugados: \xf000ȃ\x0001\x0000
+Juegos de la plaza jugados
+Minijuegos de la plaza
 \xf000ȃ\x0001\x0000かい
-\xf000Ā\x0001\x0000の　ともだちコード
+CLAVE DE \xf000Ā\x0001\x0000
 \xf000봂\x0000もどる
 \xf000봂\x0000\xf000ȃ\x0001\x0001　\xf000ȃ\x0001\x0002　\xf000ȃ\x0001\x0003
-ともだちコードを　おしえあうと\xfffeＷｉ－Ｆｉコネクションを　つかって\xfffeとおくのともだちと\xfffeたいせんやこうかんが　たのしめます
-ともだちコードを　もらうには\xfffeいちど　Ｗｉ－Ｆｉコネクションに\xfffeせつぞく　してください
-\xf000ȃ\x0001\x0001　\xf000ȃ\x0001\x0002　\xf000ȃ\x0001\x0003\xfffe\xf000Ā\x0001\x0000を　とうろくします
-ともだちコードが　まちがっています\xfffe\xf000ȃ\x0001\x0001　\xf000ȃ\x0001\x0002　\xf000ȃ\x0001\x0003
-\xf000Ā\x0001\x0000を　けします\xfffeほんとうに　よろしいですか？
-ともだちリストが　いっぱい　です！
-おなじ　ともだちコードが\xfffeとうろく　されていました
-\xf000Ā\x0001\x0000の　ともだちコード\xfffe\xf000ȃ\x0001\x0001　\xf000ȃ\x0001\x0002　\xf000ȃ\x0001\x0003
-ともだちコードをみる
-\xf000Ā\x0001\x0000さんを　ともだちてちょう　に\xfffeとうろく　しますか？
+Si intercambias claves de amigo, podrás\xfffecombatir y realizar intercambios\xfffemediante la CWF de Nintendo.
+Conéctate a la CWF de Nintendo\xfffepara obtener tu clave de amigo.
+La clave de amigo \xf000ȃ\x0001\x0001 \xf000ȃ\x0001\x0002 \xf000ȃ\x0001\x0003\xfffede \xf000Ā\x0001\x0000 se va a registrar.
+La clave de amigo \xf000ȃ\x0001\x0001 \xf000ȃ\x0001\x0002 \xf000ȃ\x0001\x0003\xfffees incorrecta.
+Se borrará a \xf000Ā\x0001\x0000 de la lista.\xfffe¿Estás de acuerdo?
+¡Tu lista de amigos está llena!
+Esa clave de amigo ya ha sido\xffferegistrada.
+La clave de amigo de \xf000Ā\x0001\x0000 es\xfffe\xf000ȃ\x0001\x0001 \xf000ȃ\x0001\x0002 \xf000ȃ\x0001\x0003.
+VER CLAVE DE AMIGO
+Register \xf000Ā\x0001\x0000 in your\xfffePal Pad?
 ともだちリストが　いっぱい　です！\xfffeだれか　さくじょ　しますか？
-\xf000Ā\x0001\x0000さんの　とうろく　を\xfffeあきらめますか？
-\xf000Ā\x0001\x0000の　データを\xfffeさくじょ　しますか？
-はい
-いいえ
-\xf000Ā\x0001\x0000さんと　いっしょに\xfffeＷｉ－Ｆｉクラブへ　いってください
+Give up on registering\xfffe\xf000Ā\x0001\x0000?
+Delete \xf000Ā\x0001\x0000's data from\xfffeyour Friend Roster?
+SÍ
+NO
+Ve a encontrarte con \xf000Ā\x0001\x0000\xfffeen el Club Wi-Fi.
