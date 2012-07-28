@@ -1,45 +1,45 @@
-もう１つのＤＳに　ポケットモンスターの\xfffeダイヤモンド・パール・プラチナ・\xfffeハートゴールド・ソウルシルバー\xfffeいずれかの　ソフトを　セットして\xfffeでんげんを　いれた　あとに\xfffeうえがめんを　さんこうに　して\xfffe『ＤＳダウンロードプレイ』から\xfffe『ポケシフター　ＩＤ：\xf000Ȅ\x0001\x0000』を\xfffeえらんでください
-もう１つの　ＤＳに\xfffeデータを　おくっています
-もう１つの　ＤＳで\xfffeポケモンを　えらんでください
-ポケシフター　きどうちゅう
-ポケシフター　じっけんちゅう……
-じっけんデータを\xfffeじゅしん　しています
+Inserta una tarjeta DS de Pokémon\xfffeEdiciones Diamante, Perla, Platino,\xfffeHeartGold o SoulSilver y enciende\xfffela consola. Luego selecciona\xfffe“Descarga DS" y después\xfffe“ID Pokétransfer: \xf000Ȅ\x0001\x0000".
+Enviando los datos a la otra\xfffeconsola Nintendo DS...
+Selecciona los Pokémon en la otra\xfffeconsola Nintendo DS.
+Activando el Pokétransfer...
+Probando el Pokétransfer...
+Recibiendo datos de prueba...
+Guardando...\xfffeNo apagues la consola.
+Se han guardado los datos.\xf000븂\x0001<
+Finalizando la sesión\xfffedel Pokétransfer...\xf000븂\x0001<
+¿Quieres abandonar el Pokétransfer?
+No se ha podido conectar con la\xfffeotra consola Nintendo DS.\xf000븁\x0000
+Esperando confirmación de la otra\xfffeconsola Nintendo DS...
+ID Pokétransfer: \xf000Ȅ\x0001\x0000
+Pokémon Edición Negra 2\xfffeAplicación Pokétransfer
+Pokémon Edición Blanca 2\xfffeAplicación Pokétransfer
+ID Trasladador PKMN: \xf000Ȅ\x0001\x0000
+Pokémon Edición Negra 2\xfffeAplicación Trasladador PKMN
+Pokémon Edición Blanca 2\xfffeAplicación Trasladador PKMN
+SÍ
+NO
+Inserta una tarjeta DS de Pokémon\xfffeEdiciones Diamante, Perla, Platino,\xfffeHeartGold o SoulSilver y enciende\xfffela consola. Luego selecciona\xfffe“Descarga DS" y después\xfffe“ID Trasladador PKMN: \xf000Ȅ\x0001\x0000",\xfffeo pulsa el Botón B para cancelar.
+Activando el Trasladador PKMN...\xfffePor favor, espera.
+Hay \xf000Ȃ\x0001\x0000 Pokémon de una película.\xf000븁\x0000\xfffe¿Quieres trasladar \xf000Ȃ\x0001\x0000 Pokémon\xfffea Pokémon Edición Negra?
+Hay \xf000Ȃ\x0001\x0000 Pokémon de una película.\xf000븁\x0000\xfffe¿Quieres trasladar \xf000Ȃ\x0001\x0000 Pokémon\xfffea Pokémon Edición Blanca?
+No queda espacio libre. Debes hacer sitio\xfffeen las Cajas.\xf000븁\x0000
+Los Pokémon se están enviando\xfffemediante el Trasladador PKMN...\xfffePor favor, espera.
+Los objetos que llevan se guardarán\xfffeen la Bolsa. ¿Estás de acuerdo?
+Al superar el límite de objetos en la Bolsa,\xfffeperderás los sobrantes. ¿Estás de acuerdo?
+¿Quieres cancelar el traslado de los\xfffePokémon con el Trasladador PKMN?
+¡Se va a cancelar el traslado de los\xfffePokémon!\xf000븁\x0000
+Pokémon trasladados y guardados\xfffeen Cajas: \xf000Ȃ\x0001\x0000.\xf000븁\x0000
+Se ha encontrado una Cápsula Candado.\xfffe¿Quieres recogerla?
+Enviando la Cápsula Candado mediante\xfffeel Trasladador PKMN...\xfffePor favor, espera.
+Se ha trasladado la Cápsula\xfffeCandado.\xfffeSe ha guardado en el Bolsillo\xfffeObjetos Clave de la Bolsa.\xf000븁\x0000
 レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-レポートに　かきこみました\xf000븂\x0001<
-ポケシフターを\xfffeしゅうりょうしています\xf000븂\x0001<
-ポケシフターを　ちゅうししますか？
-もう１つの　ＤＳの\xfffeせつぞくに　しっぱい　しました\xf000븁\x0000
-もう１つの　ＤＳの\xfffeけっていを　まっています
-ポケシフター　ＩＤ：\xf000Ȅ\x0001\x0000
-ポケットモンスターブラック２\xfffeポケシフター　プログラム
-ポケットモンスターホワイト２\xfffeポケシフター　プログラム
-てんそうマシン　ＩＤ:\xf000Ȅ\x0001\x0000
-ポケットモンスターブラック２\xfffeてんそうマシン　プログラム
-ポケットモンスターホワイト２\xfffeてんそうマシン　プログラム
-はい
-いいえ
-もう１つのＤＳに　ポケットモンスターの\xfffeダイヤモンド・パール・プラチナ・\xfffeハートゴールド・ソウルシルバー\xfffeいずれかの　ソフトを　セットして\xfffeでんげんを　いれた　あとに\xfffeしたがめんを　さんこうに　して\xfffe『ＤＳダウンロードプレイ』から\xfffe『てんそうマシン　ＩＤ：\xf000Ȅ\x0001\x0000』を\xfffeえらんでください\xfffeＢボタン：キャンセル
-てんそうマシン　きどうちゅう！\xfffeしばらく　おまちください
-えいがのポケモンが　\xf000Ȃ\x0001\x0000ひき　います\xfffe\xf000Ȃ\x0001\x0000ひき　すべてを\xf000븁\x0000\xfffeポケットモンスターブラックに\xfffeつれてきますが　よろしいですか？
-えいがのポケモンが　\xf000Ȃ\x0001\x0000ひき　います\xfffe\xf000Ȃ\x0001\x0000ひき　すべてを\xf000븁\x0000\xfffeポケットモンスターホワイトに\xfffeつれてきますが　よろしいですか？
-ボックスに　あきが　ありません！\xfffeボックスを　せいりしてください！\xf000븁\x0000
-てんそうマシンで\xfffeポケモンを　てんそうちゅうです！\xfffeしばらく　おまちください
-もっている　どうぐは　バッグに\xfffeもどりますが　よろしいですか？
-バッグに　いっぱいの　どうぐは\xfffeきえてしまいますが　よろしいですか？
-てんそうマシンで　ポケモンを\xfffeつれてくるのを　ちゅうし　しますか？
-ポケモンの　てんそうを\xfffeちゅうし　します！\xf000븁\x0000
-えいがの　ポケモンを　\xf000Ȃ\x0001\x0000ひき\xfffeぶじに　てんそうできました！\xf000븁\x0000\xfffeてんそうした　ポケモンは\xfffeボックスに　はいりました！\xf000븁\x0000
-ロックカプセルが　みつかりました。\xfffeロックカプセルを　ひきとりますか？
-てんそうマシンで\xfffeロックカプセルを　てんそうちゅうです！\xfffeしばらく　おまちください
-ロックカプセルを\xfffeぶじに　てんそうできました！\xf000븁\x0000\xfffeてんそうした　ロックカプセルは\xfffeバッグの　たいせつなものポケットに\xfffeはいりました！\xf000븁\x0000
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-てんそうマシンの\xfffeさぎょうが　おわりました\xfffeもう１つの　ＤＳの\xfffeでんげんを　きってください\xf000븁\x0000
-ひでんわざを　おぼえている\xfffeポケモンを　てんそうマシンで\xfffeつれてくる　ことが　できません！\xf000븁\x0000\xfffeおぼえていない　ポケモンを\xfffe\xf000Ȃ\x0001\x0000ひき　つれてきます！\xf000븁\x0000
-ロックカプセルは　すでに\xfffeうけとっています\xf000븁\x0000
-セーブに　しっぱいしました\xfffeてんそうマシンを　しゅうりょうします\xf000븁\x0000
-レポートに　かきこみました\xf000븁\x0000
-てんそうできる　ものが　\xfffeありませんでした\xf000븁\x0000
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　てんそうマシンを\xfffeきどうしなおして　ください\xf000븁\x0000\xfffeてんそうマシンを　しゅうりょうします\xf000븁\x0000
-てんそうマシンを　ちゅうししますか？
-ＤＳワイヤレスつうしんを\xfffeかいし　します
-レポートを　よみこむことが\xfffeできませんでした\xfffeレポートが　かかれていないか\xfffeこわれている　かのうせいがあります\xf000븁\x0000\xfffeてんそうマシンを　しゅうりょうします\xf000븁\x0000
+Las operaciones con el Trasladador\xfffePKMN han finalizado. Apaga la otra\xfffeconsola Nintendo DS.\xf000븁\x0000
+No puedes enviar Pokémon que\xfffeconozcan movimientos ocultos\xfffecon el Trasladador PKMN.\xf000븁\x0000\xfffeVas a trasladar \xf000Ȃ\x0001\x0000 Pokémon.\xf000븁\x0000
+Ya has recibido una Cápsula\xfffeCandado.\xf000븁\x0000
+No se han podido guardar los datos.\xfffeLa sesión del Trasladador PKMN va a\xfffefinalizar.\xf000븁\x0000
+Se han guardado los datos.\xf000븁\x0000
+No hay nada que se pueda trasladar.\xf000븁\x0000
+La tarjeta de juego insertada en\xfffela otra consola no es compatible.\xfffeVa a finalizar la sesión del\xfffeTrasladador PKMN.\xf000븁\x0000
+¿Quieres abandonar el Trasladador PKMN?
+Se activará la comunicación inalámbrica de\xfffeNintendo DS.
+No se han podido leer los datos.\xfffeEs posible que no haya datos\xfffeguardados o que estos estén\xfffedañados.\xf000븁\x0000\xfffeLa sesión del Trasladador PKMN\xfffeva a finalizar.\xf000븁\x0000
