@@ -54,7 +54,8 @@ SÍ
 NO
 Buscando datos de Torneos...
 No has registrado tu ID para Sincronizar\xfffeen Pokémon Global Link.\xf000븁\x0000\xfffeUsa tu ordenador para registrarte en el\xfffesitio web oficial de Pokémon Global Link,\xf000븀\x0000\xfffehttp://www.pokemon-gl.com.\xf000븁\x0000
-No se ha encontrado ningún Torneo\xfffeen el que participar.\xf000븁\x0000\xfffeRecuerda que no puedes participar\xfffeotra vez en un Torneo en el que\xf000븀\x0000\xfffeya hayas participado.\xf000븁\x0000
+さんか　できる\xfffeたいかいが　ありません\xf000븁\x0000\xfffeバトルたいかいは　\xfffeいぜん　さんかした　たいかいには\xf000븀\x0000\xfffeさんか　できません\xf000븁\x0000
+さんか　できる　たいかいが\xfffeみつかりませんでした\xf000븁\x0000\xfffeまた　バトルたいかいは　\xfffeいぜん　さんかした　たいかいには\xf000븀\x0000\xfffeさんか　できません\xf000븁\x0000
 Se va a renovar tu Certificado Digital\xfffede Jugador. No apagues la consola.
 No se está celebrando ningún Torneo\xfffeen el que puedas participar.\xf000븁\x0000
 Para participar en el Torneo Wi-Fi, debes\xffferenovar tu Certificado Digital de Jugador.\xf000븁\x0000\xfffe¿Quieres sobrescribir tu Certificado\xfffeDigital de Jugador?
