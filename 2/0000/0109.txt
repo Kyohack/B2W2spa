@@ -45,7 +45,7 @@ Pueblo Biscuit
 Liga Pokémon
 Palacio de N
 Real Teselia
-ギアステーション
+Estación Radial
 Metro Batalla
 Musical
 Ciudad Negra
@@ -71,9 +71,9 @@ Zona Nexo
 Santuario Abundanza
 Bahía Arenisca
 Bosque de los Perdidos
-しれんのむろ
-しるべのま
-ハイリンクのもり
+Cámara de Pruebas
+Estancia Orientación
+Bosque Nexo
 Ciudad Mayólica
 Ciudad Fayenza
 Ciudad Loza
@@ -129,26 +129,26 @@ Ruta 22
 Ruta 23
 Alcan. Porcelana
 Hacienda Sangi
-タチワキコンビナート
+Ciudad Tachiwaki
 Monte Renacimiento
 Casa Forestera
-チャンピオンロード
+Carretera del Campeón
 Frigata Plasma
 Fisura Ancestral
 Calle Arcilla
 －－－－－－－－－－
-しろのじゅどう
-くろのまてんろう
-Cueva Playa
-Hueco Corazón
-かくしあな
+Hueco del Arbol Blanco
+Rascacielos Negro
+Cueva de Playa
+Corazón Hueco
+Agujero escondido
 Tubo Marino
 Tachiwaki Zona Indust.
 Entrada Engobe
 Reserva Natural
-メダルじむきょく
+Secretaría de las Medallas
 Ruinas Subterráneas
-いわやまのま
-ひょうざんのま
-くろがねのま
-Bosque Juramento
+Cámara de Roca
+Cámara de Hielo
+Cámara de Acero
+Bosque Sagrado
