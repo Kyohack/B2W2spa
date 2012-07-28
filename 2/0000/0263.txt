@@ -1,49 +1,49 @@
-そうぐうパワー　＋
-そうぐうパワー　＋＋
-そうぐうパワー　＋＋＋
-そうぐうパワー　ー
-そうぐうパワー　ーー
-そうぐうパワー　ーーー
-タマゴふかパワー　＋
-タマゴふかパワー　＋＋
-タマゴふかパワー　＋＋＋
-なつきパワー　＋
-なつきパワー　＋＋
-なつきパワー　＋＋＋
-やすうりパワー　＋
-やすうりパワー　＋＋
-やすうりパワー　＋＋＋
-HPかいふくパワー　＋
-HPかいふくパワー　＋＋
-HPかいふくパワー　＋＋＋
-PPかいふくパワー　＋
-PPかいふくパワー　＋＋
-PPかいふくパワー　＋＋＋
-けいけんちパワー　＋
-けいけんちパワー　＋＋
-けいけんちパワー　＋＋＋
-けいけんちパワー　ー
-けいけんちパワー　ーー
-けいけんちパワー　ーーー
-おこづかいパワー　＋
-おこづかいパワー　＋＋
-おこづかいパワー　＋＋＋
-ほかくパワー　＋
-ほかくパワー　＋＋
-ほかくパワー　＋＋＋
-タマゴふかパワー　Ｓ
-やすうりパワー　Ｓ
-なつきパワー　Ｓ
-けいけんちパワー　Ｓ
-おこづかいパワー　Ｓ
-ほかくパワー　Ｓ
-ぜんかいパワー
-タマゴふかパワー　ＭＡＸ
-やすうりパワー　ＭＡＸ
-なつきパワー　ＭＡＸ
-けいけんちパワー　ＭＡＸ
-おこづかいパワー　ＭＡＸ
-ほかくパワー　ＭＡＸ
+Poder Encuentro +
+Poder Encuentro ++
+Poder Encuentro +++
+Poder Encuentro -
+Poder Encuentro --
+Poder Encuentro ---
+Poder Incubación +
+Poder Incubación ++
+Poder Incubación +++
+Poder Amistad +
+Poder Amistad ++
+Poder Amistad +++
+Poder Descuento +
+Poder Descuento ++
+Poder Descuento +++
+Poder Restaura PS +
+Poder Restaura PS ++
+Poder Restaura PS +++
+Poder Restaura PP +
+Poder Restaura PP ++
+Poder Restaura PP +++
+Poder Ptos. Exp. +
+Poder Ptos. Exp. ++
+Poder Ptos. Exp. +++
+Poder Ptos. Exp. -
+Poder Ptos. Exp. --
+Poder Ptos. Exp. ---
+Poder Recompensa +
+Poder Recompensa ++
+Poder Recompensa +++
+Poder Captura +
+Poder Captura ++
+Poder Captura +++
+Poder Incubación S
+Poder Descuento S
+Poder Amistad S
+Poder Ptos. Exp. S
+Poder Recompensa S
+Poder Captura S
+Poder Restaura Equipo
+Poder Incubación MAX
+Poder Descuento MAX
+Poder Amistad MAX
+Poder Ptos. Exp. MAX
+Poder Recompensa MAX
+Poder Captura MAX
 むこう　１
 むこう　２
 むこう　ID NULL
