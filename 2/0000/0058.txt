@@ -1,12 +1,12 @@
-チェックをする　あいてと\xfffeせきがいせんつうしんを　してください
-せきがいせんつうしんに　しっぱい\xfffeメニューに　もどります
-せきがいせんつうしんが　\xfffeつながりました！
-チェックをする　あいてと\xfffeせきがいせんつうしんを　してください
-チェックちゅう　です\xfffeつうしんを　つづけてください
-したがめんの　メニューを\xfffeタッチで　スタート！
-チェックスタート
-ランキング
-もどる
-やめる
-フィーリングチェック
-シーンが　ずれました\xfffeさきへ　すすみます
+Por favor, comprueba que la\xfffecomunicación por infrarrojos es correcta.
+Volver al menú principal.
+¡Se ha establecido la comunicación\xfffepor infrarrojos!
+Inicia la comunicación por infrarrojos con el\xfffeotro Entrenador para realizar el Test.
+Test en progreso...\xfffeNo interrumpas la comunicación.
+Toca el menú de la pantalla táctil\xfffepara comenzar.
+COMENZAR TEST
+CLASIFICACIÓN
+SALIR
+CANCELAR
+TEST DE COMPATIBILIDAD
+Tu deseas continuar y\xfffela escena ha cambiado.
