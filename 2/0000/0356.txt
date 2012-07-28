@@ -1,24 +1,24 @@
-ポケモンのかず
-ポケモンの　レベル
-とくべつなポケモン
-おなじポケモン
-おなじ　どうぐ
-ミラクルシューター
-：せいげんなし
-：\xf000Ȁ\x0001\x0000ひき
-：\xf000Ȁ\x0001\x0000ひき　いじょう
-：\xf000Ȁ\x0001\x0000　～　\xf000Ȁ\x0001\x0001ひき
-：せいげんなし
-：\xf000Ȃ\x0001\x0000になる
-：\xf000Ȃ\x0001\x0000まで
-：\xf000Ȃ\x0001\x0000いじょう
-：\xf000Ȃ\x0001\x0000いかに　なる
-：\xf000Ȃ\x0001\x0000いじょうに　なる
-：さんかできる
-：さんかできない
-：さんかできる
-：さんかできない
-：もたせられる
-：もたせられない
-：あり
-：なし
+No. del Pokémon
+Nivel Pokémon
+Pokémon especial
+Mismos Pokémon
+Mismos objetos
+Wonder Launcher
+: Sin restricciones
+: \xf000Ȁ\x0001\x0000
+: \xf000Ȁ\x0001\x0000 o mas
+: \xf000Ȁ\x0001\x0000 a \xf000Ȁ\x0001\x0001
+: Sin restricciones
+: Se convierte en \xf000Ȃ\x0001\x0000
+: Hasta \xf000Ȃ\x0001\x0000
+: \xf000Ȃ\x0001\x0000 and up
+: Se convierte en \xf000Ȃ\x0001\x0000-
+: Se convierte en \xf000Ȃ\x0001\x0000+
+: Permitido
+: Prohibido
+: Permitido
+: Prohibido
+: Permitido
+: Prohibido
+: Encendido
+: Apagado
