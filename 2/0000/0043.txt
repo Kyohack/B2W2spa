@@ -1,70 +1,67 @@
-\xf000ȁ\x0001\x0000がつ\xf000ȁ\x0001\x0001にち
+\xf000ȁ\x0001\x0001-\xf000ȁ\x0001\x0000-20\xf000ȁ\x0001\x0002
 
 
-◇ヒオウギシティしゅっしんの　トレーナーが　ヒオウギジムリーダー　チェレンにしょうり！
-◇ヒオウギシティしゅっしんの　トレーナーが　タチワキジムリーダー　ホミカにしょうり！
-◇ヒオウギシティしゅっしんの　トレーナーが　ヒウンジムリーダー　アーティにしょうり！
-◇ヒオウギシティしゅっしんの　トレーナーが　ライモンジムリーダー　カミツレにしょうり！
-◇ヒオウギシティしゅっしんの　トレーナーが　ホドモエジムリーダー　ヤーコンにしょうり！
-◇ヒオウギシティしゅっしんの　トレーナーが　フキヨセジムリーダー　フウロにしょうり！
-◇ヒオウギシティしゅっしんの　トレーナーが　ソウリュウジムリーダー　シャガにしょうり！
-◇ヒオウギシティしゅっしんの　トレーナーが　セイガイハジムリーダー　シズイにしょうり！
-◇ヒオウギシティしゅっしんの　トレーナーが　セイガイハジムリーダー　シズイにしょうり！
-◇「おまかせ　あんしん　ポケモンそだてて５０ねん！」３ばんどうろ　そだてや
-◇「なまえで　みえる　ポケモンのすべて！」ヒウンシティ　せいめいはんだんし
-◇「みんなのことを　しりたいな！　もっと　ちょうさだ！」ヒウンシティ　すれちがいちょうさたい
-◇「でんしゃにのって　たたかって！」ライモンシティ　バトルサブウェイ
-◇「スターへのかいだんを　かけのぼろう！」ライモンシティ　ミュージカル
-◇「つどえ　トレーナー！　めざすは　せかいいち！」ホドモエシティ　ポケモンワールドトーナメント
-◇「イッシュでいちばんの　しなぞろえ！　さがしものは　とうてんで！」ショッピングモール　アールナイン
-◇サンヨウシティは　もりと　ていえんに　かこまれた　しずかなまちです
-◇げんかんさきにあるかいだんは　ゆきをさけるためにあります
-◇サンヨウレストランは　しょうぶと　しょくじを　たのしめる　スポットです　
-◇みどりゆたかなていえんが　こころを　あたたかく　させてくれます
-◇まちのとなりには　そだてやがあり　おおくのトレーナーが　かよいます
-◇トレーナーズスクールでは　ポケモンのきそから　まなべます
-◇サンヨウシティは　もりにかこまれ　すずやかな　かぜが　かおります
-◇げんかんさきにあるかいだんは　ゆきをさけるためにあります
-◇サンヨウレストランは　しょうぶと　しょくじを　たのしめる　スポットです　
-◇シッポウシティは　いしだたみとそうこが　とくちょうです
-◇はくぶつかんでは　ほねからポケモンについて　けんきゅうしています
-◇はくぶつかんでは　たすうのしょもつを　よむことができます
-◇わかてげいじゅつかが　おおくすみ　そうこをアトリエにしています
-◇かんこうきゃくは　そうこがいと　はくぶつかんを　みるために　おとずれます
-◇せんろが　とおっていた　なごりが　いまもみられます
-◇げいじゅつに　みせられたひとがあつまる　まちです
-◇はくぶつかんのテーマは　ぶんかとしぜんの　たいひです
-◇シッポウシティから　ゆうめいげいじゅつかが　おおくうまれました
-◇かくれためいぶつ　ヒウンアイスが　いま　ブームになっています
-◇ヒウンシティの　ピアからでるふねは　それぞれいきさきが　ちがいます
-◇ヒウンジムが　アーティの　しんさくアートによって　うまれかわりました
-◇ちゅうしんの　ふんすいは　ひととひとを　つなぐばしょだと　いわれています
-◇せかいじゅうの　げいじゅつかが　ヒウンシティで　ギャラリーを　ひらいています
-◇ホドモエシティが　おおきくなった　いまでも　ヒウンシティが　イッシュちほういちの　だいとしです
-◇さまざまな　くにの　ひとびとがうつりすみ　ヒウンシティは　へんかしつづけます
-◇ヒウンシティには　いろんなくにが　まざった　どくじのぶんかや　たべものがあります
-◇ひとと　ひとの　すれちがいについて　けんきゅうしている　ばしょが　あります
-◇ライモンシティには　しげきをもとめて　おおくのトレーナーが　あつまります
-◇あついテニス　はくねつのバスケットボール　ねっきあふれるリトルコート
-◇あついポケモンしょうぶを　ねんりょうに　バトルサブウェイは　しっそうしつづけています
-◇ミュージカルホールでは　ときおり　ポケモンのスカウトが　あるそうです
-◇スタープレイヤーあつまるスタジアム　れんしゅうする　せんしゅとポケモンしょうぶ
-◇めいぶつの　ジェットコースターは　おどろきのばしょで　はしっています
-◇キラキラけしき　ワクワクたかさ　ドキドキであいの　あいのりかんらんしゃ
-◇ギアステーションから　カナワタウンへ　いくことができます
-◇なんどでも　きたくなる　ごらくのまち　ライモンシティへようこそ
-◇ホドモエシティは　みずべにりんせつする　みなとまちです
-◇むかしは　すいじょうからの　かぜをうける　はんせんが　はしっていました
-◇ホドモエは　かもつとりひきと　ぎょぎょうで　はってんしたまちです
-◇マーケットは　せかいからあつまったしなもので　にぎわっています
-◇まちのイメージカラーは　オレンジから　エメラルドにかわりました
-◇そらにそびえる　リザードンばしは　ぜっけいです
-◇ジムリーダー　ヤーコンは　いつまでもほりつづける　おとこです
-◇ポケモンワールドトーナメントかんせんを　みんな　たのしみにしています
-◇みつぼしホテルが　せかいじゅうから　おこしいただく　ひとびとを　おむかえします
-
-
-
+◇ ¡El Líder del Gimnasio de Ciudad Engobe, Cheren, vencido por una joven promesa procedente de ese pueblo!
+◇ ¡La Líder del Gimnasio de Ciudad Tachiwaki, Aloe, vencida por una joven promesa procedente de Pueblo Engobe!
+◇ ¡El Líder del Gimnasio de Ciudad Porcelana, Camus, vencido por una joven promesa procedente de Pueblo Engobe!
+◇ ¡La Líder del Gimnasio de Ciudad Mayólica, Camila, vencida por una joven promesa procedente de Pueblo Engobe!
+◇ ¡El Líder del Gimnasio de Ciudad Fayenza, Yakón, vencido por una joven promesa procedente de Pueblo Engobe!
+◇ ¡La Líder del Gimnasio de Ciudad Loza, Gerania, vencida por una joven promesa procedente de Pueblo Engobe!
+◇ ¡El Líder del Gimnasio de Ciudad Caolín, Junco, vencido por una joven promesa procedente de Pueblo Engobe!
+◇ ¡El Líder del Gimnasio de Ciudad Seigaiha, Shizui, vencido por una joven promesa procedente de Pueblo Engobe!
+◇ ¡El Líder del Gimnasio de Ciudad Seigaiha, Shizui, vencido por una joven promesa procedente de Pueblo Engobe!
+◇ Guardería Pokémon en la Ruta 3: ¡Crecerán rápidamente y entre nubes de cariño!
+◇ Inspector de Motes de Ciudad Porcelana: ¡Un mote dice mucho de un Pokémon!
+◇ Sede del Centro de Estadística de Ciudad Porcelana: ¿Quién es él? ¿A qué dedica el tiempo libre? ¡Con un sondeo lo sabrás!
+◇ Metro Batalla de Ciudad Mayólica: ¡Ponte en marcha para el combate! ¡No pierdas este tren!
+◇ Musical de Ciudad Mayólica: ¡La carrera al estrellato empieza aquí!
+◇ Mercado Fayenza: ¡Gran variedad de productos frescos llegados por mar y aire a tu alcance!
+◇ Centro Comercial R9: ¡La zona comercial más grande de toda Teselia! ¡Si no lo encuentras aquí, es que no existe!
+◇ Ciudad Gres está envuelta en naturaleza y brisa fresca.
+◇ Las escaleras de la entrada están ahí para evitar la nieve.
+◇ En el Gimnasio de Ciudad Gres tienes combates y comida. ¿Qué eliges?
+◇ Jardín fértil que cautivará tu corazón.
+◇ Junto a la ciudad se ubica una Guardería frecuentada por Entrenadores.
+◇ La Escuela de Entrenadores es el lugar perfecto para aprender todo lo básico.
+◇ Ciudad Gres es una metrópoli rodeada de naturaleza y envuelta en la suave brisa de Eolo.
+◇ Las escaleras en las entradas de los edificios son para facilitar el acceso en caso de nevadas.
+◇ El Gimnasio de Ciudad Gres es un restaurante reconocido en las guías de viaje más prestigiosas, tanto por su comida como por sus combates.
+◇ Los almacenes y el suelo empedrado son característicos de Ciudad Esmalte.
+◇ En el museo se estudian los Pokémon a partir de sus huesos.
+◇ El Gimnasio de Ciudad Esmalte es un museo que ofrece combates y conocimiento.
+◇ Repleta de jóvenes artistas que han convertido sus almacenes en talleres.
+◇ Los turistas vienen atraídos por el museo y los almacenes.
+◇ Todavía pueden verse algunos tramos de las vías ferroviarias usadas antaño.
+◇ Un punto de encuentro para gente con inquietudes artísticas.
+◇ Las piezas del museo ahondan en los contrastes entre cultura y naturaleza.
+◇ Ciudad Esmalte es la cuna de muchos grandes artistas.
+◇ El Porcehelado es una especialidad local poco conocida hasta ahora que empieza a causar furor.
+◇ Los barcos que salen de Ciudad Porcelana tienen diversos destinos.
+◇ Ciudad Porcelana es una ciudad de lo más estimulante. Su Gimnasio cuenta con una sorpresa.
+◇ La fuente de la plaza central es un popular punto de encuentro.
+◇ Artistas del mundo entero abren galerías en Ciudad Porcelana.
+◇ Ciudad Porcelana es la localidad con más población, más tiendas y más edificios de toda Teselia.
+◇ El ambiente de Ciudad Porcelana cambia totalmente de día y de noche.
+◇ Ciudad Porcelana es un crisol de culturas y gastronomías procedentes de diversas regiones.
+◇ Cuenta con un centro dedicado a estudiar los encuentros casuales entre la gente.
+◇ Dicen que la naturaleza enérgica de los habitantes de Ciudad Mayólica impulsó la proliferación de combates.
+◇ Siente el fervor de los partidos de tenis y baloncesto. ¡La Cancha está que arde!
+◇ Amantes de los trenes y los combates Pokémon fueron los fundadores del Metro Batalla.
+◇ A veces hay cazatalentos Pokémon en el Teatro Musical.
+◇ Con un poco de suerte, podrás conocer a las estrellas del deporte en el Gran Estadio.
+◇ La célebre montaña rusa circula por lugares insospechados.
+◇ Vistas espectaculares a una altura impresionante garantizadas en cada viaje de la noria.
+◇ Se puede ir a Pueblo Biscuit desde la Estación Radial.
+◇ ¡Bienvenidos a Ciudad Mayólica, el lugar de entretenimiento preferido por todos!
+◇ Ciudad Fayenza es una localidad costera con un transitado puerto.
+◇ Antaño, la costa estaba poblada de barcos de vela.
+◇ El transporte de mercancías y la industria pesquera son los dos motores económicos de Ciudad Fayenza.
+◇ El mercado es un bullicioso lugar donde se pueden encontrar productos de todas partes.
+◇ Los tejados naranjas armonizan perfectamente con las puestas de sol.
+◇ La vista desde el Puente Charizard es impresionante.
+◇ Enormes Almacenes Frigoríficos se alinean en el puerto.
+◇ Algunos Pokémon viven en los Almacenes Frigoríficos.
+◇ Ciudad Fayenza es una localidad costera con un transitado puerto.
 
 
 
@@ -80,72 +77,72 @@
 
 
 
-◇ビルのそうしょくは　１００ねんかけて　しょくにんたちのてで　つくられています
-◇ソウリュウシティのれきしは　せかいいちふるいと　いわれています
-◇ソウリュウシティでは　むかしのぎじゅつを　いまでも　やくだてています
-◇まちからは　まいとし　こうこがくしゃが　おおく　たんじょうします
-◇まちでは　なんびゃくねんという　れきしを　もつ　おんがくを　きくことができます
-◇ビルのそうしょくは　１００ねんかけて　しょくにんたちのてで　つくられています
-◇ソウリュウシティのれきしは　せかいいちふるいと　いわれています
-◇ソウリュウシティでは　むかしのぎじゅつを　いまでも　やくだてています
-◇まちからは　まいとし　こうこがくしゃが　おおく　たんじょうします
-◇まちのビルは　ポケモンが　１００ぴきのっても　くずれないと　いわれています
-◇ソウリュウシティでは　さいしんのモンスターボールが　かいはつされています
-◇まちのビルは　さいしんの　ざいりょうで　たてられています
-◇ソウリュウシティの　セキュリティは　あんぜんなことで　ゆうめいです
-◇ネットワークをつかった　とてもべんりな　せいかつが　できます
-◇まちのビルは　ポケモンが　１００ぴきのっても　くずれないと　いわれています
-◇ソウリュウシティでは　さいしんのモンスターボールが　かいはつされています
-◇まちのビルは　さいしんの　ざいりょうで　たてられています
-◇ソウリュウシティの　セキュリティは　あんぜんなことで　ゆうめいです
-◇カゴメタウンは　じかんにおおざっぱなため　みんかには　とけいが　おいてありません
-◇カゴメタウンの　ひとびとは　ひがしずむとともに　しごとをおえます
-◇きょだいな　はしのうえから　まちぜんたいを　みおろせます
-◇まちからみえる　もりでは　なぞのポケモンの　もくげきじょうほうがあります
-◇カゴメタウンの　どうろも　たてものも　すべて　いしで　できています
-◇カゴメタウンでは　ひるをすぎてから　まちが　かっぱつになります
-◇はれのひには　にっこうよくをするひとが　おおくみられます
-◇カゴメタウンは　じかんにおおざっぱなため　みんかには　とけいが　おいてありません
-◇カゴメタウンの　ひとびとは　ひがしずむとともに　しごとをおえます
-◇はまべのすなは　とてもこまかく　あしあとがハッキリと　のこります
-◇サザナミタウンに　べっそうをもつことは　あこがれとされています
-◇サザナミタウンの　なみのおとの　うつくしさは　たからものであると　いわれています
-◇なつには　すきとおるうみに　およぎにくる　かんこうきゃくがいます
-◇おおきながけが　サザナミタウンぜんたいを　きわだたせています
-◇なみはつねに　おだやかなため　うみといえは　とてもちかいです
-◇マリンチューブは　サザナミタウンと　セイガイハシティを　むすぶ　しんめいしょです
-◇サザナミわんで　おおむかしの　かいていいせきが　みつかりました
-◇はまべのすなは　とてもこまかく　あしあとがハッキリと　のこります
-◇ホワイトフォレストは　しぜんが　おおくみられるまちです
-◇まちのひとは　しぜんをあいし　しぜんとともにせいかつしています
-◇しろのじゅどうに　おおくの　トレーナーが　いどんでいます
-◇しぜんにひかれた　ブリーダーが　おおくあつまっています
-◇ゆたかなしぜんのおかげで　こころいやされる　ばしょとして　にんきです
-◇ポケモンの　おとしものがあり　しぜんのめぐみとされています
-◇しろのじゅどうが　たんじょうして　トレーナーがおおくつどっています
-◇ホワイトフォレストは　しぜんが　おおくみられるまちです
-◇まちのひとは　しぜんをあいし　しぜんとともにせいかつしています
-◇ブラックシティは　ビルがならぶ　ぶんめいのまちです
-◇イッシュで　いちばん　はったつしたまちを　めざしています
-◇くろのまてんろうに　おおくの　トレーナーが　いどんでいます
-◇きょうそういしきのたかいトレーナーが　おおくすんでいます
-◇まちのマーケットでは　ちょっとした　ほりだしものを　うっています
-◇あつまったひとが　りゅうつうをかえ　しなものがかわります
-◇くろのまてんろうが　たんじょうして　トレーナーがおおくつどっています
-◇ブラックシティは　ビルがならぶ　ぶんめいのまちです
-◇イッシュで　いちばん　はったつしたまちを　めざしています
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
-◇いせきが　たてられたじきについて　げんざいちょうさされています
-◇こだいのくにが　なぜほろびたのかは　なぞです
-◇こだいのしろないぶでは　げんざいもすなが　ながれおちています
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
 
 
 
+◇Varios artesanos han trabajado en los elementos decorativos de las fachadas durante todo un siglo.
+◇ Se dice que Ciudad Caolín es la más antigua de todo el mundo.
+◇ En la actualidad, todavía se hace uso de las técnicas antiguas en Ciudad Caolín.
+◇ Muchos arqueólogos se forman cada año en la ciudad.
+◇ En esta ciudad se puede escuchar música con varios siglos de historia.
+◇ Varios artesanos han trabajado en los elementos decorativos de las fachadas durante todo un siglo.
+◇ Se dice que Ciudad Caolín es la más antigua de todo el mundo.
+◇ En la actualidad, todavía se hace uso de las técnicas antiguas en Ciudad Caolín.
+◇ Muchos arqueólogos se forman cada año en la ciudad.
+◇ Dicen que los edificios de esta ciudad podrían soportar el peso de cien Pokémon pesados.
+◇ En Ciudad Caolín se desarrollan las Poké Balls de última generación.
+◇ Los edificios están construidos con los materiales más modernos.
+◇ Ciudad Caolín es famosa por su seguridad.
+◇ Aquí se puede llevar una vida muy cómoda gracias a la avanzada red de comunicaciones.
+◇ Dicen que los edificios de esta ciudad podrían soportar el peso de cien Pokémon pesados.
+◇ En Ciudad Caolín se desarrollan las Poké Balls de última generación.
+◇ Los edificios están construidos con los materiales más modernos.
+◇ Ciudad Caolín es famosa por su seguridad.
+◇ En Pueblo Ladrillo no dan mucha importancia a la puntualidad, por eso no suelen tener relojes en las casas.
+◇ Los habitantes de Pueblo Ladrillo dejan de trabajar en cuanto se pone el sol.
+◇ Desde el enorme puente, se puede contemplar Pueblo Ladrillo en su totalidad.
+◇ Algunas personas afirman haber visto un misterioso Pokémon en el bosque que hay cerca de la ciudad.
+◇ Los edificios y calles de Pueblo Ladrillo están hechos de piedra.
+◇ Pueblo Ladrillo comienza realmente su actividad después del mediodía.
+◇ Muchos disfrutan del buen tiempo tomando el sol.
+◇ En Pueblo Ladrillo no dan mucha importancia a la puntualidad, por eso no suelen tener relojes en las casas.
+◇ Los habitantes de Pueblo Ladrillo dejan de trabajar en cuanto se pone el sol.
+◇ La arena de la playa es tan fina que las huellas se marcan fácilmente al andar.
+◇ Tener un chalet en Pueblo Arenisca es el sueño de muchos.
+◇ El rumor de las olas que envuelve Pueblo Arenisca se considera un tesoro precioso.
+◇ Los turistas vienen a bañarse en verano a nuestras playas cristalinas.
+◇ En Pueblo Arenisca destacan sus imponentes acantilados.
+◇ Un mar siempre sereno permite construir las casas prácticamente pegadas al mar.
+◇ Los deportes acuáticos son el no va más en Pueblo Arenisca.
+◇ El mar de Pueblo Arenisca es a menudo ubicación de importantes hallazgos arqueológicos.
+◇ La arena de la playa es tan fina que las huellas se marcan fácilmente al andar.
+◇ En el Bosque Blanco estarás rodeado de naturaleza en todo momento.
+◇ Los habitantes del Bosque Blanco son amantes de la naturaleza y conviven con ella.
+◇ Los habitantes plantan árboles, y el bosque no cesa de crecer.
+◇ Hogar de muchos Criapokémon enamorados de la riqueza natural del lugar.
+◇ Gracias a la riqueza natural, aquí pueden encontrarse Pokémon raros.
+◇ Lo que los Pokémon dejan tras de sí se considera una bendición de la naturaleza.
+◇ Mucha gente quiere vivir en la ciudad, y la población cambia constantemente.
+◇ En el Bosque Blanco estarás rodeado de naturaleza en todo momento.
+◇ Los habitantes del Bosque Blanco son amantes de la naturaleza y conviven con ella.
+◇ Ciudad Negra es una metrópoli de lo más civilizada y está repleta de edificios.
+◇ Esta ciudad se ha propuesto ser la más avanzada de toda Teselia.
+◇ Ciudad Negra es un crisol de gentes que siempre camina hacia la modernidad.
+◇ En Ciudad Negra abundan Entrenadores con un alto sentido de la competitividad.
+◇ La ciudad trabaja en el desarrollo de un gran mercado.
+◇ La constante llegada de nuevos habitantes trae consigo la introducción de nuevos productos.
+◇ Mucha gente quiere vivir en la ciudad, y la población cambia constantemente.
+◇ Ciudad Negra es una metrópoli de lo más civilizada y está repleta de edificios.
+◇ Esta ciudad se ha propuesto ser la más avanzada de toda Teselia.
+◇ Un apreciado destino turístico entre los amantes de las ruinas.
+◇ El desierto es vasto y cruel. ¡Prepárate antes de adentrarte en él!
+◇ ¡Alerta! Las tormentas de arena azotan continuamente el desierto.
+◇ Se están realizando estudios para determinar la fecha de construcción de las ruinas.
+◇ Se desconocen las razones por las que la antigua civilización llegó a su fin.
+◇ Incluso ahora, la arena sigue escurriéndose hacia el interior del Castillo Ancestral.
+◇ Un apreciado destino turístico entre los amantes de las ruinas.
+◇ El desierto es vasto y cruel. ¡Prepárate antes de adentrarte en él!
+◇ ¡Alerta! Las tormentas de arena azotan continuamente el desierto.
 
 
 
@@ -179,23 +176,26 @@
 
 
 
-はれ
-ゆき
-あめ
-すなあらし
-すなあらし
-ふぶき
-あられ
-きり
-ひじょうにめずらしい　ダイヤモンドダストが　はっせい！！
-ひじょうにつよい　らいうが　はっせい！！
-ひじょうにつよい　おおあらしが　はっせい！！
-\xf000ą\x0001\x0000:\xf000ľ\x0001\x0001
+
+
+
+Sol
+Nieve
+Lluvia
+Tormenta de arena
+Tormenta de arena
+Ventisca
+Granizo
+Niebla
+¡Prismas de hielo! ¡Un fenómeno muy raro!
+¡Rayos y truenos de gran intensidad!
+¡Diluvio de gran intensidad!
+\xf000ą\x0001\x0000: \xf000Ā\x0001\x0001
 \xf000Ā\x0001\x0000
 \xf000Ā\x0001\x0000　　\xf000Ā\x0001\x0001
 \xf000Ā\x0001\x0000　　\xf000Ā\x0001\x0001　　\xf000Ā\x0001\x0002
 \xf000Ā\x0001\x0000　　\xf000Ā\x0001\x0001　　\xf000Ā\x0001\x0002　　\xf000Ā\x0001\x0003
-◆\xf000ą\x0001\x0000で　ポケモンが　たいりょうはっせい！！
+◆ \xf000ą\x0001\x0000: ¡Aparición masiva de Pokémon!
 
 
 
@@ -203,55 +203,55 @@
 
 
 
-◆でんどういり　おめでとう！　トレーナー　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000とともに　しょうりをおさめた！
-◆でんどういり　おめでとう！　トレーナー　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000　\xf000ā\x0001\x0001とともに　しょうりをおさめた！
-◆でんどういり　おめでとう！　トレーナー　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000　\xf000ā\x0001\x0001　\xf000ā\x0001\x0002とともに　しょうりをおさめた！
-◆でんどういり　おめでとう！　トレーナー　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000　\xf000ā\x0001\x0001　\xf000ā\x0001\x0002　\xf000ā\x0001\x0003とともに　しょうりをおさめた！
-◆でんどういり　おめでとう！　トレーナー　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000　\xf000ā\x0001\x0001　\xf000ā\x0001\x0002　\xf000ā\x0001\x0003　\xf000ā\x0001\x0004とともに　しょうりをおさめた！
-◆でんどういり　おめでとう！　トレーナー　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000　\xf000ā\x0001\x0001　\xf000ā\x0001\x0002　\xf000ā\x0001\x0003　\xf000ā\x0001\x0004　\xf000ā\x0001\x0005とともに　しょうりをおさめた！
-◇ヒオウギシティしゅっしんの　トレーナーが　セイガイハジムリーダー　シズイにしょうり！！
-◇みはらしだいから　いちぼうできる　うつくしくつらなる　やまは　ひっけんです
-◇ヒオウギの　トレーナーズスクールは　あたたかみのある　がっこうです
-◇はなばなが　さきみだれる　ヒオウギシティは　あまい　かおりに　つつまれています
-◇１９ばんどうろを　ぬけると　とけいだいが　ゆうめいな　サンギタウンがあります
-◇やまのふもとに　ひろがる　ヒオウギシティは　なつでも　すずしく　かいてきです
-◇サンギタウンには　こどもたちに　ポケモンのすばらしさを　おしえる　てらこやが　あります
-◇１９ばんどうろは　きりたった　がけが　とくちょうてきです
-◇サンギタウンのさきには　おおきな　ぼくじょうがあり　いろいろなポケモンがいます
-◇やまにかこまれているため　ヒオウギはとかいでありながら　のどかなふんいきです
-◇タチワキジムは　わかての　とうりゅうもんとしても　ゆうめいなライブハウスです
-◇コンビナートでは　いつでも　はたらくポケモン　トレーナーを　だいぼしゅうです
-◇ポケウッドでは　あらゆるえいがを　さつえいするため　スターをもとめています
+◆¡\xf000Ā\x0001\x0006 ha entrado en el Hall de la Fama con \xf000ā\x0001\x0000! ¡Enhorabuena!
+◆¡\xf000Ā\x0001\x0006 ha entrado en el Hall de la Fama con \xf000ā\x0001\x0000 y \xf000ā\x0001\x0001! ¡Enhorabuena!
+◆¡\xf000Ā\x0001\x0006 ha entrado en el Hall de la Fama con \xf000ā\x0001\x0000, \xf000ā\x0001\x0001 y \xf000ā\x0001\x0002! ¡Enhorabuena!
+◆¡\xf000Ā\x0001\x0006 ha entrado en el Hall de la Fama con \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002 y \xf000ā\x0001\x0003! ¡Enhorabuena!
+◆¡\xf000Ā\x0001\x0006 ha entrado en el Hall de la Fama con \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, \xf000ā\x0001\x0003 y \xf000ā\x0001\x0004! ¡Enhorabuena!
+◆¡\xf000Ā\x0001\x0006 ha entrado en el Hall de la Fama con \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, \xf000ā\x0001\x0003, \xf000ā\x0001\x0004 y \xf000ā\x0001\x0005! ¡Enhorabuena!
+◇¡El Líder del Gimnasio de Ciudad Seigaiha, Shizui, vencido por una joven promesa procedente de Pueblo Engobe!
+◇La vista bella de las montañas tienes que verla
+◇La escuela de entrenadores del pueblo Engobe es una institución educacional
+◇Con sus flores floreciendo, el Pueblo Engobe está envueltoen aromas dulces
+◇La ruta 19 termina en la famosa torre del reloj de la ciudad de Sangi
+◇Situado a los pies de las montañas, el Pueblo Engobe es fresco y cómodo, incluso en el verano.
+◇La Ciudad Sangi tiene una cabaña religiosa que enseña las maravillas de Pokémon a los niños.
+◇La ruta 19 se caracteriza por una colina empinada.
+◇La Ciudad Sangi solía tener una gran variedad de Pokémon en su rancho.
+◇Nubema Town tiene un ambiente tranquilo y está rodeado de montañas.
+◇La Ciudad Tachiwaki es una puerta hacia el éxito para todos los tipos de entrenadores.
+◇Entrenadores Pokémon son reclutados para trabajar en cualquier momento en un gran complejo industrial.
+◇PokéStar Studios está siempre en busca de una estrella para filmar una película.
 ◇タチワキシティから　ヒウンシティいきの　ていきせんが　しゅっこうしています
-◇いきかう　ふねは　タチワキシティにすむ　ひとびとの　じゅうような　こうつうしゅだんです
+◇Un barco que viaja es uno de los medios de transporte más populares de la ciudad Tachiwaki.
 ◇タチワキシティは　こうじょうで　はたらく　ひとびとを　ちゅうしんに　はってんしました
-◇コンビナートで　はたらく　ひとびとは　しごとの　あいまに　ポケモンしょうぶを　たのしんでいます
-◇しごとでくたびれた　ひとたちを　コンビナートの　やけいがいやします
+◇Los agricultores están trabajando duro en el complejo de cada Pokémon para la alegría de la batalla.
+◇Debemos agradecer a todos los agricultores que recibieron cansados y sedientos después de trabajar en el complejo.
 ◇まちの　ひがしにある　クレーンで　にもつの　あげおろしをします
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
-◇いせきが　たてられたじきについて　げんざいちょうさされています
-◇こだいのくにが　なぜほろびたのかは　なぞです
-◇こだいのしろないぶでは　げんざいもすなが　ながれおちています
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
-◇いせきが　たてられたじきについて　げんざいちょうさされています
-◇こだいのくにが　なぜほろびたのかは　なぞです
-◇こだいのしろないぶでは　げんざいもすなが　ながれおちています
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
-◇ポケウッドでは　あなたがえいがスターに　なれるかもしれません！
-◇ポケウッドには　せかいかっこくの　えいががあつまります
-◇ポケウッドでは　スターをもとめています　きたれスター！
-◇こせいゆたかな　おおくのかんとくが　さまざまなさくひんを　つくるポケウッド
-◇さいしんの　さつえいスタジオと　シアターが　ポケウッドのじまんです
-◇ポケウッドでは　あなたがえいがスターに　なれるかもしれません！
-◇ポケウッドには　せかいかっこくの　えいががあつまります
-◇こせいゆたかな　おおくのかんとくが　さまざまなさくひんを　つくるポケウッド
-◇さいしんの　さつえいスタジオと　シアターが　ポケウッドのじまんです
+◇Este es un sitio de turismo principal para los turistas amantes de las ruinas.
+◇El desierto es duro y extenso. Por favor, prepárate antes de intentar cruzar.
+◇¡Cuidado! Tormentas de arena inmensa puede cubrir todo el desierto.
+◇Los investigadores están investigando como se formaron las ruinas.
+◇Nadie sabe cómo la antigua nación cayó en la ruina.
+◇En el interior del Castillo de Relic, se escurre la arena y se oyen susurros, incluso ahora.
+◇Este es un sitio de turismo principal para los turistas amantes de las ruinas.
+◇El desierto es duro y extenso. Por favor, prepárate antes de intentar cruzar.
+◇¡Cuidado! Tormentas de arena inmensa puede cubrir todo el desierto.
+◇Este es un sitio de turismo principal para los turistas amantes de las ruinas.
+◇El desierto es duro y extenso. Por favor, prepárate antes de intentar cruzar.
+◇¡Cuidado! Tormentas de arena inmensa puede cubrir todo el desierto.
+◇Los investigadores están investigando como se formaron las ruinas.
+◇Nadie sabe cómo la antigua nación cayó en la ruina.
+◇En el interior del Castillo de Relic, se escurre la arena y se oyen susurros, incluso ahora.
+◇Este es un sitio de turismo principal para los turistas amantes de las ruinas.
+◇El desierto es duro y extenso. Por favor, prepárate antes de intentar cruzar.
+◇¡Cuidado! Tormentas de arena inmensa puede cubrir todo el desierto.
+◇Puede convertirse en una estrella en los estudios de PokéStar!
+◇Las peliculas de PokéStar Studios se ven en todo el mundo.
+◇Las Desert Resort tormenta de arena dura y lo cubre todo, ten cuidado!
+◇Los directores de PokéStar Studios dan a todo tipo de individuos ricos trabajo.
+◇Los estudios y teatros están siempre haciendo alarde de los tiroteos de cine más recientes en los Estudios PokéStar.
+◇Puede convertirse en una estrella en los estudios de PokéStar!
+◇Las peliculas de PokéStar Studios se ven en todo el mundo.
+◇Los directores de PokéStar Studios dan a todo tipo de individuos ricos trabajo.
+◇Los estudios y teatros están siempre haciendo alarde de los tiroteos de cine más recientes en los Estudios PokéStar.
