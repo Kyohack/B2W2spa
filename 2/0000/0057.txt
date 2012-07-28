@@ -1,12 +1,12 @@
 たいせんする　あいてと\xfffeせきがいせん　つうしん　します\xf000븁\x0000\xfffeあいてに　せきがいせんを　あわせて\xfffeＡボタンを　おしてください
 おたがいの　えらんでいる\xfffeたいかいが　ちがいます
-たいせん　あいてが\xfffeみつかりました！
-たいせんを　かいし　します！\xfffeＡボタンを　おしてください
-あなたの　かちです
-あなたの　まけです
-ひきわけ　です
+¡Tu oponente ha sido encontrado!
+Para empezar a jugar\xfffepresiona el botón A.
+Tu Ganas.
+Tu Pierdes.
+Es un empate.
 つうしん　たいきちゅう
 Ｗｉ－Ｆｉたいかいに　さんか
-イベントたいかいに　さんか
+Participar en un torneo.
 デジタルせんしゅしょうを　みる
-もどる
+ATRAS.
