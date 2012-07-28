@@ -1,165 +1,165 @@
-ホウエン　チャンプリボン
-シンオウ　チャンプリボン
-クールリボン
-クールリボンスーパー
-クールリボンハイパー
-クールリボンマスター
-ビューティリボン
-ビューティリボンスーパー
-ビューティリボンハイパー
-ビューティリボンマスター
-キュートリボン
-キュートリボンスーパー
-キュートリボンハイパー
-キュートリボンマスター
-ジーニアスリボン
-ジーニアスリボンスーパー
-ジーニアスリボンハイパー
-ジーニアスリボンマスター
-パワフルリボン
-パワフルリボンスーパー
-パワフルリボンハイパー
-パワフルリボンマスター
-クールリボン
-クールリボングレート
-クールリボンウルトラ
-クールリボンマスター
-ビューティリボン
-ビューティリボングレート
-ビューティリボンウルトラ
-ビューティリボンマスター
-キュートリボン
-キュートリボングレート
-キュートリボンウルトラ
-キュートリボンマスター
-ジーニアスリボン
-ジーニアスリボングレート
-ジーニアスリボンウルトラ
-ジーニアスリボンマスター
-パワフルリボン
-パワフルリボングレート
-パワフルリボンウルトラ
-パワフルリボンマスター
-ウイニングリボン
-ビクトリーリボン
-アビリティリボン
-グレートアビリティリボン
-ダブルアビリティリボン
-マルチアビリティリボン
-ペアアビリティリボン
-ワールドアビリティリボン
-ブロマイドリボン
-がんばリボン
-しゃっきリボン
-どっきリボン
-しょんぼリボン
-うっかリボン
-すっきリボン
-ぐっすリボン
-にっこリボン
-ゴージャスリボン
-ロイヤルリボン
-ゴージャスロイヤルリボン
-あしあとリボン
-レコードリボン
-レジェンドリボン
-カントリーリボン
-ナショナルリボン
-アースリボン
-ワールドリボン
-クラシックリボン
-プレミアリボン
-イベントリボン
-バースデーリボン
-スペシャルリボン
-メモリアルリボン
-ウィッシュリボン
-バトルチャンプリボン
-エリアチャンプリボン
-ナショナルチャンプリボン
-ワールドチャンプリボン
-べつちほうの　リーグで　かちぬき\xfffeでんどういり　した　きねんリボン
-シンオウで　チャンピオンに　かって\xfffeでんどういり　した　きねんリボン
-ホウエンちほう　かっこよさコンテスト\xfffeノーマルランク　ゆうしょう！
-ホウエンちほう　かっこよさコンテスト\xfffeスーパーランク　ゆうしょう！
-ホウエンちほう　かっこよさコンテスト\xfffeハイパーランク　ゆうしょう！
-ホウエンちほう　かっこよさコンテスト\xfffeマスターランク　ゆうしょう！
-ホウエンちほう　うつくしさコンテスト\xfffeノーマルランク　ゆうしょう！
-ホウエンちほう　うつくしさコンテスト\xfffeスーパーランク　ゆうしょう！
-ホウエンちほう　うつくしさコンテスト\xfffeハイパーランク　ゆうしょう！
-ホウエンちほう　うつくしさコンテスト\xfffeマスターランク　ゆうしょう！
-ホウエンちほう　かわいさコンテスト\xfffeノーマルランク　ゆうしょう！
-ホウエンちほう　かわいさコンテスト\xfffeスーパーランク　ゆうしょう！
-ホウエンちほう　かわいさコンテスト\xfffeハイパーランク　ゆうしょう！
-ホウエンちほう　かわいさコンテスト\xfffeマスターランク　ゆうしょう！
-ホウエンちほう　かしこさコンテスト\xfffeノーマルランク　ゆうしょう！
-ホウエンちほう　かしこさコンテスト\xfffeスーパーランク　ゆうしょう！
-ホウエンちほう　かしこさコンテスト\xfffeハイパーランク　ゆうしょう！
-ホウエンちほう　かしこさコンテスト\xfffeマスターランク　ゆうしょう！
-ホウエンちほう　たくましさコンテスト\xfffeノーマルランク　ゆうしょう！
-ホウエンちほう　たくましさコンテスト\xfffeスーパーランク　ゆうしょう！
-ホウエンちほう　たくましさコンテスト\xfffeハイパーランク　ゆうしょう！
-ホウエンちほう　たくましさコンテスト\xfffeマスターランク　ゆうしょう！
-スーパーコンテスト　かっこよさ　ぶもん\xfffeノーマルランク　ゆうしょう！
-スーパーコンテスト　かっこよさ　ぶもん\xfffeグレートランク　ゆうしょう！
-スーパーコンテスト　かっこよさ　ぶもん\xfffeウルトラランク　ゆうしょう！
-スーパーコンテスト　かっこよさ　ぶもん\xfffeマスターランク　ゆうしょう！
-スーパーコンテスト　うつくしさ　ぶもん\xfffeノーマルランク　ゆうしょう！
-スーパーコンテスト　うつくしさ　ぶもん\xfffeグレートランク　ゆうしょう！
-スーパーコンテスト　うつくしさ　ぶもん\xfffeウルトラランク　ゆうしょう！
-スーパーコンテスト　うつくしさ　ぶもん\xfffeマスターランク　ゆうしょう！
-スーパーコンテスト　かわいさ　ぶもん\xfffeノーマルランク　ゆうしょう！
-スーパーコンテスト　かわいさ　ぶもん\xfffeグレートランク　ゆうしょう！
-スーパーコンテスト　かわいさ　ぶもん\xfffeウルトラランク　ゆうしょう！
-スーパーコンテスト　かわいさ　ぶもん\xfffeマスターランク　ゆうしょう！
-スーパーコンテスト　かしこさ　ぶもん\xfffeノーマルランク　ゆうしょう！
-スーパーコンテスト　かしこさ　ぶもん\xfffeグレートランク　ゆうしょう！
-スーパーコンテスト　かしこさ　ぶもん\xfffeウルトラランク　ゆうしょう！
-スーパーコンテスト　かしこさ　ぶもん\xfffeマスターランク　ゆうしょう！
-スーパーコンテスト　たくましさ　ぶもん\xfffeノーマルランク　ゆうしょう！
-スーパーコンテスト　たくましさ　ぶもん\xfffeグレートランク　ゆうしょう！
-スーパーコンテスト　たくましさ　ぶもん\xfffeウルトラランク　ゆうしょう！
-スーパーコンテスト　たくましさ　ぶもん\xfffeマスターランク　ゆうしょう！
-ホウエンの　バトルタワー　レベル５０を\xfffeかちぬいた　きねんの　リボン
-ホウエンの　バトルタワー　レベル１００を\xfffeかちぬいた　きねんの　リボン
-バトルタワーで　タワータイクーンに\xfffeしょうりした　きねんの　リボン
-バトルタワーで　タワータイクーンに\xfffeしょうりした　きねんの　リボン
-バトルタワー　ダブルを\xfffeかちぬいた　きねんの　リボン
-バトルタワー　マルチを\xfffeかちぬいた　きねんの　リボン
-バトルタワー　つうしんマルチを\xfffeかちぬいた　きねんの　リボン
-Ｗｉ－Ｆｉバトルタワーを\xfffeかちぬいた　きねんの　リボン
-ホウエンで　ごうかな　にがおえの\xfffeモデルになった　きねんの　リボン
-たくさん　どりょく　している\xfffeポケモンに　おくられる　リボン
-しゃっきりする　できごとを　おもいだして\xfffeじんせいの　エネルギーとなる　リボン
-どきどきした　ことがらを　おもいだして\xfffeじんせいを　わくわくさせてくれる　リボン
-しょんぼりした　きもちを　おもいだして\xfffeじんせいの　スパイスとなる　リボン
-うっかりした　しっぱいを　おもいだして\xfffeじんせいの　エッセンスとなる　リボン
-すっきりした　けいけんを　おもいだして\xfffeじんせいを　リフレッシュさせる　リボン
-ぐっすり　ねむったことを　おもいだして\xfffeじんせいの　やすらぎとなる　リボン
-にっこり　ほほえむことを　おもいだして\xfffeじんせいを　ゆたかにしてくれる　リボン
-このうえなく　ゴージャスで\xfffeきらびやかな　かんじの　リボン
-とてつもなく　ロイヤルで\xfffeけだかい　かんじのする　リボン
-これいじょう　すばらしいものは　ない\xfffeゴージャスで　ロイヤルな　リボン
-さいこうの　あしあとを　もつ\xfffeポケモンが　もらえる　リボン
-ものすごい　きろくを　のこした\xfffeきねんの　リボン
-でんせつてき　きろくを　のこした\xfffeきねんの　リボン
-ポケモンリーグ\xfffeゆうしょう　きねんリボン
-すべての　こんなんを\xfffeのりこえた　きねんリボン
-１００にんぬき　たっせい\xfffeきねんリボン
-ポケモンリーグ\xfffeゆうしょう　きねんリボン
-ポケモンが　だいすきな　ことを\xfffeしょうめいする　きねんリボン
-きねんび　きねんリボン
-ポケモンの　イベントに\xfffeさんかした　きねんリボン
-おたんじょうび　きねん　リボン
-とくべつな　ひの　とくべつな　リボン
-とくべつな　おもいでを　きねんする　リボン
-ねがいが　かなうと　いわれている　リボン
-バトルたいかい　ゆうしょうきねんリボン
-ポケモンワールドチャンピオンシップス\xfffeエリアたいかい　ゆうしょうきねんリボン
-ポケモンワールドチャンピオンシップス\xfffeこくないたいかい　ゆうしょうきねんリボン
-ポケモンワールドチャンピオンシップス\xfffeせかいたいかい　ゆうしょうきねんリボン
-リーグリボン\xf000ȁ\x0001\x0000
-コンテストリボン\xf000ȁ\x0001\x0000
-タワーリボン\xf000ȁ\x0001\x0000
-メモリーリボン\xf000ȁ\x0001\x0000
-プレゼントリボン\xf000ȁ\x0001\x0000
+Cinta de Campeón
+Cinta Campeón de Sinnoh
+Cinta Carisma
+Cinta Carisma alto
+Cinta Carisma avanzado
+Cinta Carisma experto
+Cinta Belleza
+Cinta Belleza alto
+Cinta Belleza avanzado
+Cinta Belleza experto
+Cinta Dulzura
+Cinta Dulzura alto
+Cinta Dulzura avanzado
+Cinta Dulzura experto
+Cinta Ingenio
+Cinta Ingenio alto
+Cinta Ingenio avanzado
+Cinta Ingenio experto
+Cinta Dureza
+Cinta Dureza alto
+Cinta Dureza avanzado
+Cinta Dureza experto
+Cinta Carisma
+Cinta Carisma difícil
+Cinta Carisma superior
+Cinta Carisma experto
+Cinta Belleza
+Cinta Belleza difícil
+Cinta Belleza superior
+Cinta Belleza experto
+Cinta Dulzura
+Cinta Dulzura difícil
+Cinta Dulzura superior
+Cinta Dulzura experto
+Cinta Ingenio
+Cinta Ingenio difícil
+Cinta Ingenio superior
+Cinta Ingenio experto
+Cinta Dureza
+Cinta Dureza difícil
+Cinta Dureza superior
+Cinta Dureza experto
+Cinta Ganador
+Cinta Victoria
+Cinta Habilidad
+Cinta Gran Habilidad
+Cinta Doble Habilidad
+Cinta Habilidad Múltiple
+Cinta Habilidad Par
+Cinta Habilidad Mundial
+Cinta Artista
+Cinta Esfuerzo
+Cinta Alerta
+Cinta Impacto
+Cinta Abatimiento
+Cinta Descuido
+Cinta Relax
+Cinta Cabezada
+Cinta Sonrisa
+Cinta Maravilla
+Cinta Realeza
+Cinta Realeza Maravilla
+Cinta Huella
+Cinta Récord
+Cinta Leyenda
+Cinta Campo
+Cinta Nacional
+Cinta Planeta
+Cinta Mundo
+Cinta Clásica
+Cinta Principal
+Cinta Evento
+Cinta Cumpleaños
+Cinta Especial
+Cinta Recuerdo
+Cinta Deseo
+Cinta Campeón de Torneo
+Cinta Campeón de Área
+Cinta Campeón Nacional
+Cinta Campeón Mundial
+Cinta obtenida por superar la Liga Pokémon y\xfffeentrar en el Hall de la Fama de otra región.
+Cinta obtenida por vencer al Campeón de\xfffeSinnoh y entrar en el Hall de la Fama.
+Concurso Carisma de Hoenn\xfffe¡Ganador nivel normal!
+Concurso Carisma de Hoenn\xfffe¡Ganador nivel alto!
+Concurso Carisma de Hoenn\xfffe¡Ganador nivel avanzado!
+Concurso Carisma de Hoenn\xfffe¡Ganador nivel experto!
+Concurso Belleza de Hoenn\xfffe¡Ganador nivel normal!
+Concurso Belleza de Hoenn\xfffe¡Ganador nivel alto!
+Concurso Belleza de Hoenn\xfffe¡Ganador nivel avanzado!
+Concurso Belleza de Hoenn\xfffe¡Ganador nivel experto!
+Concurso Dulzura de Hoenn\xfffe¡Ganador nivel normal!
+Concurso Dulzura de Hoenn\xfffe¡Ganador nivel alto!
+Concurso Dulzura de Hoenn\xfffe¡Ganador nivel avanzado!
+Concurso Dulzura de Hoenn\xfffe¡Ganador nivel experto!
+Concurso Ingenio de Hoenn\xfffe¡Ganador nivel normal!
+Concurso Ingenio de Hoenn\xfffe¡Ganador nivel alto!
+Concurso Ingenio de Hoenn\xfffe¡Ganador nivel avanzado!
+Concurso Ingenio de Hoenn\xfffe¡Ganador nivel experto!
+Concurso Dureza de Hoenn\xfffe¡Ganador nivel normal!
+Concurso Dureza de Hoenn\xfffe¡Ganador nivel alto!
+Concurso Dureza de Hoenn\xfffe¡Ganador nivel avanzado!
+Concurso Dureza de Hoenn\xfffe¡Ganador nivel experto!
+Superconcurso Carisma\xfffe¡Ganador nivel normal!
+Superconcurso Carisma\xfffe¡Ganador nivel difícil!
+Superconcurso Carisma\xfffe¡Ganador nivel superior!
+Superconcurso Carisma\xfffe¡Ganador nivel experto!
+Superconcurso Belleza\xfffe¡Ganador nivel normal!
+Superconcurso Belleza\xfffe¡Ganador nivel difícil!
+Superconcurso Belleza\xfffe¡Ganador nivel superior!
+Superconcurso Belleza\xfffe¡Ganador nivel experto!
+Superconcurso Dulzura\xfffe¡Ganador nivel normal!
+Superconcurso Dulzura\xfffe¡Ganador nivel difícil!
+Superconcurso Dulzura\xfffe¡Ganador nivel superior!
+Superconcurso Dulzura\xfffe¡Ganador nivel experto!
+Superconcurso Ingenio\xfffe¡Ganador nivel normal!
+Superconcurso Ingenio\xfffe¡Ganador nivel difícil!
+Superconcurso Ingenio\xfffe¡Ganador nivel superior!
+Superconcurso Ingenio\xfffe¡Ganador nivel experto!
+Superconcurso Dureza\xfffe¡Ganador nivel normal!
+Superconcurso Dureza\xfffe¡Ganador nivel difícil!
+Superconcurso Dureza\xfffe¡Ganador nivel superior!
+Superconcurso Dureza\xfffe¡Ganador nivel experto!
+Cinta obtenida por superar el desafío\xfffede la Torre Batalla de Hoenn Nv. 50.
+Cinta obtenida por superar el desafío\xfffede la Torre Batalla de Hoenn Nv. 100.
+Cinta obtenida por vencer al Amo\xfffede la Torre en la Torre Batalla.
+Cinta obtenida por vencer al Amo\xfffede la Torre en la Torre Batalla.
+Cinta obtenida por superar el\xfffedesafío doble en la Torre Batalla.
+Cinta obtenida por superar el\xfffedesafío múlt. en la Torre Batalla.
+Cinta obtenida por superar el desafío\xfffemúlt. conexión en la Torre Batalla.
+Cinta obtenida por superar el\xfffedesafío en la Torre Batalla Wi-Fi.
+Cinta obtenida por haber sido elegido\xfffecomo supermodelo en Hoenn.
+Cinta obtenida por esforzarse\xfffeal máximo.
+Cinta que revigoriza tu energía vital\xfffeal recordarte un suceso estimulante.
+Cinta que provoca entusiasmo al recordarte\xfffeun suceso emocionante.
+Cinta que te anima al recordar tiempos\xfffepasados que fueron peores.
+Cinta que te hace pensar en la esencia de\xfffela vida al recordarte errores pasados.
+Cinta que le añade chispa a tu vida\xfffeal recordarte una experiencia estimulante.
+Cinta que te da tranquilidad al recordarte\xfffelo bueno de un sueño reconfortante.
+Cinta que enriquece tu vida al recordarte\xfffelo importante que es sonreír.
+Cinta extremadamente bonita y\xfffeextravagante.
+Cinta increíblemente majestuosa y\xfffecon aire aristocrático.
+Cinta más preciosa y majestuosa\xfffeque cualquier otra cosa en el mundo.
+Cinta concedida a un Pokémon que\xfffedeja huellas de primera.
+Cinta obtenida por establecer\xfffeun récord increíble.
+Cinta obtenida por establecer\xfffeun récord legendario.
+Cinta obtenida por vencer\xfffeen la Liga Pokémon.
+Cinta obtenida por superar\xfffetodos los desafíos difíciles.
+Cinta obtenida por lograr\xfffe100 victorias consecutivas.
+Cinta obtenida por vencer\xfffeen la Liga Pokémon.
+Cinta que demuestra que te encantan\xfffelos Pokémon.
+Cinta de vacaciones especiales.
+Cinta obtenida por participar\xfffeen un evento Pokémon.
+Cinta obtenida para celebrar\xfffeun cumpleaños.
+Cinta para conmemorar un día\xfffemuy especial.
+Cinta para mantener vivo un recuerdo\xfffemuy especial.
+Cinta que supuestamente hace que\xfffese cumplan los deseos.
+Cinta obtenida por vencer en un Torneo.
+Cinta de campeón regional del Campeonato\xfffeMundial de Videojuegos Pokémon.
+Cinta de campeón nacional del Campeonato\xfffeMundial de Videojuegos Pokémon.
+Cinta de campeón del Campeonato\xfffeMundial de Videojuegos Pokémon.
+Cinta de Liga \xf000ȁ\x0001\x0000
+Cinta de Concurso \xf000ȁ\x0001\x0000
+Cinta de Torre \xf000ȁ\x0001\x0000
+Cinta Recordatorio \xf000ȁ\x0001\x0000
+Cinta Regalo \xf000ȁ\x0001\x0000
