@@ -103,10 +103,10 @@ Un tanto terco.
 ２０\xf000ȁ\x0001\x0005ねん\xf000ȁ\x0001\x0006がつ\xf000ȁ\x0001\x0007にち\xfffe\xf000\xff00\x0001\x0002\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000で\xfffeてにいれた　ふしぎな\xfffeポケモンの　タマゴ。\xfffe
 ２０\xf000ȁ\x0001\x0005ねん\xf000ȁ\x0001\x0006がつ\xf000ȁ\x0001\x0007にち\xfffe\xf000\xff00\x0001\x0001\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000で\xfffeてにいれた　とっても\xfffeふしぎな　ふしぎな\xfffeポケモンの　タマゴ。\xfffe
 ２０\xf000ȁ\x0001\x0005ねん\xf000ȁ\x0001\x0006がつ\xf000ȁ\x0001\x0007にち\xfffe\xf000\xff00\x0001\x0002\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000から\xfffeやってきた　とっても\xfffeふしぎな　ふしぎな\xfffeポケモンの　タマゴ。\xfffe
-「タマゴのようす」\xfffe¡Se puede oír sonidos viendo de\xfffedentro!\xfffe¡Incubará dentro de poco!
-「タマゴのようす」\xfffeAparece a mover de vez en\xfffecuando. ¡Puede ser pronto a\xfffeincubar!
-「タマゴのようす」\xfffe¿Qué incubará de eso?\xfffeNo parece a ser pronto a\xfffeincubar.
-「タマゴのようす」\xfffeSerá un largo tiempo hasta que\xfffeel huevo incuba.
+“Vigilando el Huevo”\xfffeEstá haciendo ruidos.\xfffe¡Está a punto\xfffede eclosionar!
+“Vigilando el Huevo”\xfffeA veces se mueve.\xfffeDebería abrirse pronto.
+“Vigilando el Huevo”\xfffe¿Qué saldrá? Aún le\xfffequeda para abrirse...
+“Vigilando el Huevo”\xfffeParece que a este Huevo\xfffele va a costar abrirse.
 CARACTERÍSTICAS
 PS
 Ataque
@@ -124,10 +124,10 @@ Habilidad
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 \xf000Ć\x0001\x0000
-Condición
+ESTADO
 けづや
-Movimientos
-くわしく
+MOVIMINETOS
+DETALLES
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
@@ -150,47 +150,47 @@ Precisión
 Categoría
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
-いれかえ
+CAMBIO
 ――
 ―
-けってい
-¡Movimientos MOs no pueden ser\xfffeolvidados ahora!
-パフォーマンス
-くわしく
-けってい
-アピールポイント
-もどる
-もどります
-けってい
-もどる
-すきなたべもの
-\xf000\xff00\x0001\x0002からい\xf000\xff00\x0001\x0000のがすき
-\xf000\xff00\x0001\x0002しぶい\xf000\xff00\x0001\x0000のがすき
-\xf000\xff00\x0001\x0002あまい\xf000\xff00\x0001\x0000のがすき
-\xf000\xff00\x0001\x0002にがい\xf000\xff00\x0001\x0000のがすき
-\xf000\xff00\x0001\x0002すっぱい\xf000\xff00\x0001\x0000のがすき
-すききらいなし
-かっこよさに　みがきが　かかった！
-たくましさに　みがきが　かかった！
-うつくしさに　みがきが　かかった！
-かわいさに　みがきが　かかった！
-かしこさに　みがきが　かかった！
+VALE
+¡LOS Movimientos MOs no pueden ser\xfffeolvidados así!
+RENDIMIENTO
+INFO.
+SELECT
+P. ATRACCIÓN
+VOLVER
+REGRESAR
+SELECT
+VOLVER
+COMIDA FAV.
+\xf000\xff00\x0001\x0002 le gusta\xf000\xff00\x0001\x0000 lo Picante
+\xf000\xff00\x0001\x0002 le gusta\xf000\xff00\x0001\x0000 lo Seco
+\xf000\xff00\x0001\x0002 le gusta\xf000\xff00\x0001\x0000 lo Dulce
+\xf000\xff00\x0001\x0002 le gusta\xf000\xff00\x0001\x0000 lo Amargo
+\xf000\xff00\x0001\x0002 le gusta\xf000\xff00\x0001\x0000 lo Ácido
+Sin preferencia
+¡Ha aumentado la Carisma!
+¡Ha aumentado la Dureza!
+¡Ha aumentado la Belleza!
+¡Ha aumentado la Dulzura!
+¡Ha aumentado el Ingenio!
 Nada ha cambiado.
-もう　これいじょう　たべないみたい
-きねんリボン
-くわしく
-もどる
-もっているかず
+No va a comer más.
+CINTAS
+INFO.
+VOLVER
+N.º de Cintas:
 \xf000Ȃ\x0001\x0000こ
 \xf000Ȃ\x0001\x0000
 ／
 \xf000Ȃ\x0001\x0000
-Velocidad
-Poder
-Técnica
-Resistencia
-Saltar
-かがやくはっぱ
-わすれさせる！
-\xf000봂\x0000いれかえ
-イベントリボン\xf000ȁ\x0001\x0000
+VELOCIDAD
+FORTALEZA
+PRECISIÓN
+RESISTENCIA
+SALTO
+HOJA DORADA
+OLVIDAR
+CAMBIAR\xf000봂\x0000
+CINTAS DE EVENTOS\xf000ȁ\x0001\x0000
