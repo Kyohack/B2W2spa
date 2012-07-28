@@ -45,12 +45,12 @@ CAJA DE COMBATE
 No se puede mover la Carta.
 No puede llevar la \xf000ĉ\x0001\x0000.
 Lleva una Carta.
-¡Ese es tu último Pokémon!
-No se puede mover la Carta.
-Aquí no puedes darle una Carta.
-No puedes elegir un Huevo.
+¡Has quedado sin Pokémon que puedan luchar!
+¡No puedes mover cartas!
+No puedes llevar cartas aquí.
+¡No puedes seleccionar Huevos!
 \xf000Ă\x0001\x0000 se irá a la cama.\xfffe¿Estás de acuerdo?
 Parece que ahora no tiene sueño.
 ¿Quieres continuar la selección?
-La Caja de Combate está bloqueada.\xfffeNo se pueden mover los Pokémon.
-La Caja de Combate está bloqueada.\xfffeNo se pueden cambiar los objetos.
+Tu Caja de Combate está cerrada.\xfffeNo puedes mover tus Pokémon.
+Tu Caja de Combate está cerrada.\xfffeNo puede dar o quitar objetos.
