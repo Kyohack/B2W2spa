@@ -1,5 +1,5 @@
 \xf000Ā\x0001\x0000
-ＩＤ\xf000Ȅ\x0001\x0000
+ID\xf000Ȅ\x0001\x0000
 Esperando a \xf000Ȁ\x0001\x0000 más.
 N.º de plazas libres: \xf000Ȁ\x0001\x0000.
 Reuniendo jugadores para Comb. Múltiple.
@@ -17,7 +17,7 @@ Si el anfitrión abandona, el grupo se\xfffedisolverá. ¿Quieres continuar?
 Se cancelará el Combate Múltiple.
 Se cancelará el Musical.
 Se cancelará el Metro Batalla.
-つごうの　わるくなってしまった\xfffeメンバーが　います
+Algunos miembros tienen\xfffedificultades técnicas.
 No hay miembros.\xfffeSe cancelará el Combate Múltiple.
 Por favor, espera.\xfffeBotón B: Cancelar
 Por favor, espera.
