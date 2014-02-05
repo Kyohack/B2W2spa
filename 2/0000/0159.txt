@@ -1,12 +1,12 @@
-ことばを　えらんでね！
-たいせんまえの　ことばを　かんがえよう
-かったときの　きめゼリフを　かんがえよう
-まけたときの　いいわけを　かんがえよう
-はやっている　ものは？
-ユニオンあいさつを　かんがえよう
-これで　いいですか？
-なにか　ことばを　いれてください！
-なにも　しないで　やめますか？
+Elige una palabra.
+Agrega una introducción pre-batalla!
+Agrega una increíble frase de victoria!
+Agrega una excusa de perdedor!
+¿Qué está a la moda?
+Agrega un Saludo para la Sala Unión!
+¿Es correcto?
+¡Dílo en una palabra!
+¿Dejar de agregar?
 SI
 NO
 GRUPO\xfffeModo
