@@ -199,7 +199,7 @@
 
 
 
-あるすがた
+Una forma
 
 
 
@@ -349,7 +349,7 @@
 
 
 
-ポワルンのすがた
+Normal
 
 
 
@@ -384,7 +384,7 @@
 
 
 
-ノーマルフォルム
+Forma Normal
 
 
 
@@ -410,8 +410,8 @@
 
 
 
-くさきのミノ
-くさきのミノ
+Planta Caparazón
+Planta Caparazón
 
 
 
@@ -419,9 +419,9 @@
 
 
 
-ネガフォルム
-にしのうみ
-にしのうみ
+Forma Cubierta
+Mar del Oeste
+Mar del Oeste
 
 
 
@@ -477,7 +477,7 @@
 
 
 
-ロトムのすがた
+Rotom
 
 
 
@@ -485,13 +485,13 @@
 
 
 
-アナザーフォルム
+Forma Alterada
 
 
 
 
-ランドフォルム
-アルセウスのすがた
+Forma Terrestre
+Arceus
 
 
 
@@ -548,12 +548,12 @@
 
 
 
-あかすじのすがた
+Forma Rojiza
 
 
 
 
-ノーマルモード
+Modo Estándar
 
 
 
@@ -583,8 +583,8 @@
 
 
 
-はるのすがた
-はるのすがた
+Forma Primavera
+Forma Primavera
 
 
 
@@ -639,51 +639,51 @@
 
 
 
-けしんフォルム
-けしんフォルム
+Forma Avatar
+Forma Avatar
 
 
-けしんフォルム
-キュレムのすがた
-いつものすがた
-ボイスフォルム
-ゲノセクトのすがた
+Forma Avatar
+Forma Kyurem
+Forma Ordinaria
+Forma Aria
+Genesect
 
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-たいようのすがた
-あまみずのすがた
-ゆきぐものすがた
-アタックフォルム
-ディフェンスフォルム
-スピードフォルム
-すなちのミノ
-ゴミのミノ
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Una Forma
+Forma Soleada
+Forma Lluviosa
+Forma Nívea
+Forma de Ataque
+Forma de Defensa
+Forma De Velocidad
+Manto Arenoso
+Manto Basura
 すなちのミノ
 ゴミのミノ
 ポジフォルム
